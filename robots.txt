@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /nhactuyenchon/nhac-chon-loc.html
+Allow: /nhactuyenchon/chon-loc.amp.html
