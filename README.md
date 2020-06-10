@@ -40,6 +40,6 @@ Thương mại trực tuyến brvt hỗ trợ doanh nghiệp, ngân hàng, nhà 
 </tr>
 <tr>
 <th><img alt="do ngu" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhtintucthuongmai/dongu.jpg" width="64px" height="64px"></th>
-<th>quảng bá sản phẩm thời trang <a href="https://www.pinterest.com/pin/826832812826087876/" target="_blank" title="đồ ngủ">đồ ngủ</a> thiếu nữ</th>
+<th>quảng bá sản phẩm thời trang <a href="https://www.pinterest.com/pin/826832812826087265/" target="_blank" title="đồ ngủ">đồ ngủ</a> thiếu nữ</th>
 </tr>
 </table>
