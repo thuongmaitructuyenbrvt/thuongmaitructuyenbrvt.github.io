@@ -23,7 +23,7 @@ Thương mại trực tuyến brvt hỗ trợ doanh nghiệp, ngân hàng, nhà 
 <th><a href="https://join.skype.com/nFE0GoIAszSa" target="_blank">skype</a></th>
 <th><a href="https://twitter.com/messages/compose?recipient_id=1226715199664615426&text=H%E1%BB%97%20tr%E1%BB%A3:%20" target="_blank">twitter</a></th>
 </tr>
-</table>
+</table></div>
 
 <hr>
 
