@@ -12,18 +12,18 @@ Thương mại trực tuyến brvt hỗ trợ doanh nghiệp, ngân hàng, nhà 
 <li>Tiếp tân: chụp quầy thu ngân, đại sảnh tiếp tân hay phòng tiếp khách, nội dung bài viết nói về trình độ và nhân cách phục vụ không chỉ của nhân viên</li>
 <li>Sản phẩm: chụp bao quát mô hình sản phẩm thương mại, quang cảnh nhà hàng, quán ăn, nội dung bài viết chỉ nói về danh mục sản phẩm hay nét đặc trưng của ẩm thực, không đi sâu vào chi tiết, có thể kèm các sự kiện cố định trong năm</li>
 </ul>
-<div style="text-align:center;"><table style="width:100%;">
+<table style="width:100%;">
 <tr>
 <th><a href="https://hangouts.google.com/call/hqgbfrzomzcgjnfm6mupnqmq3ae" target="_blank">hangout</a></th>
 <th><a href="https://join.skype.com/nFE0GoIAszSa" target="_blank">skype</a></th>
 <th><a href="https://twitter.com/messages/compose?recipient_id=1226715199664615426&text=H%E1%BB%97%20tr%E1%BB%A3:%20" target="_blank">twitter</a></th>
 </tr>
 <tr>
-<th><a href="https://hangouts.google.com/call/hqgbfrzomzcgjnfm6mupnqmq3ae" target="_blank">hangout</a></th>
-<th><a href="https://join.skype.com/nFE0GoIAszSa" target="_blank">skype</a></th>
-<th><a href="https://twitter.com/messages/compose?recipient_id=1226715199664615426&text=H%E1%BB%97%20tr%E1%BB%A3:%20" target="_blank">twitter</a></th>
+<th><a href="https://m.me/thuongmaigithub" target="_blank">facebook</a></th>
+<th><a href="https://www.youtube.com/watch?v=tzdC3wWVmIQ" target="_blank">stream</a></th>
+<th><a href="https://gitter.im/thuong-mai-brvt/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge" target="_blank">gitter</a></th>
 </tr>
-</table></div>
+</table>
 
 <hr>
 
