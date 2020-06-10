@@ -32,10 +32,10 @@ Thương mại trực tuyến brvt hỗ trợ doanh nghiệp, ngân hàng, nhà 
 <table style="width:100%;">
 <tr>
 <th>sản phẩm</th>
-<th>tính năng & sử dụng</th>
+<th>tính năng</th>
 </tr>
 <tr>
 <th><img alt="do lot" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhtintucthuongmai/dolot.jpg" width="64px" height="64px"></th>
-<th>Sản phẩm thời trang đồ lót</th>
+<th>quảng bá sản phẩm thời trang <a href="https://www.pinterest.com/pin/826832812826087876/" target="_blank" title="đồ lót">đồ lót</a> thiếu nữ</th>
 </tr>
 </table>
