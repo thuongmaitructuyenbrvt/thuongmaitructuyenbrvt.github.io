@@ -29,3 +29,13 @@ Thương mại trực tuyến brvt hỗ trợ doanh nghiệp, ngân hàng, nhà 
 
 ## sản phẩm thương mại
 &#10032; Thương mại trực tuyến brvt hỗ trợ đa dạng mặt hàng nông nghiệp, công nghiệp, thời trang, ẩm thực không chỉ khối doanh nghiệp trên địa bàn.
+<table style="width:100%;">
+<tr>
+<th>sản phẩm</th>
+<th>tính năng & sử dụng</th>
+</tr>
+<tr>
+<th><a href="https://m.me/thuongmaigithub" target="_blank">facebook</a></th>
+<th><a href="https://www.youtube.com/watch?v=tzdC3wWVmIQ" target="_blank">stream</a></th>
+</tr>
+</table>
