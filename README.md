@@ -13,5 +13,7 @@ Thương mại trực tuyến brvt hỗ trợ doanh nghiệp, ngân hàng, nhà 
 <li>Sản phẩm: chụp bao quát mô hình sản phẩm thương mại, quang cảnh nhà hàng, quán ăn, nội dung bài viết chỉ nói về danh mục sản phẩm hay nét đặc trưng của ẩm thực, không đi sâu vào chi tiết, có thể kèm các sự kiện cố định trong năm</li>
 </ul>
 
+<hr>
+
 ## SẢN PHẨM THƯƠNG MẠI
 &#10032; Thương mại trực tuyến brvt hỗ trợ đa dạng mặt hàng nông nghiệp, công nghiệp, thời trang, ẩm thực không chỉ khối doanh nghiệp trên địa bàn.
