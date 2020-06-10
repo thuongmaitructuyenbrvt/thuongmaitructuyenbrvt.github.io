@@ -2,4 +2,4 @@ $ dig www.thuongmaitructuyenbrvt.com +nostats +nocomments +nocmd
   > ;www.thuongmaitructuyenbrvt.com.                IN      A
   > www.thuongmaitructuyenbrvt.com.         3592    IN      CNAME   thuongmaitructuyenbrvt.github.io.
   > thuongmaitructuyenbrvt.github.io.       43192   IN      CNAME   GITHUB-PAGES-SERVER .
-  >  GITHUB-PAGES-SERVER .                  22      IN      A       192.0.2.1
+  > GITHUB-PAGES-SERVER .                   22      IN      A       192.0.2.1
