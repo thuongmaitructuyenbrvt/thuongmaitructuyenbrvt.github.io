@@ -12,3 +12,6 @@ Thương mại trực tuyến brvt hỗ trợ doanh nghiệp, ngân hàng, nhà 
 <li>Tiếp tân: chụp quầy thu ngân, đại sảnh tiếp tân hay phòng tiếp khách, nội dung bài viết nói về trình độ và nhân cách phục vụ không chỉ của nhân viên</li>
 <li>Sản phẩm: chụp bao quát mô hình sản phẩm thương mại, quang cảnh nhà hàng, quán ăn, nội dung bài viết chỉ nói về danh mục sản phẩm hay nét đặc trưng của ẩm thực, không đi sâu vào chi tiết, có thể kèm các sự kiện cố định trong năm</li>
 </ul>
+
+## SẢN PHẨM THƯƠNG MẠI
+&#10032; Thương mại trực tuyến brvt hỗ trợ đa dạng mặt hàng nông nghiệp, công nghiệp, thời trang, ẩm thực không chỉ khối doanh nghiệp trên địa bàn.
