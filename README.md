@@ -46,4 +46,16 @@ Thương mại trực tuyến brvt hỗ trợ doanh nghiệp, ngân hàng, nhà 
 <th><img alt="quan da" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhtintucthuongmai/quanda.jpg" width="64px" height="64px"></th>
 <th>quảng bá sản phẩm thời trang <a href="https://www.pinterest.com/pin/826832812826087954/" target="_blank" title="quần da">quần da</a> thiếu nữ</th>
 </tr>
+<tr>
+<th><img alt="quan short" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhtintucthuongmai/shortjeans.jpg" width="64px" height="64px"></th>
+<th>quảng bá sản phẩm thời trang <a href="https://www.pinterest.com/pin/826832812826087632/" target="_blank" title="quần short">quần short</a> thiếu nữ</th>
+</tr>
+<tr>
+<th><img alt="quan short" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhtintucthuongmai/legging.jpg" width="64px" height="64px"></th>
+<th>quảng bá sản phẩm thời trang <a href="https://www.pinterest.com/pin/826832812826087551/" target="_blank" title="quần legging">quần legging</a> thiếu nữ</th>
+</tr>
+<tr>
+<th><img alt="quan short" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhtintucthuongmai/vayngan.jpg" width="64px" height="64px"></th>
+<th>quảng bá sản phẩm thời trang <a href="https://www.pinterest.com/pin/826832812826087405/" target="_blank" title="váy ngắn">váy ngắn</a> thiếu nữ</th>
+</tr>
 </table>
