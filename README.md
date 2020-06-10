@@ -15,6 +15,8 @@ Thương mại trực tuyến brvt hỗ trợ doanh nghiệp, ngân hàng, nhà 
 <table style="width:100%;">
 <tr>
 <td><a href="https://hangouts.google.com/call/hqgbfrzomzcgjnfm6mupnqmq3ae" target="_blank">hangout</a></td>
+<td><a href="https://join.skype.com/nFE0GoIAszSa" target="_blank">skype</a></td>
+<td><a href="https://twitter.com/messages/compose?recipient_id=1226715199664615426&text=H%E1%BB%97%20tr%E1%BB%A3:%20" target="_blank">twitter</a></td>
 </tr>
 </table>
 
