@@ -4,7 +4,7 @@ Thương mại trực tuyến brvt hỗ trợ doanh nghiệp, ngân hàng, nhà 
 
 <hr>
 
-## THƯƠNG MẠI BRVT
+## thương mại brvt
 &#10032; Thương mại trực tuyến brvt hỗ trợ miễn phí 1 bài viết quảng bá thương hiệu doanh nghiệp trong tài nguyên quốc tế thuongmaibrvt và ma trận toàn cầu youtube, pinterest, twitter, tumblr, facebook... với đầy đủ hiệu ứng article, product, recipe, howto, organization.<br>
 &#10032; Yêu cầu đơn giản, quay ngang điện thoại chụp 3 tấm hình 4x3 (ngoại cảnh, tiếp tân, sản phẩm) kèm theo thông tin chi tiết của từng tấm và mã số thuế nếu có, ảnh sửa đổi bị tạp chí wiki từ chối đồng nghĩa với việc thương mại brvt hủy bỏ hỗ trợ, nội dung chi tiết có thể trao đổi thêm trong khung chat.<br>
 <ul>
@@ -22,5 +22,5 @@ Thương mại trực tuyến brvt hỗ trợ doanh nghiệp, ngân hàng, nhà 
 
 <hr>
 
-## SẢN PHẨM THƯƠNG MẠI
+## sản phẩm thương mại
 &#10032; Thương mại trực tuyến brvt hỗ trợ đa dạng mặt hàng nông nghiệp, công nghiệp, thời trang, ẩm thực không chỉ khối doanh nghiệp trên địa bàn.
