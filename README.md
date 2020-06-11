@@ -36,7 +36,15 @@ Thương mại trực tuyến brvt hỗ trợ doanh nghiệp, ngân hàng, nhà 
 </tr>
 <tr>
 <th><img alt="danh muc itemlist" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhtintucthuongmai/itemlist-hieuung.jpg" width="64px"></th>
-<th>Thương mại trực tuyến brvt giới thiệu đến doanh nghiệp giải pháp hiển thị nội dung đa bài viết đến khách hàng trên 1 trang tìm kiếm theo 2 định dạng <a href="https://thuongmaitructuyenbrvt.github.io/tintucthuongmai/danh-muc-itemlist.html" target="_blank" title="danh mục itemlist">danh mục</a> menu itemlist hay slideshow ảnh itemlist</th>
+<th>thương mại trực tuyến brvt giới thiệu đến doanh nghiệp giải pháp hiển thị nội dung đa bài viết đến khách hàng trên 1 trang tìm kiếm theo 2 định dạng <a href="https://thuongmaitructuyenbrvt.github.io/tintucthuongmai/danh-muc-itemlist.html" target="_blank" title="danh mục itemlist">danh mục</a> menu itemlist hay slideshow ảnh itemlist</th>
+</tr>
+<tr>
+<th><img alt="am thuc recipe" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhtintucthuongmai/amthucrecipe.jpg" width="64px"></th>
+<th>thương mại trực tuyến brvt giới thiệu đến doanh nghiệp giải pháp khai thác công thức chế biến món ăn <a href="https://thuongmaitructuyenbrvt.github.io/tintucthuongmai/am-thuc-recipe.html" target="_blank" title="ẩm thực recipe">ẩm thực recipe</a> chuyên nghiệp</th>
+</tr>
+<tr>
+<th><img alt="web thuong mai 55GB" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhtintucthuongmai/mediafirehosting.jpg" width="64px"></th>
+<th>thương mại brvt chia sẽ đến doanh nghiệp giải pháp bán hàng hiệu quả với <a href="https://thuongmaitructuyenbrvt.github.io/tintucthuongmai/web-thuong-mai-mediafire-55gb-283000.html" target="_blank" title="web thương mại 55GB">web thương mại mediafire 55GB</a> giá 283000 một năm sử dụng tên miền fast.io kết hợp google domain, dễ dàng cấu hình, tốc độ hoàn hảo, bảo mật google dnssec, tính năng tin tức www cao cấp hiệu quả toàn cầu</th>
 </tr>
 </table>
 
