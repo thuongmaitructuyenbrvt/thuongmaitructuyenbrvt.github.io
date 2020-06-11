@@ -35,43 +35,43 @@ Thương mại trực tuyến brvt hỗ trợ doanh nghiệp, ngân hàng, nhà 
 <th>tính năng</th>
 </tr>
 <tr>
-<th><img alt="do lot" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhtintucthuongmai/dolot.jpg" width="64px" height="64px"></th>
+<th><img alt="do lot" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhtintucthuongmai/dolot.jpg" width="64px"></th>
 <th>quảng bá sản phẩm thời trang <a href="https://www.pinterest.com/pin/826832812826087876/" target="_blank" title="đồ lót">đồ lót</a> thiếu nữ</th>
 </tr>
 <tr>
-<th><img alt="do ngu" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhtintucthuongmai/dongu.jpg" width="64px" height="64px"></th>
+<th><img alt="do ngu" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhtintucthuongmai/dongu.jpg" width="64px"></th>
 <th>quảng bá sản phẩm thời trang <a href="https://www.pinterest.com/pin/826832812826087265/" target="_blank" title="đồ ngủ">đồ ngủ</a> thiếu nữ</th>
 </tr>
 <tr>
-<th><img alt="quan da" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhtintucthuongmai/quanda.jpg" width="64px" height="64px"></th>
+<th><img alt="quan da" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhtintucthuongmai/quanda.jpg" width="64px"></th>
 <th>quảng bá sản phẩm thời trang <a href="https://www.pinterest.com/pin/826832812826087954/" target="_blank" title="quần da">quần da</a> thiếu nữ</th>
 </tr>
 <tr>
-<th><img alt="quan short" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhtintucthuongmai/shortjeans.jpg" width="64px" height="64px"></th>
+<th><img alt="quan short" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhtintucthuongmai/shortjeans.jpg" width="64px"></th>
 <th>quảng bá sản phẩm thời trang <a href="https://www.pinterest.com/pin/826832812826087632/" target="_blank" title="quần short">quần short</a> thiếu nữ</th>
 </tr>
 <tr>
-<th><img alt="quan short" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhtintucthuongmai/legging.jpg" width="64px" height="64px"></th>
+<th><img alt="quan short" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhtintucthuongmai/legging.jpg" width="64px"></th>
 <th>quảng bá sản phẩm thời trang <a href="https://www.pinterest.com/pin/826832812826087551/" target="_blank" title="quần legging">quần legging</a> thiếu nữ</th>
 </tr>
 <tr>
-<th><img alt="quan short" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhtintucthuongmai/vayngan.jpg" width="64px" height="64px"></th>
+<th><img alt="quan short" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhtintucthuongmai/vayngan.jpg" width="64px"></th>
 <th>quảng bá sản phẩm thời trang <a href="https://www.pinterest.com/pin/826832812826087405/" target="_blank" title="váy ngắn">váy ngắn</a> thiếu nữ</th>
 </tr>
 <tr>
-<th><img alt="website thuong mai amp" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/mobiledamcuoi.jpg" width="64px" height="64px"></th>
+<th><img alt="website thuong mai amp" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/mobiledamcuoi.jpg" width="64px"></th>
 <th><a href="https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/website-thuong-mai-amp.html" target="_blank" title="website thương mại amp">website thương mại amp</a> chuẩn seo giá rẻ, khai thác ma trận từ khóa thiết bị di động, hỗ trợ 100% hiệu ứng cấu trúc dữ liệu chuyên nghiệp, giải pháp bán hàng trực tuyến đa ngành nghề doanh nghiệp kinh doanh bán lẻ, thời trang, trang sức, đầm cưới, tài chính</th>
 </tr>
 <tr>
-<th><img alt="website thuong mai bootstrap" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/entertainmentnecromancers.jpg" width="64px" height="64px"></th>
+<th><img alt="website thuong mai bootstrap" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/entertainmentnecromancers.jpg" width="64px"></th>
 <th><a href="https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/website-thuong-mai-bootstrap.html" target="_blank" title="website thương mại bootstrap">website thương mại bootstrap</a> chuẩn seo giá rẻ, khai thác ma trận từ khóa, hỗ trợ 70% hiệu ứng cấu trúc dữ liệu seo chuyên nghiệp, giải pháp bán hàng trực tuyến đa ngành nghề doanh nghiệp, sáng tạo, giải trí, phi chính phủ, bán lẻ, công nghệ, khoảnh khắc</th>
 </tr>
 <tr>
-<th><img alt="website thuong mai wordpress" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhhoangthinhphat/hoangthinhphatbanggia.jpg" width="64px" height="64px"></th>
+<th><img alt="website thuong mai wordpress" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhhoangthinhphat/hoangthinhphatbanggia.jpg" width="64px"></th>
 <th>thiết kế website giá rẻ hiện đang là một xu hướng được nhiều người dùng vì giá cả hợp lí, website thiết kế đẹp, chuẩn seo, hãy quảng bá sản phẩm của mình đến 20.000+ doanh nghiệp và thương hiệu bậc nhất tại Việt Nam đang tin dùng <a href="https://thuongmaitructuyenbrvt.github.io/hoangthinhphat/thiet-ke-website-thuong-mai-wordpress.html" target="_blank" title="website thương mại wordpress">website thương mại wordpress</a> do Hoàng Thịnh Phát thiết kế</th>
 </tr>
 <tr>
-<th><img alt="giay in hoa don" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhhoangthinhphat/giayinhoadon.jpg" width="64px" height="64px"></th>
+<th><img alt="giay in hoa don" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhhoangthinhphat/giayinhoadon.jpg" width="64px"></th>
 <th><a href="https://thuongmaitructuyenbrvt.github.io/hoangthinhphat/giay-in-hoa-don-thuong-mai.html" target="_blank" title="giấy in hóa đơn">giấy in hóa đơn</a> thương mại đa năng cho máy tính tiền, máy in hoá đơn, máy atm ngân hàng, hoá đơn tính tiền điện lực, máy fax, mã vạch thẻ xe, máy pos và các thiết bị tính tiền khác</th>
 </tr>
 <tr>
