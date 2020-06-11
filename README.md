@@ -72,6 +72,10 @@ Thương mại trực tuyến brvt hỗ trợ doanh nghiệp, ngân hàng, nhà 
 </tr>
 <tr>
 <th><img alt="giay in hoa don" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhhoangthinhphat/giayinhoadon.jpg" width="64px" height="64px"></th>
-<th><a href="https://thuongmaitructuyenbrvt.github.io/hoangthinhphat/thiet-ke-website-thuong-mai-wordpress.html" target="_blank" title="giấy in hóa đơn">giấy in hóa đơn</a> thương mại đa năng cho máy tính tiền, máy in hoá đơn, máy atm ngân hàng, hoá đơn tính tiền điện lực, máy fax, mã vạch thẻ xe, máy pos và các thiết bị tính tiền khác</th>
+<th><a href="https://thuongmaitructuyenbrvt.github.io/hoangthinhphat/giay-in-hoa-don-thuong-mai.html" target="_blank" title="giấy in hóa đơn">giấy in hóa đơn</a> thương mại đa năng cho máy tính tiền, máy in hoá đơn, máy atm ngân hàng, hoá đơn tính tiền điện lực, máy fax, mã vạch thẻ xe, máy pos và các thiết bị tính tiền khác</th>
+</tr>
+<tr>
+<th><img alt="phan mem ban hang" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhhoangthinhphat/phanmemvinpos.jpg" width="64px" height="auto"></th>
+<th>Thương mại trực tuyến brvt giới thiệu giải pháp kinh doanh với <a href="https://thuongmaitructuyenbrvt.github.io/hoangthinhphat/phan-mem-ban-hang.html" target="_blank" title="phần mềm bán hàng">phần mềm bán hàng</a> đa kênh vinpos</th>
 </tr>
 </table>
