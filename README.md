@@ -44,15 +44,23 @@ Thương mại trực tuyến brvt hỗ trợ doanh nghiệp, ngân hàng, nhà 
 </tr>
 <tr>
 <th><img alt="web thuong mai 55GB" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhtintucthuongmai/mediafirehosting.jpg" width="64px"></th>
-<th>thương mại brvt chia sẽ đến doanh nghiệp giải pháp bán hàng hiệu quả với <a href="#" target="_blank" title="web thương mại 55GB">web thương mại mediafire 55GB</a> giá 283000 một năm sử dụng tên miền fast.io kết hợp google domain, dễ dàng cấu hình, tốc độ hoàn hảo, bảo mật google dnssec, tính năng tin tức www cao cấp hiệu quả toàn cầu</th>
+<th>thương mại trực tuyến brvt chia sẽ đến doanh nghiệp giải pháp bán hàng hiệu quả với <a href="#" target="_blank" title="web thương mại 55GB">web thương mại mediafire 55GB</a> giá 283000 một năm sử dụng tên miền fast.io kết hợp google domain, dễ dàng cấu hình, tốc độ hoàn hảo, bảo mật google dnssec, tính năng tin tức www cao cấp hiệu quả toàn cầu</th>
 </tr>
 <tr>
 <th><img alt="bai viet article" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhtintucthuongmai/articlestoriesreview.jpg" width="64px"></th>
-<th>thương mại brvt giới thiệu đến doanh nghiệp giải pháp khai thác <a href="#" target="_blank" title="bài viết article">bài viết article</a> quảng bá tin tức thương mại chuyên nghiệp</th>
+<th>thương mại trực tuyến brvt giới thiệu đến doanh nghiệp giải pháp khai thác <a href="#" target="_blank" title="bài viết article">bài viết article</a> quảng bá tin tức thương mại chuyên nghiệp</th>
 </tr>
 <tr>
 <th><img alt="ban do doanh nghiep business" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhtintucthuongmai/googlebusinessvideo.jpg" width="64px"></th>
-<th>thương mại brvt giới thiệu giải pháp khai thác <a href="#" target="_blank" title="bản đồ doanh nghiệp business">bản đồ doanh nghiệp business</a> tăng chất lượng hiển thị nội dung đến khách hàng</th>
+<th>thương mại trực tuyến brvt giới thiệu giải pháp khai thác <a href="#" target="_blank" title="bản đồ doanh nghiệp business">bản đồ doanh nghiệp business</a> tăng chất lượng hiển thị nội dung đến khách hàng</th>
+</tr>
+<tr>
+<th><img alt="tin tuc thuong mai google news" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhtintucthuongmai/googlepublishnews.jpg" width="64px"></th>
+<th>thương mại trực tuyến brvt giới thiệu giải pháp khai thác <a href="#" target="_blank" title="tin tức thương mại google news">tin tức thương mại google news</a> quảng bá nội dung thương hiệu đến khách hàng</th>
+</tr>
+<tr>
+<th><img alt="quang ba thuong hieu pinterest" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhtintucthuongmai/thuongmaipinterest.jpg" width="64px"></th>
+<th>thương mại trực tuyến brvt giới thiệu giải pháp khai thác hình ảnh trực tuyến <a href="#" target="_blank" title="quảng bá thương hiệu pinterest">quảng bá thương hiệu pinterest</a> toàn cầu</th>
 </tr>
 </table>
 
