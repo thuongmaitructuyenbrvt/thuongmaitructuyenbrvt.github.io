@@ -76,6 +76,6 @@ Thương mại trực tuyến brvt hỗ trợ doanh nghiệp, ngân hàng, nhà 
 </tr>
 <tr>
 <th><img alt="phan mem ban hang" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhhoangthinhphat/phanmemvinpos.jpg" width="64px" height="auto"></th>
-<th>Thương mại trực tuyến brvt giới thiệu giải pháp kinh doanh với <a href="https://thuongmaitructuyenbrvt.github.io/hoangthinhphat/phan-mem-ban-hang.html" target="_blank" title="phần mềm bán hàng">phần mềm bán hàng</a> đa kênh vinpos</th>
+<th>thương mại trực tuyến brvt giới thiệu giải pháp kinh doanh với <a href="https://thuongmaitructuyenbrvt.github.io/hoangthinhphat/phan-mem-ban-hang.html" target="_blank" title="phần mềm bán hàng">phần mềm bán hàng</a> đa kênh vinpos</th>
 </tr>
 </table>
