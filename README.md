@@ -36,7 +36,7 @@ Thương mại trực tuyến brvt hỗ trợ doanh nghiệp, ngân hàng, nhà 
 </tr>
 <tr>
 <th><img alt="danh muc itemlist" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhtintucthuongmai/itemlist-hieuung.jpg" width="64px"></th>
-<th>thương mại trực tuyến brvt giới thiệu đến doanh nghiệp giải pháp hiển thị nội dung đa bài viết đến khách hàng trên 1 trang tìm kiếm theo 2 định dạng <a href="#" target="_blank" title="danh mục itemlist">danh mục</a> menu itemlist hay slideshow ảnh itemlist</th>
+<th>thương mại trực tuyến brvt giới thiệu đến doanh nghiệp giải pháp khai thác <a href="#" target="_blank" title="danh mục itemlist">danh mục itemlist</a> hiển thị nội dung đa bài viết đến khách hàng trên 1 trang tìm kiếm theo 2 định dạng menu itemlist hay slideshow ảnh itemlist</th>
 </tr>
 <tr>
 <th><img alt="am thuc recipe" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhtintucthuongmai/amthucrecipe.jpg" width="64px"></th>
