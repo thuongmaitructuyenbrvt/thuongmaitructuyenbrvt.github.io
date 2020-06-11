@@ -58,4 +58,8 @@ Thương mại trực tuyến brvt hỗ trợ doanh nghiệp, ngân hàng, nhà 
 <th><img alt="quan short" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhtintucthuongmai/vayngan.jpg" width="64px" height="64px"></th>
 <th>quảng bá sản phẩm thời trang <a href="https://www.pinterest.com/pin/826832812826087405/" target="_blank" title="váy ngắn">váy ngắn</a> thiếu nữ</th>
 </tr>
+<tr>
+<th><img alt="website thuong mai amp" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/mobiledamcuoi.jpg" width="64px" height="64px"></th>
+<th> <a href="https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/website-thuong-mai-amp.html" target="_blank" title="váy ngắn">website thương mại amp</a> chuẩn seo giá rẻ, khai thác ma trận từ khóa thiết bị di động, hỗ trợ 100% hiệu ứng cấu trúc dữ liệu chuyên nghiệp, giải pháp bán hàng trực tuyến đa ngành nghề doanh nghiệp kinh doanh bán lẻ, thời trang, trang sức, đầm cưới, tài chính</th>
+</tr>
 </table>
