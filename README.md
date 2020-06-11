@@ -60,10 +60,14 @@ Thương mại trực tuyến brvt hỗ trợ doanh nghiệp, ngân hàng, nhà 
 </tr>
 <tr>
 <th><img alt="website thuong mai amp" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/mobiledamcuoi.jpg" width="64px" height="64px"></th>
-<th> <a href="https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/website-thuong-mai-amp.html" target="_blank" title="website thương mại amp">website thương mại amp</a> chuẩn seo giá rẻ, khai thác ma trận từ khóa thiết bị di động, hỗ trợ 100% hiệu ứng cấu trúc dữ liệu chuyên nghiệp, giải pháp bán hàng trực tuyến đa ngành nghề doanh nghiệp kinh doanh bán lẻ, thời trang, trang sức, đầm cưới, tài chính</th>
+<th><a href="https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/website-thuong-mai-amp.html" target="_blank" title="website thương mại amp">website thương mại amp</a> chuẩn seo giá rẻ, khai thác ma trận từ khóa thiết bị di động, hỗ trợ 100% hiệu ứng cấu trúc dữ liệu chuyên nghiệp, giải pháp bán hàng trực tuyến đa ngành nghề doanh nghiệp kinh doanh bán lẻ, thời trang, trang sức, đầm cưới, tài chính</th>
 </tr>
 <tr>
 <th><img alt="website thuong mai bootstrap" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/entertainmentnecromancers.jpg" width="64px" height="64px"></th>
-<th> <a href="https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/website-thuong-mai-bootstrap.html" target="_blank" title="website thương mại bootstrap">website thương mại bootstrap</a> chuẩn seo giá rẻ, khai thác ma trận từ khóa, hỗ trợ 70% hiệu ứng cấu trúc dữ liệu seo chuyên nghiệp, giải pháp bán hàng trực tuyến đa ngành nghề doanh nghiệp, sáng tạo, giải trí, phi chính phủ, bán lẻ, công nghệ, khoảnh khắc</th>
+<th><a href="https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/website-thuong-mai-bootstrap.html" target="_blank" title="website thương mại bootstrap">website thương mại bootstrap</a> chuẩn seo giá rẻ, khai thác ma trận từ khóa, hỗ trợ 70% hiệu ứng cấu trúc dữ liệu seo chuyên nghiệp, giải pháp bán hàng trực tuyến đa ngành nghề doanh nghiệp, sáng tạo, giải trí, phi chính phủ, bán lẻ, công nghệ, khoảnh khắc</th>
+</tr>
+<tr>
+<th><img alt="website thuong mai wordpress" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhhoangthinhphat/hoangthinhphatbanggia.jpg" width="64px" height="64px"></th>
+<th>thiết kế website giá rẻ hiện đang là một xu hướng được nhiều người dùng vì giá cả hợp lí, website thiết kế đẹp, chuẩn seo, hãy quảng bá sản phẩm của mình đến 20.000+ doanh nghiệp và thương hiệu bậc nhất tại Việt Nam đang tin dùng <a href="https://thuongmaitructuyenbrvt.github.io/hoangthinhphat/thiet-ke-website-thuong-mai-wordpress.html" target="_blank" title="website thương mại wordpress">website thương mại wordpress</a> do Hoàng Thịnh Phát thiết kế</th>
 </tr>
 </table>
