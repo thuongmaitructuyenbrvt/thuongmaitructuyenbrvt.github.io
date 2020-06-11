@@ -70,4 +70,8 @@ Thương mại trực tuyến brvt hỗ trợ doanh nghiệp, ngân hàng, nhà 
 <th><img alt="website thuong mai wordpress" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhhoangthinhphat/hoangthinhphatbanggia.jpg" width="64px" height="64px"></th>
 <th>thiết kế website giá rẻ hiện đang là một xu hướng được nhiều người dùng vì giá cả hợp lí, website thiết kế đẹp, chuẩn seo, hãy quảng bá sản phẩm của mình đến 20.000+ doanh nghiệp và thương hiệu bậc nhất tại Việt Nam đang tin dùng <a href="https://thuongmaitructuyenbrvt.github.io/hoangthinhphat/thiet-ke-website-thuong-mai-wordpress.html" target="_blank" title="website thương mại wordpress">website thương mại wordpress</a> do Hoàng Thịnh Phát thiết kế</th>
 </tr>
+<tr>
+<th><img alt="giay in hoa don" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhhoangthinhphat/giayinhoadon.jpg" width="64px" height="64px"></th>
+<th><a href="https://thuongmaitructuyenbrvt.github.io/hoangthinhphat/thiet-ke-website-thuong-mai-wordpress.html" target="_blank" title="giấy in hóa đơn">giấy in hóa đơn</a> thương mại đa năng cho máy tính tiền, máy in hoá đơn, máy atm ngân hàng, hoá đơn tính tiền điện lực, máy fax, mã vạch thẻ xe, máy pos và các thiết bị tính tiền khác</th>
+</tr>
 </table>
