@@ -31,12 +31,12 @@ Thương mại trực tuyến brvt hỗ trợ doanh nghiệp, ngân hàng, nhà 
 &#10032; Khai thác thương mại brvt cập nhật tin tức hàng tuần về giải pháp phát triển thương hiệu doanh nghiệp từ miễn phí đến chi tiêu hợp lý, quảng cáo hiệu quả.
 <table style="width:100%;">
 <tr>
-<th>sản phẩm</th>
-<th>tính năng</th>
+<th>thương hiệu</th>
+<th>giải pháp</th>
 </tr>
 <tr>
-<th><img alt="do lot" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhtintucthuongmai/dolot.jpg" width="64px"></th>
-<th>quảng bá sản phẩm thời trang <a href="https://www.pinterest.com/pin/826832812826087876/" target="_blank" title="đồ lót">đồ lót</a> thiếu nữ</th>
+<th><img alt="danh muc itemlist" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhtintucthuongmai/itemlist-hieuung.jpg" width="64px"></th>
+<th>Thương mại trực tuyến brvt giới thiệu đến doanh nghiệp giải pháp hiển thị nội dung đa bài viết đến khách hàng trên 1 trang tìm kiếm theo 2 định dạng <a href="https://thuongmaitructuyenbrvt.github.io/tintucthuongmai/danh-muc-itemlist.html" target="_blank" title="danh mục itemlist">danh mục</a> menu itemlist hay slideshow ảnh itemlist</th>
 </tr>
 </table>
 
