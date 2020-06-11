@@ -35,6 +35,14 @@ Thương mại trực tuyến brvt hỗ trợ doanh nghiệp, ngân hàng, nhà 
 <th>giải pháp</th>
 </tr>
 <tr>
+<th><img alt="usb an ninh mang parrot" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhtintucthuongmai/taousb.jpg" width="64px"></th>
+<th>thương mại trực tuyến brvt giới thiệu cách tạo <a href="https://thuongmaitructuyenbrvt.github.io/tintucthuongmai/usb-an-ninh-mang-parrot.html" target="_blank" title="usb an ninh mạng parrot">usb an ninh mạng parrot</a> qua 4 bước đơn giản hướng dẫn xây dựng giải pháp an ninh mạng doanh nghiệp, chuẩn bị, làm sạch, định dạng và tạo usb</th>
+</tr>
+<tr>
+<th><img alt="huong dan howto" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhtintucthuongmai/howtostepanh.jpg" width="64px"></th>
+<th>thương mại trực tuyến brvt giới thiệu đến doanh nghiệp giải pháp khai thác sổ tay <a href="#" target="_blank" title="hướng dẫn howto">hướng dẫn howto</a> chuyên nghiệp</th>
+</tr>
+<tr>
 <th><img alt="danh muc itemlist" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhtintucthuongmai/itemlist-hieuung.jpg" width="64px"></th>
 <th>thương mại trực tuyến brvt giới thiệu đến doanh nghiệp giải pháp khai thác <a href="#" target="_blank" title="danh mục itemlist">danh mục itemlist</a> hiển thị nội dung đa bài viết đến khách hàng trên 1 trang tìm kiếm theo 2 định dạng menu itemlist hay slideshow ảnh itemlist</th>
 </tr>
