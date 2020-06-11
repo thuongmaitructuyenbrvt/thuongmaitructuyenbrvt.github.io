@@ -27,6 +27,21 @@ Thương mại trực tuyến brvt hỗ trợ doanh nghiệp, ngân hàng, nhà 
 
 <hr>
 
+## giải pháp thương hiệu
+&#10032; Khai thác thương mại brvt cập nhật tin tức hàng tuần về giải pháp phát triển thương hiệu doanh nghiệp từ miễn phí đến chi tiêu hợp lý, quảng cáo hiệu quả.
+<table style="width:100%;">
+<tr>
+<th>sản phẩm</th>
+<th>tính năng</th>
+</tr>
+<tr>
+<th><img alt="do lot" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhtintucthuongmai/dolot.jpg" width="64px"></th>
+<th>quảng bá sản phẩm thời trang <a href="https://www.pinterest.com/pin/826832812826087876/" target="_blank" title="đồ lót">đồ lót</a> thiếu nữ</th>
+</tr>
+</table>
+
+<hr>
+
 ## sản phẩm thương mại
 &#10032; Thương mại trực tuyến brvt hỗ trợ đa dạng mặt hàng nông nghiệp, công nghiệp, thời trang, ẩm thực không chỉ khối doanh nghiệp trên địa bàn.
 <table style="width:100%;">
