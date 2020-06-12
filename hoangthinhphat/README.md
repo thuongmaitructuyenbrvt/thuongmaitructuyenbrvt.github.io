@@ -5,7 +5,10 @@ Hoàng thịnh phát chuyên thiết kế website thương mại trọn gói chu
 
 <table style="width:100%">
 <tr>
-<th><img src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhhoangthinhphat/giayinhoadon.jpg" width="128px" alt="anh tu"></th>
-<th>nam ca sĩ Anh Tú<br><a href="https://vi.wikipedia.org/wiki/Anh_T%C3%BA" target="_blank">wiki</a> - <a href="https://www.google.com/search?client=windows&channel=fs&q=Anh+Tú&ie=utf-8&oe=utf-8" target="_blank">google</a></th>
+<th><img src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhhoangthinhphat/giayinhoadon.jpg" width="128px" alt="giay in hoa don"></th>
+<th><img src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhhoangthinhphat/phanmemvinpos.jpg" width="128px" alt="phan mem ban hang"></th>
+</tr>
+<tr>
+<th><img src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhhoangthinhphat/hoangthinhphatbanggia.jpg" width="128px" alt="website thuong mai wordpress"></th>
 </tr>
 </table>
