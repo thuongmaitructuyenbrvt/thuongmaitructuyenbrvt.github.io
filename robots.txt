@@ -1,4 +1,5 @@
 User-agent: *
+Allow: /index.html
 Allow: /nhactuyenchon/nhac-chon-loc.html
 Allow: /nhactuyenchon/chon-loc.amp.html
 Allow: /nhactuyenchon/nhac-hai-ngoai-tuyen-chon.html
