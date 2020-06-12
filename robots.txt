@@ -37,3 +37,11 @@ Allow: /hoangthinhphat/video-hd-giay-in-hoa-don.html
 Allow: /hoangthinhphat/giay-in-k80.amp.html
 Allow: /hoangthinhphat/san-pham-giay-in-hoa-don.html
 Allow: /hoangthinhphat/giay-in-nhiet.amp.html
+Allow: /sanphamthuongmai/san-pham-cong-nghe.html
+Allow: /sanphamthuongmai/gia-cong-nghe.amp.html
+Allow: /sanphamthuongmai/website-bootstrap-cong-nghe.html
+Allow: /sanphamthuongmai/cong-nghe.amp.html
+Allow: /sanphamthuongmai/cach-mua-website-cong-nghe.html
+Allow: /sanphamthuongmai/tim-cong-nghe.amp.html
+Allow: /sanphamthuongmai/video-website-cong-nghe.html
+Allow: /sanphamthuongmai/quang-ba-cong-nghe.amp.html
