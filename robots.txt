@@ -5,3 +5,5 @@ Allow: /nhactuyenchon/nhac-hai-ngoai-tuyen-chon.html
 Allow: /nhactuyenchon/nhac-hai-ngoai.amp.html
 Allow: /nhactuyenchon/nhac-hoa-tuyen-chon.html
 Allow: /nhactuyenchon/nhac-hoa.amp.html
+Allow: /nhactuyenchon/nhac-pop-tuyen-chon.html
+Allow: /nhactuyenchon/nhac-pop.amp.html
