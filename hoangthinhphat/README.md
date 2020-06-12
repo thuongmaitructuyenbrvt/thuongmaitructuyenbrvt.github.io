@@ -5,10 +5,10 @@ Hoàng thịnh phát chuyên thiết kế website thương mại trọn gói chu
 
 <table style="width:100%">
 <tr>
-<th><img src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhhoangthinhphat/giayinhoadon.jpg" width="45%" alt="giay in hoa don"></th>
-<th><img src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhhoangthinhphat/phanmemvinpos.jpg" width="45%" alt="phan mem ban hang"></th>
+<th><img src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhhoangthinhphat/giayinhoadon.jpg" width="512px" alt="giay in hoa don"></th>
+<th><img src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhhoangthinhphat/phanmemvinpos.jpg" width="512px" alt="phan mem ban hang"></th>
 </tr>
 <tr>
-<th><img src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhhoangthinhphat/hoangthinhphatbanggia.jpg" width="128px" alt="website thuong mai wordpress"></th>
+<th><img src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhhoangthinhphat/hoangthinhphatbanggia.jpg" width="512px" alt="website thuong mai wordpress"></th>
 </tr>
 </table>
