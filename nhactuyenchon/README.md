@@ -7,9 +7,9 @@ Nhạc tuyển chọn nụ hôn biệt ly, sai lầm vẫn là anh, 7 viên kim 
 <table style="width:100%">
 <tr>
 <th><img src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhnhactuyenchon/tonlo_sunlu.jpg" width="512px" alt="nhac hoa tuyen chon"><br><h3><a href="https://thuongmaitructuyenbrvt.github.io/nhactuyenchon/nhac-hoa-tuyen-chon.html" target="_blank" title="nhạc hoa tuyển chọn">nhạc hoa</a></h3></th>
-<th><img src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhnhactuyenchon/jillandrews.jpg" width="512px" alt="nhac quoc te tuyen chon"></th>
+<th><img src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhnhactuyenchon/jillandrews.jpg" width="512px" alt="nhac quoc te tuyen chon"><br><h3><a href="https://thuongmaitructuyenbrvt.github.io/nhactuyenchon/nhac-quoc-te-tuyen-chon.html" target="_blank" title="nhạc quốc tế tuyển chọn">quốc tế</a></h3></th>
 </tr>
 <tr>
-<th><img src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhnhactuyenchon/minhtuyet.jpg" width="512px" alt="nhac hai ngoai tuyen chon"></th>
+<th><img src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhnhactuyenchon/minhtuyet.jpg" width="512px" alt="nhac hai ngoai tuyen chon"><br><h3><a href="https://thuongmaitructuyenbrvt.github.io/nhactuyenchon/nhac-hai-ngoai-tuyen-chon.html" target="_blank" title="nhạc hải ngoại tuyển chọn">hải ngoại</a></h3></th>
 </tr>
 </table>
