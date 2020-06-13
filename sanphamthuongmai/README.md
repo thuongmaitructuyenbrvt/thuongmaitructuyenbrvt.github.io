@@ -23,6 +23,6 @@ Sản phẩm thương mại
 <table style="width:100%">
 <tr>
 <th><img src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/technologybredh.jpg" width="512px" alt="website cong nghe ten mien bredh"><br><h3><a href="https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/san-pham-cong-nghe.html#congnghetenmien" target="_blank" title="website công nghệ tên miền bredh">tên miền</a></h3></th>
-<th><img src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhnhactuyenchon/jillandrews.jpg" width="512px" alt="nhac quoc te tuyen chon"><br><h3><a href="https://thuongmaitructuyenbrvt.github.io/nhactuyenchon/nhac-quoc-te-tuyen-chon.html" target="_blank" title="nhạc quốc tế tuyển chọn">quốc tế</a></h3></th>
+<th><img src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/technologyjumpstart.jpg" width="512px" alt="website cong nghe phan mem jumpstart"><br><h3><a href="https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/san-pham-cong-nghe.html#congnghephanmem" target="_blank" title="website công nghệ phần mềm jumpstart">phần mềm</a></h3></th>
 </tr>
 </table>
