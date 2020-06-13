@@ -46,3 +46,9 @@ Allow: /sanphamthuongmai/cach-mua-website-cong-nghe.html
 Allow: /sanphamthuongmai/tim-cong-nghe.amp.html
 Allow: /sanphamthuongmai/video-website-cong-nghe.html
 Allow: /sanphamthuongmai/quang-ba-cong-nghe.amp.html
+Allow: /sanphamthuongmai/cach-mua-website-ban-le.html
+Allow: /sanphamthuongmai/mua-ban-le.amp.html
+Allow: /sanphamthuongmai/san-pham-website-bootstrap-ban-le.html
+Allow: /sanphamthuongmai/san-pham-ban-le.amp.html
+Allow: /sanphamthuongmai/website-bootstrap-ban-le.html
+Allow: /sanphamthuongmai/ban-le.amp.html
