@@ -8,8 +8,14 @@ Sản phẩm thương mại
 <table style="width:100%">
 <tr>
 <th>thương hiệu: ThươngMạiBRVT</th>
+</tr>
+<tr>
 <th>mã kho: bootstrapcongnghe</th>
+</tr>
+<tr>
 <th>mã hàng: congnghe</th>
+</tr>
+<tr>
 <th>giá bán: 3000000 VND (còn)</th>
 </tr>
 </table>
