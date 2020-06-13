@@ -7,16 +7,16 @@ Sản phẩm thương mại
 &#10032; Sản phẩm website kinh doanh tên miền công nghệ bredh, công nghệ lập trình phần mềm giao diện người dùng UI jumpstart, mã nguồn mẫu website công nghệ landrick, website mã nguồn công nghệ saasland, cửa hàng bán lẻ thiết bị công nghệ sapp.
 <table style="width:100%">
 <tr>
-<th>thương hiệu: ThươngMạiBRVT</th>
+<th>ThươngMạiBRVT</th>
 </tr>
 <tr>
-<th>mã kho: bootstrapcongnghe</th>
+<th>bootstrapcongnghe</th>
 </tr>
 <tr>
-<th>mã hàng: congnghe</th>
+<th>congnghe</th>
 </tr>
 <tr>
-<th>giá bán: 3000000 VND (còn)</th>
+<th>3000000 VND</th>
 </tr>
 </table>
 &#10032; Liên hệ quản lý dự án thương mại trực tuyến brvt qua bản đồ doanh nghiệp google business, email hoặc tin nhắn để biết thông tin chi tiết về website bootstrap công nghệ (vui lòng không gọi điện thoại).
