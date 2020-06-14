@@ -56,3 +56,5 @@ Allow: /sanphamthuongmai/video-website-ban-le.html
 Allow: /sanphamthuongmai/quang-ba-ban-le.amp.html
 Allow: /sanphamthuongmai/san-pham-website-bootstrap-phi-loi-nhuan.html
 Allow: /sanphamthuongmai/san-pham-phi-loi-nhuan.amp.html
+Allow: /sanphamthuongmai/website-bootstrap-phi-loi-nhuan.html
+Allow: /sanphamthuongmai/phi-loi-nhuan.amp.html
