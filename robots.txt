@@ -58,3 +58,7 @@ Allow: /sanphamthuongmai/san-pham-website-bootstrap-phi-loi-nhuan.html
 Allow: /sanphamthuongmai/san-pham-phi-loi-nhuan.amp.html
 Allow: /sanphamthuongmai/website-bootstrap-phi-loi-nhuan.html
 Allow: /sanphamthuongmai/phi-loi-nhuan.amp.html
+Allow: /sanphamthuongmai/cach-mua-website-phi-loi-nhuan.html
+Allow: /sanphamthuongmai/mua-phi-loi-nhuan.amp.html
+Allow: /sanphamthuongmai/video-website-phi-loi-nhuan.html
+Allow: /sanphamthuongmai/quang-ba-phi-loi-nhuan.amp.html
