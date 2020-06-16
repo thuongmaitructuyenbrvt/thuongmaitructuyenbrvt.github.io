@@ -4,7 +4,7 @@ Sản phẩm thương mại
 <hr>
 
 ## website doanh nghiep
-&#10032; Sản phẩm website bootstrap nhà hàng canvas, website tạp chí polo, website siêu thị porto, website du lịch townhub, website dịch vụ trax.
+&#10032; Sản phẩm website bootstrap doanh nghiệp nhà hàng canvas, website tạp chí polo, website siêu thị porto, website du lịch townhub, website dịch vụ trax.
 <table style="width:100%">
 <tr>
 <th>ThươngMạiBRVT</th>
