@@ -86,3 +86,11 @@ Allow: /sanphamthuongmai/cach-mua-website-khoanh-khac.html
 Allow: /sanphamthuongmai/mua-khoanh-khac.amp.html
 Allow: /sanphamthuongmai/video-website-khoanh-khac.html
 Allow: /sanphamthuongmai/quang-ba-khoanh-khac.amp.html
+Allow: /sanphamthuongmai/website-bootstrap-sang-tao.html
+Allow: /sanphamthuongmai/sang-tao.amp.html
+Allow: /sanphamthuongmai/san-pham-website-bootstrap-sang-tao.html
+Allow: /sanphamthuongmai/san-pham-sang-tao.amp.html
+Allow: /sanphamthuongmai/cach-mua-website-sang-tao.html
+Allow: /sanphamthuongmai/mua-sang-tao.amp.html
+Allow: /sanphamthuongmai/video-website-sang-tao.html
+Allow: /sanphamthuongmai/quang-ba-sang-tao.amp.html
