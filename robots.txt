@@ -102,3 +102,11 @@ Allow: /sanphamthuongmai/cach-mua-website-bootstrap.html
 Allow: /sanphamthuongmai/mua-bootstrap.amp.html
 Allow: /sanphamthuongmai/video-website-bootstrap.html
 Allow: /sanphamthuongmai/quang-ba-bootstrap.amp.html
+Allow: /sanphamthuongmai/web-trang-suc-di-dong-zak.html
+Allow: /sanphamthuongmai/trang-suc-zak.amp.html
+Allow: /sanphamthuongmai/cach-mua-web-trang-suc-di-dong-zak.html
+Allow: /sanphamthuongmai/mua-trang-suc-zak.amp.html
+Allow: /sanphamthuongmai/san-pham-web-trang-suc-di-dong-zak.html
+Allow: /sanphamthuongmai/san-pham-trang-suc-zak.amp.html
+Allow: /sanphamthuongmai/video-web-trang-suc-di-dong-zak.html
+Allow: /sanphamthuongmai/quang-ba-trang-suc-zak.amp.html
