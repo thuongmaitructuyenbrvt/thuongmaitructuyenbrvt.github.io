@@ -110,3 +110,11 @@ Allow: /sanphamthuongmai/san-pham-web-trang-suc-di-dong-zak.html
 Allow: /sanphamthuongmai/san-pham-trang-suc-zak.amp.html
 Allow: /sanphamthuongmai/video-web-trang-suc-di-dong-zak.html
 Allow: /sanphamthuongmai/quang-ba-trang-suc-zak.amp.html
+Allow: /sanphamthuongmai/san-pham-web-dam-cuoi-di-dong-wedding.html
+Allow: /sanphamthuongmai/san-pham-dam-cuoi-wedding.amp.html
+Allow: /sanphamthuongmai/web-dam-cuoi-di-dong-wedding.html
+Allow: /sanphamthuongmai/dam-cuoi-wedding.amp.html
+Allow: /sanphamthuongmai/cach-mua-web-dam-cuoi-di-dong-wedding.html
+Allow: /sanphamthuongmai/mua-dam-cuoi-wedding.amp.html
+Allow: /sanphamthuongmai/video-web-dam-cuoi-di-dong-wedding.html
+Allow: /sanphamthuongmai/quang-ba-dam-cuoi-wedding.amp.html
