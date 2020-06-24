@@ -126,3 +126,11 @@ Allow: /sanphamthuongmai/cach-mua-web-dam-cuoi-di-dong-wedding.html
 Allow: /sanphamthuongmai/mua-dam-cuoi-wedding.amp.html
 Allow: /sanphamthuongmai/video-web-dam-cuoi-di-dong-wedding.html
 Allow: /sanphamthuongmai/quang-ba-dam-cuoi-wedding.amp.html
+Allow: /sanphamthuongmai/san-pham-web-ban-le-di-dong-gomobile.html
+Allow: /sanphamthuongmai/san-pham-ban-le-gomobile.amp.html
+Allow: /sanphamthuongmai/web-ban-le-di-dong-gomobile.html
+Allow: /sanphamthuongmai/ban-le-gomobile.amp.html
+Allow: /sanphamthuongmai/cach-mua-web-ban-le-di-dong-gomobile.html
+Allow: /sanphamthuongmai/mua-ban-le-gomobile.amp.html
+Allow: /sanphamthuongmai/video-web-ban-le-di-dong-gomobile.html
+Allow: /sanphamthuongmai/quang-ba-ban-le-gomobile.amp.html
