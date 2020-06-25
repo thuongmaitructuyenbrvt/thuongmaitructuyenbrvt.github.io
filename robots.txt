@@ -24,12 +24,14 @@ Allow: /nhactuyenchon/tim-nghe-nhac-nuoc-ngoai.html
 Allow: /nhactuyenchon/tai-nhac-nuoc-ngoai.amp.html
 Allow: /nhactuyenchon/tim-nghe-nhac-tre.html
 Allow: /nhactuyenchon/tai-nhac-tre.amp.html
+
 Allow: /tintucthuongmai/usb-bao-mat-parrot.html
 Allow: /tintucthuongmai/bao-mat.amp.html
 Allow: /tintucthuongmai/video-an-ninh-mang.html
 Allow: /tintucthuongmai/video-bao-mat.amp.html
 Allow: /tintucthuongmai/usb-an-ninh-mang-parrot.html
 Allow: /tintucthuongmai/an-ninh-mang.amp.html
+
 Allow: /hoangthinhphat/giay-in-hoa-don-thuong-mai.html
 Allow: /hoangthinhphat/in-hoa-don.amp.html
 Allow: /hoangthinhphat/cach-mua-giay-in-hoa-don.html
@@ -38,6 +40,7 @@ Allow: /hoangthinhphat/video-hd-giay-in-hoa-don.html
 Allow: /hoangthinhphat/giay-in-k80.amp.html
 Allow: /hoangthinhphat/san-pham-giay-in-hoa-don.html
 Allow: /hoangthinhphat/giay-in-nhiet.amp.html
+
 Allow: /sanphamthuongmai/san-pham-cong-nghe.html
 Allow: /sanphamthuongmai/gia-cong-nghe.amp.html
 Allow: /sanphamthuongmai/website-bootstrap-cong-nghe.html
@@ -46,6 +49,7 @@ Allow: /sanphamthuongmai/cach-mua-website-cong-nghe.html
 Allow: /sanphamthuongmai/tim-cong-nghe.amp.html
 Allow: /sanphamthuongmai/video-website-cong-nghe.html
 Allow: /sanphamthuongmai/quang-ba-cong-nghe.amp.html
+
 Allow: /sanphamthuongmai/cach-mua-website-ban-le.html
 Allow: /sanphamthuongmai/mua-ban-le.amp.html
 Allow: /sanphamthuongmai/san-pham-website-bootstrap-ban-le.html
@@ -54,6 +58,7 @@ Allow: /sanphamthuongmai/website-bootstrap-ban-le.html
 Allow: /sanphamthuongmai/ban-le.amp.html
 Allow: /sanphamthuongmai/video-website-ban-le.html
 Allow: /sanphamthuongmai/quang-ba-ban-le.amp.html
+
 Allow: /sanphamthuongmai/san-pham-website-bootstrap-phi-loi-nhuan.html
 Allow: /sanphamthuongmai/san-pham-phi-loi-nhuan.amp.html
 Allow: /sanphamthuongmai/website-bootstrap-phi-loi-nhuan.html
@@ -62,6 +67,7 @@ Allow: /sanphamthuongmai/cach-mua-website-phi-loi-nhuan.html
 Allow: /sanphamthuongmai/mua-phi-loi-nhuan.amp.html
 Allow: /sanphamthuongmai/video-website-phi-loi-nhuan.html
 Allow: /sanphamthuongmai/quang-ba-phi-loi-nhuan.amp.html
+
 Allow: /sanphamthuongmai/website-bootstrap-doanh-nghiep.html
 Allow: /sanphamthuongmai/doanh-nghiep.amp.html
 Allow: /sanphamthuongmai/cach-mua-website-doanh-nghiep.html
@@ -70,6 +76,7 @@ Allow: /sanphamthuongmai/san-pham-website-bootstrap-doanh-nghiep.html
 Allow: /sanphamthuongmai/san-pham-doanh-nghiep.amp.html
 Allow: /sanphamthuongmai/video-website-doanh-nghiep.html
 Allow: /sanphamthuongmai/quang-ba-doanh-nghiep.amp.html
+
 Allow: /sanphamthuongmai/san-pham-website-bootstrap-giai-tri.html
 Allow: /sanphamthuongmai/san-pham-giai-tri.amp.html
 Allow: /sanphamthuongmai/website-bootstrap-giai-tri.html
@@ -78,6 +85,7 @@ Allow: /sanphamthuongmai/cach-mua-website-giai-tri.html
 Allow: /sanphamthuongmai/mua-giai-tri.amp.html
 Allow: /sanphamthuongmai/video-website-giai-tri.html
 Allow: /sanphamthuongmai/quang-ba-giai-tri.amp.html
+
 Allow: /sanphamthuongmai/san-pham-website-bootstrap-khoanh-khac.html
 Allow: /sanphamthuongmai/san-pham-khoanh-khac.amp.html
 Allow: /sanphamthuongmai/website-bootstrap-khoanh-khac.html
@@ -86,6 +94,7 @@ Allow: /sanphamthuongmai/cach-mua-website-khoanh-khac.html
 Allow: /sanphamthuongmai/mua-khoanh-khac.amp.html
 Allow: /sanphamthuongmai/video-website-khoanh-khac.html
 Allow: /sanphamthuongmai/quang-ba-khoanh-khac.amp.html
+
 Allow: /sanphamthuongmai/website-bootstrap-sang-tao.html
 Allow: /sanphamthuongmai/sang-tao.amp.html
 Allow: /sanphamthuongmai/san-pham-website-bootstrap-sang-tao.html
@@ -94,6 +103,7 @@ Allow: /sanphamthuongmai/cach-mua-website-sang-tao.html
 Allow: /sanphamthuongmai/mua-sang-tao.amp.html
 Allow: /sanphamthuongmai/video-website-sang-tao.html
 Allow: /sanphamthuongmai/quang-ba-sang-tao.amp.html
+
 Allow: /sanphamthuongmai/san-pham-website-thuong-mai-bootstrap.html
 Allow: /sanphamthuongmai/san-pham-bootstrap.amp.html
 Allow: /sanphamthuongmai/website-thuong-mai-bootstrap.html
@@ -102,6 +112,7 @@ Allow: /sanphamthuongmai/cach-mua-website-bootstrap.html
 Allow: /sanphamthuongmai/mua-bootstrap.amp.html
 Allow: /sanphamthuongmai/video-website-bootstrap.html
 Allow: /sanphamthuongmai/quang-ba-bootstrap.amp.html
+
 Allow: /sanphamthuongmai/web-trang-suc-di-dong-zak.html
 Allow: /sanphamthuongmai/trang-suc-zak.amp.html
 Allow: /sanphamthuongmai/cach-mua-web-trang-suc-di-dong-zak.html
@@ -110,6 +121,7 @@ Allow: /sanphamthuongmai/san-pham-web-trang-suc-di-dong-zak.html
 Allow: /sanphamthuongmai/san-pham-trang-suc-zak.amp.html
 Allow: /sanphamthuongmai/video-web-trang-suc-di-dong-zak.html
 Allow: /sanphamthuongmai/quang-ba-trang-suc-zak.amp.html
+
 Allow: /sanphamthuongmai/san-pham-web-dam-cuoi-di-dong-wedding.html
 Allow: /sanphamthuongmai/san-pham-dam-cuoi-wedding.amp.html
 Allow: /sanphamthuongmai/web-dam-cuoi-di-dong-wedding.html
@@ -118,19 +130,12 @@ Allow: /sanphamthuongmai/cach-mua-web-dam-cuoi-di-dong-wedding.html
 Allow: /sanphamthuongmai/mua-dam-cuoi-wedding.amp.html
 Allow: /sanphamthuongmai/video-web-dam-cuoi-di-dong-wedding.html
 Allow: /sanphamthuongmai/quang-ba-dam-cuoi-wedding.amp.html
-Allow: /sanphamthuongmai/san-pham-web-dam-cuoi-di-dong-wedding.html
-Allow: /sanphamthuongmai/san-pham-dam-cuoi-wedding.amp.html
-Allow: /sanphamthuongmai/web-dam-cuoi-di-dong-wedding.html
-Allow: /sanphamthuongmai/dam-cuoi-wedding.amp.html
-Allow: /sanphamthuongmai/cach-mua-web-dam-cuoi-di-dong-wedding.html
-Allow: /sanphamthuongmai/mua-dam-cuoi-wedding.amp.html
-Allow: /sanphamthuongmai/video-web-dam-cuoi-di-dong-wedding.html
-Allow: /sanphamthuongmai/quang-ba-dam-cuoi-wedding.amp.html
-Allow: /sanphamthuongmai/san-pham-web-ban-le-di-dong-gomobile.html
-Allow: /sanphamthuongmai/san-pham-ban-le-gomobile.amp.html
-Allow: /sanphamthuongmai/web-ban-le-di-dong-gomobile.html
+
+Allow: /sanphamthuongmai/web-ban-le-amp-gomobile.html
 Allow: /sanphamthuongmai/ban-le-gomobile.amp.html
-Allow: /sanphamthuongmai/cach-mua-web-ban-le-di-dong-gomobile.html
+Allow: /sanphamthuongmai/cua-hang-ban-le-gomobile.html
+Allow: /sanphamthuongmai/tap-hoa-linh-kien-thoi-trang-gomobile.amp.html
+Allow: /sanphamthuongmai/mua-web-ban-le-amp-gomobile.html
 Allow: /sanphamthuongmai/mua-ban-le-gomobile.amp.html
-Allow: /sanphamthuongmai/video-web-ban-le-di-dong-gomobile.html
-Allow: /sanphamthuongmai/quang-ba-ban-le-gomobile.amp.html
+Allow: /sanphamthuongmai/video-web-ban-le-amp-gomobile.html
+Allow: /sanphamthuongmai/tinh-nang-ban-le-gomobile.amp.html
