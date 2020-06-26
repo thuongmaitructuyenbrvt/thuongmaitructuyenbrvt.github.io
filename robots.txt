@@ -139,3 +139,12 @@ Allow: /sanphamthuongmai/mua-web-ban-le-amp-gomobile.html
 Allow: /sanphamthuongmai/mua-ban-le-gomobile.amp.html
 Allow: /sanphamthuongmai/video-web-ban-le-amp-gomobile.html
 Allow: /sanphamthuongmai/tinh-nang-ban-le-gomobile.amp.html
+
+Allow: /sanphamthuongmai/web-tai-chinh-amp-finapp.html
+Allow: /sanphamthuongmai/tai-chinh-finapp.amp.html
+Allow: /sanphamthuongmai/quan-ly-tai-chinh-finapp.html
+Allow: /sanphamthuongmai/thu-chi-tai-chinh-finapp.amp.html
+Allow: /sanphamthuongmai/mua-web-tai-chinh-amp-finapp.html
+Allow: /sanphamthuongmai/mua-tai-chinh-finapp.amp.html
+Allow: /sanphamthuongmai/video-web-tai-chinh-amp-finapp.html
+Allow: /sanphamthuongmai/tinh-nang-tai-chinh-finapp.amp.html
