@@ -148,3 +148,12 @@ Allow: /sanphamthuongmai/mua-web-tai-chinh-amp-finapp.html
 Allow: /sanphamthuongmai/mua-tai-chinh-finapp.amp.html
 Allow: /sanphamthuongmai/video-web-tai-chinh-amp-finapp.html
 Allow: /sanphamthuongmai/tinh-nang-tai-chinh-finapp.amp.html
+
+Allow: /hoangthinhphat/giay-in-hoa-don.html
+Allow: /hoangthinhphat/giay-in.amp.html
+Allow: /hoangthinhphat/giay-in-da-nang.html
+Allow: /hoangthinhphat/tinh-nang-giay-in.amp.html
+Allow: /hoangthinhphat/mua-ban-giay-in-hoa-don.html
+Allow: /hoangthinhphat/mua-giay-in.amp.html
+Allow: /hoangthinhphat/video-hd-giay-in-hoa-don.html
+Allow: /hoangthinhphat/quang-ba-giay-in.amp.html
