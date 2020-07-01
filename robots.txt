@@ -41,6 +41,15 @@ Allow: /hoangthinhphat/giay-in-k80.amp.html
 Allow: /hoangthinhphat/san-pham-giay-in-hoa-don.html
 Allow: /hoangthinhphat/giay-in-nhiet.amp.html
 
+Allow: /hoangthinhphat/thiet-ke-web-thuong-mai-wordpress.html
+Allow: /hoangthinhphat/thuong-mai-wordpress.amp.html
+Allow: /hoangthinhphat/thiet-ke-web-ban-hang-wordpress.html
+Allow: /hoangthinhphat/ban-hang-wordpress.amp.html
+Allow: /hoangthinhphat/mua-ban-website-wordpress.html
+Allow: /hoangthinhphat/cms-wordpress.amp.html
+Allow: /hoangthinhphat/video-wordpress-youtube.html
+Allow: /hoangthinhphat/tinh-nang-wordpress.amp.html
+
 Allow: /sanphamthuongmai/cua-hang-web-thuong-mai.html
 Allow: /sanphamthuongmai/hang-thuong-mai.amp.html
 Allow: /sanphamthuongmai/da-dang-web-thuong-mai.html
