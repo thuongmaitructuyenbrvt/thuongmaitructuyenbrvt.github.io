@@ -32,6 +32,11 @@ Allow: /tintucthuongmai/video-bao-mat.amp.html
 Allow: /tintucthuongmai/usb-an-ninh-mang-parrot.html
 Allow: /tintucthuongmai/an-ninh-mang.amp.html
 
+Allow: /hoangthinhphat/phan-mem-ban-hang.html
+Allow: /hoangthinhphat/ban-hang.amp.html
+Allow: /hoangthinhphat/phan-mem-tinh-tien.html
+Allow: /hoangthinhphat/tinh-tien.amp.html
+
 Allow: /hoangthinhphat/giay-in-hoa-don-thuong-mai.html
 Allow: /hoangthinhphat/in-hoa-don.amp.html
 Allow: /hoangthinhphat/cach-mua-giay-in-hoa-don.html
