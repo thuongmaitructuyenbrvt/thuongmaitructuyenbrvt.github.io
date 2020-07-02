@@ -36,6 +36,10 @@ Allow: /hoangthinhphat/phan-mem-ban-hang.html
 Allow: /hoangthinhphat/ban-hang.amp.html
 Allow: /hoangthinhphat/phan-mem-tinh-tien.html
 Allow: /hoangthinhphat/tinh-tien.amp.html
+Allow: /hoangthinhphat/thiet-ke-phan-mem-tinh-tien.html
+Allow: /hoangthinhphat/viet-phan-mem.amp.html
+Allow: /hoangthinhphat/quang-ba-ban-hang-youtube.html
+Allow: /hoangthinhphat/tinh-nang-ban-hang.amp.html
 
 Allow: /hoangthinhphat/giay-in-hoa-don-thuong-mai.html
 Allow: /hoangthinhphat/in-hoa-don.amp.html
