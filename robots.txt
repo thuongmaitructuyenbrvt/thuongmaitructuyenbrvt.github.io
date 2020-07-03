@@ -38,6 +38,8 @@ Allow: /hoangthinhphat/dich-vu-thiet-ke-chuyen-nghiep.html
 Allow: /hoangthinhphat/dich-vu.amp.html
 Allow: /hoangthinhphat/dich-vu-hoang-thinh-phat.html
 Allow: /hoangthinhphat/mua-dich-vu-htp.amp.html
+Allow: /hoangthinhphat/quang-ba-dich-vu-youtube.html
+Allow: /hoangthinhphat/quang-ba-tinh-nang.amp.html
 
 Allow: /hoangthinhphat/giay-in-hoa-don.html
 Allow: /hoangthinhphat/giay-in.amp.html
