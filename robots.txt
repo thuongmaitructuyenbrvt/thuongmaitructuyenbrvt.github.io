@@ -3,6 +3,10 @@ Allow: /index.html
 Allow: /thuong-mai.amp.html
 Allow: /tai-nguyen-thuong-mai-brvt.html
 Allow: /tai-nguyen.amp.html
+Allow: /giao-dich-thuong-mai-brvt.html
+Allow: /san-thuong-mai.amp.html
+Allow: /quang-ba-thuong-mai-brvt.html
+Allow: /tinh-nang-thuong-mai.amp.html
 
 Allow: /nhactuyenchon/nhac-chon-loc.html
 Allow: /nhactuyenchon/chon-loc.amp.html
