@@ -44,6 +44,8 @@ Allow: /tintucthuongmai/website-thuong-mai-55gb.html
 Allow: /tintucthuongmai/web-55gb.amp.html
 Allow: /tintucthuongmai/thuong-mai-google-55gb.html
 Allow: /tintucthuongmai/thuong-mai-55gb.amp.html
+Allow: /tintucthuongmai/thuong-mai-55gb-youtube.html
+Allow: /tintucthuongmai/video-web-55gb.amp.html
 
 Allow: /hoangthinhphat/thuong-mai-hoang-thinh-phat.html
 Allow: /hoangthinhphat/htp-group.amp.html
