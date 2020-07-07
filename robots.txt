@@ -40,6 +40,9 @@ Allow: /tintucthuongmai/video-bao-mat.amp.html
 Allow: /tintucthuongmai/usb-an-ninh-mang-parrot.html
 Allow: /tintucthuongmai/an-ninh-mang.amp.html
 
+Allow: /tintucthuongmai/website-thuong-mai-55gb.html
+Allow: /tintucthuongmai/web-55gb.amp.html
+
 Allow: /hoangthinhphat/thuong-mai-hoang-thinh-phat.html
 Allow: /hoangthinhphat/htp-group.amp.html
 Allow: /hoangthinhphat/dich-vu-thiet-ke-chuyen-nghiep.html
