@@ -33,12 +33,12 @@ Allow: /nhactuyenchon/tai-nhac-nuoc-ngoai.amp.html
 Allow: /nhactuyenchon/tim-nghe-nhac-tre.html
 Allow: /nhactuyenchon/tai-nhac-tre.amp.html
 
-Allow: /tintucthuongmai/usb-bao-mat-parrot.html
-Allow: /tintucthuongmai/bao-mat.amp.html
-Allow: /tintucthuongmai/video-an-ninh-mang.html
-Allow: /tintucthuongmai/video-bao-mat.amp.html
-Allow: /tintucthuongmai/usb-an-ninh-mang-parrot.html
+Allow: /tintucthuongmai/an-ninh-mang-thuong-mai.html
 Allow: /tintucthuongmai/an-ninh-mang.amp.html
+Allow: /tintucthuongmai/bao-mat-thuong-mai.html
+Allow: /tintucthuongmai/bao-mat.amp.html
+Allow: /tintucthuongmai/usb-an-ninh-mang-parrot.html
+Allow: /tintucthuongmai/usb-bao-mat-parrot.amp.html
 
 Allow: /tintucthuongmai/website-thuong-mai-55gb.html
 Allow: /tintucthuongmai/web-55gb.amp.html
