@@ -7,15 +7,15 @@
 	"@context":"https://schema.org",
 	"@type":"Recipe",
 	"image":"https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhtintucthuongmai/taousb.jpg",
-	"name":"video bảo mật",
-	"description":"Thương mại trực tuyến brvt giới thiệu video hd 720p phương pháp khai thác lỗi bảo mật website doanh nghiệp sử dụng mã nguồn parrot linux",
+	"name":"usb bảo mật parrot",
+	"description":"Video hd 720p mã nguồn usb bảo mật parrot hướng dẫn phương pháp khai thác lỗi bảo mật website doanh nghiệp",
 	"prepTime":"PT10M",
 	"cookTime":"PT10M",
 	"totalTime":"PT20M",
 	"recipeCategory":"Dessert",
 	"recipeCuisine":"Vietnamese",
 	"recipeYield":1,
-	"keywords":["video","bao","mat"],
+	"keywords":["usb","bao","mat","parrot"],
 	"recipeIngredient":
 	[
 		"hệ điều hành parrot",
@@ -23,8 +23,8 @@
 	],
 	"recipeInstructions":
 	[
-		"Thương mại trực tuyến brvt giới thiệu video hd 720p khai thác lỗi bảo mật website",
-		"Phương pháp khai thác lỗi bảo mật website doanh nghiệp sử dụng mã nguồn parrot linux"
+		"Thương mại trực tuyến brvt giới thiệu video hd 720p mã nguồn usb bảo mật parrot",
+		"Hướng dẫn phương pháp khai thác lỗi bảo mật website doanh nghiệp"
 	],
 	"aggregateRating":
 	{
@@ -52,9 +52,9 @@
 	"video":
 	{
 		"@type":"VideoObject",
-		"name":"usb bảo mật parrot youtube",
-		"description":"Thương mại trực tuyến brvt chia sẽ đến doanh nghiệp giải pháp giám sát hệ thống mạng với usb bảo mật parrot 64bit đa năng #usb #bao #mat",
-		"thumbnailUrl":"https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhtintucthuongmai/taousb.jpg",
+		"name":"an ninh mang thuong mai youtube",
+		"description":"Thương mại trực tuyến brvt giới thiệu cách tạo usb an ninh mạng parrot qua 4 bước đơn giản hướng dẫn xây dựng giải pháp an ninh mạng doanh nghiệp, chuẩn bị, làm sạch, định dạng và tạo usb #anninh #mang #thuongmai",
+		"thumbnailUrl":"https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/bandothuongmaibrvt.jpg",
 		"uploadDate":"Feb 28, 2020",
 		"duration":"PT1M",
 		"contentUrl":"https://www.youtube.com/watch?v=9ieP2O0V0dM",
@@ -63,7 +63,7 @@
 		{
 			"@type":"InteractionCounter",
 			"interactionType":{"@type":"WatchAction"},
-			"userInteractionCount":132
+			"userInteractionCount":149
 		},
 		"publisher":
 		{
@@ -114,15 +114,15 @@
 }
 </script>
 
-<link rel="canonical" hreflang="vi-VN" href="https://thuongmaitructuyenbrvt.github.io/tintucthuongmai/video-an-ninh-mang.html">
+<link rel="canonical" hreflang="vi-VN" href="https://thuongmaitructuyenbrvt.github.io/tintucthuongmai/usb-an-ninh-mang-parrot.html">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <link href="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/badboy.ico" rel="shortcut icon" type="image/x-icon">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
-<title>video bảo mật | tin tức thương mại</title>
-<meta name="title" content="video bao mat">
-<meta name="keywords" content="video,bao,mat">
-<meta name="description" content="Thương mại trực tuyến brvt giới thiệu video hd 720p phương pháp khai thác lỗi bảo mật website doanh nghiệp sử dụng mã nguồn parrot linux">
+<title>usb bảo mật parrot | tin tức</title>
+<meta name="title" content="usb bao mat parrot">
+<meta name="keywords" content="usb,bao,mat,parrot">
+<meta name="description" content="Video hd 720p mã nguồn usb bảo mật parrot hướng dẫn phương pháp khai thác lỗi bảo mật website doanh nghiệp">
 <meta name="robots" content="index, follow">
 
 <script async src="https://cdn.ampproject.org/v0.js"></script>
@@ -132,7 +132,6 @@
 <script async custom-element="amp-accordion" src="https://cdn.ampproject.org/v0/amp-accordion-0.1.js"></script>
 <script async custom-element="amp-image-lightbox" src="https://cdn.ampproject.org/v0/amp-image-lightbox-0.1.js"></script>
 <script async custom-element="amp-social-share" src="https://cdn.ampproject.org/v0/amp-social-share-0.1.js"></script>
-<script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script>
 
 <style amp-custom>
 body{font-family:'Times New Roman', 'Roboto', sans-serif;}
@@ -1373,37 +1372,45 @@ ol, ul{line-height:24px; margin-left:20px;}
 </head>
 <body>
 <header>
-	<a href="https://thuongmaitructuyenbrvt.github.io/khai-thac-thuong-mai-brvt.amp.html" class="header-logo"></a>
+	<a href="https://thuongmaitructuyenbrvt.github.io/thuong-mai.amp.html" class="header-logo"></a>
+	<button class="header-icon-2" on='tap:sidebar.toggle'><i class="fa fa-navicon"></i></button>
 	<a href="https://join.skype.com/nFE0GoIAszSa" class="header-icon-1" target="_blank">
 		<i class="fa fa-skype"></i>
 	</a>
 </header>
 <div class="header-clear"></div>
+<amp-sidebar id="sidebar" layout="nodisplay" side="left">
+	<a class="sidebar-logo"></a>
+	<amp-img alt="khuong itvtbadboy" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/itvtbadboy02.jpg" layout="responsive" width="300" height="300"></amp-img>
+	<ul class="sidebar-menu">
+		<a href="mailto:itvtbadboy@gmail.com" target="_blank" title="dương thành khương"><i class="fa fa-envelope-square"></i>Dương thành khương</a>
+		<a href="https://khuongitvtbadboy.github.io/" target="_blank" title="khuong itvtbadboy"><i class="fa fa-user-secret"></i>Khuong itvtbadboy</a>
+		<a title="phát triển thương mại"><i class="fa fa-briefcase"></i>Phát triển thương mại</a>
+		<a href="https://hangouts.google.com/call/hqgbfrzomzcgjnfm6mupnqmq3ae" target="_blank" title="video call google"><i class="fa fa-video-camera"></i>Video call google</a>
+		<a href="https://www.youtube.com/watch?v=tzdC3wWVmIQ" target="_blank" title="live stream youtube"><i class="fa fa-youtube"></i>Live stream youtube</a>
+		<a href="https://twitter.com/messages/compose?recipient_id=1226715199664615426&text=H%E1%BB%97%20tr%E1%BB%A3:%20" target="_blank" title="messages twitter"><i class="fa fa-twitter-square"></i>Messages twitter</a>
+		<a href="https://m.me/thuongmaigithub" target="_blank" title="video call facebook"><i class="fa fa-facebook-official"></i>Video call facebook</a>
+	</ul>
+	<div class="decoration"></div>
+</amp-sidebar>
 
 
 
 <div class="page-content">
-	<amp-youtube data-videoid="9ieP2O0V0dM" layout="responsive" width="480" height="270"></amp-youtube>
+	<amp-img alt="usb bao mat parrot" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhtintucthuongmai/taousb.jpg" width="700" height="278" layout="responsive"></amp-img>
 	<div class="featured-story content">
 		<div class="news-top half-bottom center-text">
 			<a class="news-header">
-				<h1 style="color:#3498db;margin-top:20px;">VIDEO BẢO MẬT</h1>
+				<h1 style="color:#3498db;margin-top:20px;">USB BẢO MẬT PARROT</h1>
 			</a>
-			<p>thương mại trực tuyến brvt giới thiệu video hd 720p phương pháp khai thác lỗi bảo mật website doanh nghiệp sử dụng mã nguồn <a href="https://thuongmaitructuyenbrvt.github.io/tintucthuongmai/an-ninh-mang.amp.html" target="_blank" title="parrot linux">parrot linux</a></p>
+			<h3 style="margin-bottom:30px;">video hd 720p mã nguồn usb bảo mật parrot hướng dẫn phương pháp khai thác lỗi bảo mật website doanh nghiệp</h3>
 		</div>
 		<div class="half-material-box-left center-text">
-			<p><a style="font-size:17px;" href="https://m.me/thuongmaigithub" target="_blank" class="full-bottom huge-icon fa fa-facebook"> facebook</a></p>
+			<p><a style="font-size:17px;" href="https://thuongmaitructuyenbrvt.github.io/tintucthuongmai/an-ninh-mang.amp.html" target="_blank" class="full-bottom huge-icon fa fa-bug" title="bảo mật"> bảo mật</a></p>
 		</div>
 		<div class="half-material-box-right center-text">
-			<p><a style="font-size:17px;" href="https://www.youtube.com/watch?v=tzdC3wWVmIQ" target="_blank" class="full-bottom huge-icon fa fa-youtube"> youtube</a></p>
-		</div>
-		<div class="half-material-box-left center-text">
-			<p><a style="font-size:17px;" href="https://twitter.com/messages/compose?recipient_id=1226715199664615426&text=H%E1%BB%97%20tr%E1%BB%A3:%20" target="_blank" class="full-bottom huge-icon fa fa-twitter"> twitter</a></p>
-		</div>
-		<div class="half-material-box-right center-text">
-			<p><a style="font-size:17px;" href="https://hangouts.google.com/call/hqgbfrzomzcgjnfm6mupnqmq3ae" target="_blank" class="full-bottom huge-icon fa fa-google-plus"> chat</a></p>
-		</div>
-		<div class="clear"></div>
+			<p><a style="font-size:17px;" href="https://www.youtube.com/watch?v=9ieP2O0V0dM" target="_blank" class="full-bottom huge-icon fa fa-youtube" title="youtube"> youtube</a></p>
+		</div><div class="clear"></div>
 	</div>
 </div>
 
@@ -1412,16 +1419,16 @@ ol, ul{line-height:24px; margin-left:20px;}
 <div class="decoration"></div>
 <div class="footer center-text">
 	<amp-img alt="thuong mai truc tuyen brvt" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/bandothuongmaibrvt.jpg" width="700" height="278" layout="responsive"></amp-img>
-	<amp-social-share type="facebook" width="43" height="40" class="custom-news-share" data-param-app_id="1358757170982151" data-param-href="https://thuongmaitructuyenbrvt.github.io/nhactuyenchon/video-bao-mat.amp.html" data-param-quote="Thương mại trực tuyến brvt giới thiệu video hd 720p phương pháp khai thác lỗi bảo mật website doanh nghiệp sử dụng mã nguồn parrot linux">
+	<amp-social-share type="facebook" width="43" height="40" class="custom-news-share" data-param-app_id="1358757170982151" data-param-href="https://thuongmaitructuyenbrvt.github.io/tintucthuongmai/usb-bao-mat-parrot.amp.html" data-param-quote="Video hd 720p mã nguồn usb bảo mật parrot hướng dẫn phương pháp khai thác lỗi bảo mật website doanh nghiệp">
 		<i class="fa fa-facebook"></i>
 	</amp-social-share>
-	<amp-social-share type="twitter" width="43" height="40" class="custom-news-share" data-param-text="Thương mại trực tuyến brvt giới thiệu video hd 720p phương pháp khai thác lỗi bảo mật website doanh nghiệp sử dụng mã nguồn parrot linux #video #bao #mat" data-param-url="https://thuongmaitructuyenbrvt.github.io/nhactuyenchon/video-bao-mat.amp.html">
+	<amp-social-share type="twitter" width="43" height="40" class="custom-news-share" data-param-text="Video hd 720p mã nguồn usb bảo mật parrot hướng dẫn phương pháp khai thác lỗi bảo mật website doanh nghiệp #usb #baomat #parrot" data-param-url="https://thuongmaitructuyenbrvt.github.io/tintucthuongmai/usb-bao-mat-parrot.amp.html">
 		<i class="fa fa-twitter"></i>
 	</amp-social-share>
-	<amp-social-share type="pinterest" width="43" height="40" class="custom-news-share" data-param-media="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhtintucthuongmai/taousb.jpg" data-param-url="https://thuongmaitructuyenbrvt.github.io/nhactuyenchon/video-bao-mat.amp.html" data-param-description="Thương mại trực tuyến brvt giới thiệu video hd 720p phương pháp khai thác lỗi bảo mật website doanh nghiệp sử dụng mã nguồn parrot linux #video #bao #mat">
+	<amp-social-share type="pinterest" width="43" height="40" class="custom-news-share" data-param-media="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhtintucthuongmai/taousb.jpg" data-param-url="https://thuongmaitructuyenbrvt.github.io/tintucthuongmai/usb-bao-mat-parrot.amp.html" data-param-description="Video hd 720p mã nguồn usb bảo mật parrot hướng dẫn phương pháp khai thác lỗi bảo mật website doanh nghiệp #usb #baomat #parrot">
 		<i class="fa fa-pinterest"></i>
 	</amp-social-share>
-	<amp-social-share type="tumblr" width="43" height="40" class="custom-news-share" data-param-url="https://thuongmaitructuyenbrvt.github.io/nhactuyenchon/video-bao-mat.amp.html" data-param-text="Thương mại trực tuyến brvt giới thiệu video hd 720p phương pháp khai thác lỗi bảo mật website doanh nghiệp sử dụng mã nguồn parrot linux">
+	<amp-social-share type="tumblr" width="43" height="40" class="custom-news-share" data-param-url="https://thuongmaitructuyenbrvt.github.io/tintucthuongmai/usb-bao-mat-parrot.amp.html" data-param-text="Video hd 720p mã nguồn usb bảo mật parrot hướng dẫn phương pháp khai thác lỗi bảo mật website doanh nghiệp">
 		<i class="fa fa-tumblr"></i>
 	</amp-social-share>
 	<a href="#"><i class="fa fa-chevron-up"></i></a>
