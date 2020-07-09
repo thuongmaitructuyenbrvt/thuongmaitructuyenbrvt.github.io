@@ -35,6 +35,8 @@ Allow: /nhactuyenchon/tai-nhac-tre.amp.html
 
 Allow: /tintucthuongmai/thuong-mai-pinterest.html
 Allow: /tintucthuongmai/pinterest.amp.html
+Allow: /tintucthuongmai/seo-anh-thuong-mai-pinterest.html
+Allow: /tintucthuongmai/seo-anh-pinterest.amp.html
 
 Allow: /tintucthuongmai/an-ninh-mang-thuong-mai.html
 Allow: /tintucthuongmai/an-ninh-mang.amp.html
