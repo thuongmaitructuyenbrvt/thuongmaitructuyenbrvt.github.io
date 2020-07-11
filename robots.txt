@@ -35,6 +35,8 @@ Allow: /nhactuyenchon/tai-nhac-tre.amp.html
 
 Allow: /tintucthuongmai/ban-do-thuong-mai-google-business.html
 Allow: /tintucthuongmai/ban-do-google-business.amp.html
+Allow: /tintucthuongmai/thuong-mai-truc-tuyen-business.html
+Allow: /tintucthuongmai/thuong-mai-business.amp.html
 
 Allow: /tintucthuongmai/thuong-mai-pinterest.html
 Allow: /tintucthuongmai/pinterest.amp.html
