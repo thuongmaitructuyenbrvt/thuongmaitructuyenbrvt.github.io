@@ -35,6 +35,8 @@ Allow: /nhactuyenchon/tai-nhac-tre.amp.html
 
 Allow: /tintucthuongmai/huong-dan-thuong-mai-howto.html
 Allow: /tintucthuongmai/huong-dan-howto.amp.html
+Allow: /tintucthuongmai/so-tay-thuong-mai-howto.html
+Allow: /tintucthuongmai/so-tay-howto.amp.html
 
 Allow: /tintucthuongmai/tin-thuong-mai-google-news.html
 Allow: /tintucthuongmai/tin-google-news.amp.html
