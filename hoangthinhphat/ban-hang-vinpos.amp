@@ -7,8 +7,8 @@
 	"@context":"https://schema.org",
 	"@type":"HowTo",
 	"image":"https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/itvtbadboy02.jpg",
-	"name":"viết phần mềm",
-	"description":"Hoàng thịnh phát nhận viết phần mềm tính tiền hiệu suất mạnh mẽ, tính năng vượt trội, bảo mật cao, giá cả hợp lý",
+	"name":"bán hàng vinpos",
+	"description":"Hoàng thịnh phát nhận viết phần mềm bán hàng vinpos hiệu suất mạnh mẽ, tính năng vượt trội, bảo mật cao, giá cả hợp lý",
 	"prepTime":"PT10M",
 	"performTime":"PT10M",
 	"totalTime":"PT20M",
@@ -16,24 +16,24 @@
 	{
 		"@type":"MonetaryAmount",
 		"currency":"VND",
-		"value":30000
+		"value":2500000
 	},
 	"supply":
 	[
 		{
 			"@type":"HowToSupply",
-			"name":"tìm từ khóa phần mềm tính tiền"
+			"name":"tìm bán hàng vinpos"
 		},
 		{
 			"@type":"HowToSupply",
-			"name":"đặt mua phần mềm tính tiền"
+			"name":"đặt bán hàng vinpos"
 		}
 	],
 	"tool":
 	[
 		{
 			"@type":"HowToTool",
-			"name":"chuẩn bị tiền mặt 3tr5"
+			"name":"chuẩn bị tiền mặt 2tr5"
 		},
 		{
 			"@type":"HowToTool",
@@ -44,8 +44,8 @@
 	[
 		{
 			"@type":"HowToStep",
-			"name":"chọnphầnmềm",
-			"url":"https://thuongmaitructuyenbrvt.github.io/hoangthinhphat/viet-phan-mem.amp.html#chonphanmem",
+			"name":"chọnbánhàng",
+			"url":"https://thuongmaitructuyenbrvt.github.io/hoangthinhphat/ban-hang-vinpos.amp.html#chonbanhang",
 			"image":
 			{
 				"@type":"ImageObject",
@@ -57,18 +57,18 @@
 			[
 				{
 					"@type":"HowToTip",
-					"text":"Khách hàng nên gọi điện trực tiếp đến bộ phận kỹ thuật (0254.651.0888) công ty hoàng thịnh phát hoặc liên hệ qua mạng xã hội facebook"
+					"text":"Khách hàng nên gọi điện trực tiếp đến bộ phận kỹ thuật (0254.651.0888) công ty hoàng thịnh phát hoặc liên hệ qua mạng xã hội facebook để tham khảo tính năng bán hàng vinpos"
 				},
 				{
 					"@type":"HowToDirection",
-					"text":"Hoàng thịnh phát viết phần mềm đa nghiệp vụ bán lẻ, siêu thị, du lịch, tài chính ... hiệu suất mạnh mẽ, tính năng vượt trội, bảo mật cao, giá cả hợp lý"
+					"text":"Hoàng thịnh phát viết phần mềm bán hàng vinpos đa nghiệp vụ bán lẻ, siêu thị, du lịch, tài chính ... hiệu suất mạnh mẽ, tính năng vượt trội, bảo mật cao, giá cả hợp lý"
 				}
 			]
 		},
 		{
 			"@type":"HowToStep",
-			"name":"muaphầnmềm",
-			"url":"https://thuongmaitructuyenbrvt.github.io/hoangthinhphat/viet-phan-mem.amp.html#muaphanmem",
+			"name":"đặtbánhàng",
+			"url":"https://thuongmaitructuyenbrvt.github.io/hoangthinhphat/ban-hang-vinpos.amp.html#datbanhang",
 			"image":
 			{
 				"@type":"ImageObject",
@@ -80,11 +80,11 @@
 			[
 				{
 					"@type":"HowToTip",
-					"text":"Trước khi quyết định đặt mua phần mềm tính tiền khách hàng có thể tải về trải nghiệm hiệu suất ưu việt, liên kết được cung cấp tại trang chủ công ty"
+					"text":"Trước khi quyết định đặt mua phần mềm bán hàng vinpos khách hàng có thể tải về trải nghiệm hiệu suất ưu việt, liên kết được cung cấp tại trang chủ công ty"
 				},
 				{
 					"@type":"HowToDirection",
-					"text":"Liên quan giấy tờ thu chi, phương thức thanh toán, khuyến mãi giảm giá, thời gian bàn giao phần mềm tính tiền khách hàng vui lòng liên hệ bộ phận bán hàng (0906.988.186)"
+					"text":"Liên quan giấy tờ thu chi, phương thức thanh toán, khuyến mãi giảm giá, thời gian bàn giao phần mềm bán hàng vinpos khách hàng vui lòng liên hệ bộ phận bán hàng (0906.988.186)"
 				}
 			]
 		}
@@ -94,13 +94,13 @@
 
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <link href="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/badboy.ico" rel="shortcut icon" type="image/x-icon">
-<link rel="canonical" href="https://thuongmaitructuyenbrvt.github.io/hoangthinhphat/thiet-ke-phan-mem-tinh-tien.html">
+<link rel="canonical" href="https://thuongmaitructuyenbrvt.github.io/hoangthinhphat/ban-hang-thuong-mai-vinpos.html">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
-<title>viết phần mềm | hoàng thịnh phát</title>
-<meta name="title" content="viet phan mem">
-<meta name="keywords" content="viet,phan,mem">
-<meta name="description" content="Hoàng thịnh phát nhận viết phần mềm tính tiền hiệu suất mạnh mẽ, tính năng vượt trội, bảo mật cao, giá cả hợp lý">
+<title>bán hàng vinpos | hoàng thịnh phát</title>
+<meta name="title" content="ban hang vinpos">
+<meta name="keywords" content="ban,hang,vinpos">
+<meta name="description" content="Hoàng thịnh phát nhận viết phần mềm bán hàng vinpos hiệu suất mạnh mẽ, tính năng vượt trội, bảo mật cao, giá cả hợp lý">
 <meta name="robots" content="index, follow">
 
 <script async src="https://cdn.ampproject.org/v0.js"></script>
@@ -1306,15 +1306,9 @@ ol, ul{line-height:24px; margin-left:20px;}
 	float:left;
 	background-color:#FFFFFF;
 	box-shadow: 0 2px 5px 1px rgba(0,0,0,0.1);
-	margin-bottom: 30px;
-	padding:1px 1px 1px 1px;
+	margin-bottom:30px;
+	padding:5px 5px 5px 5px;
 	box-sizing:border-box;
-}
-.half-material-box-left amp-img{
-	border-bottom:solid 23px rgba(0,0,0,0.1);
-}
-.half-material-box-left p{
-	margin-bottom: -6px;
 }
 .half-material-box-right{
 	width:47%;
@@ -1322,15 +1316,9 @@ ol, ul{line-height:24px; margin-left:20px;}
 	float:left;
 	background-color:#FFFFFF;
 	box-shadow: 0 2px 5px 1px rgba(0,0,0,0.1);
-	margin-bottom: 30px;
-	padding:1px 1px 1px 1px;
+	margin-bottom:30px;
+	padding:5px 5px 5px 5px;
 	box-sizing:border-box;
-}
-.half-material-box-right amp-img{
-	border-bottom:solid 23px rgba(0,0,0,0.1);
-}
-.half-material-box-right p{
-	margin-bottom: -6px;
 }
 .material-box{
 	background-color:#FFFFFF;
@@ -1349,31 +1337,45 @@ ol, ul{line-height:24px; margin-left:20px;}
 </head>
 <body>
 <header>
-	<a href="https://thuongmaitructuyenbrvt.github.io/khai-thac-thuong-mai-brvt.amp.html" class="header-logo"></a>
+	<a href="https://thuongmaitructuyenbrvt.github.io/thuong-mai.amp.html" class="header-logo"></a>
+	<button class="header-icon-2" on='tap:sidebar.toggle'><i class="fa fa-navicon"></i></button>
 	<a href="https://join.skype.com/nFE0GoIAszSa" class="header-icon-1" target="_blank">
 		<i class="fa fa-skype"></i>
 	</a>
 </header>
 <div class="header-clear"></div>
+<amp-sidebar id="sidebar" layout="nodisplay" side="left">
+	<a class="sidebar-logo"></a>
+	<amp-img alt="khuong itvtbadboy" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/itvtbadboy02.jpg" layout="responsive" width="300" height="300"></amp-img>
+	<ul class="sidebar-menu">
+		<a href="mailto:itvtbadboy@gmail.com" target="_blank" title="dương thành khương"><i class="fa fa-envelope-square"></i>Dương thành khương</a>
+		<a href="https://khuongitvtbadboy.github.io/" target="_blank" title="khuong itvtbadboy"><i class="fa fa-user-secret"></i>Khuong itvtbadboy</a>
+		<a title="phát triển thương mại"><i class="fa fa-briefcase"></i>Phát triển thương mại</a>
+		<a href="https://hangouts.google.com/call/hqgbfrzomzcgjnfm6mupnqmq3ae" target="_blank" title="video call google"><i class="fa fa-video-camera"></i>Video call google</a>
+		<a href="https://www.youtube.com/watch?v=tzdC3wWVmIQ" target="_blank" title="live stream youtube"><i class="fa fa-youtube"></i>Live stream youtube</a>
+		<a href="https://twitter.com/messages/compose?recipient_id=1226715199664615426&text=H%E1%BB%97%20tr%E1%BB%A3:%20" target="_blank" title="messages twitter"><i class="fa fa-twitter-square"></i>Messages twitter</a>
+		<a href="https://m.me/thuongmaigithub" target="_blank" title="video call facebook"><i class="fa fa-facebook-official"></i>Video call facebook</a>
+	</ul>
+	<div class="decoration"></div>
+</amp-sidebar>
 
 
 
 <div class="page-content">
-	<amp-img alt="viet phan mem" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhhoangthinhphat/bandohoangthinhphat.jpg" width="700" height="278" layout="responsive"></amp-img>
 	<div class="featured-story content">
 		<div class="news-top half-bottom center-text">
 			<a class="news-header">
-				<h1 style="color:#3498db;margin-top:30px;">VIẾT PHẦN MỀM</h1>
+				<h1 style="color:#3498db;margin-top:30px;">BÁN HÀNG VINPOS</h1>
 			</a>
-			<h3 style="margin-bottom:30px;">hoàng thịnh phát nhận viết phần mềm tính tiền hiệu suất mạnh mẽ, tính năng vượt trội, bảo mật cao, giá cả hợp lý</h3>
+			<h3 style="margin-bottom:30px;">hoàng thịnh phát nhận viết phần mềm bán hàng vinpos hiệu suất mạnh mẽ, tính năng vượt trội, bảo mật cao, giá cả hợp lý</h3>
 		</div>
 	</div>
 
 	<div class="decoration"></div>
 	<div class="featured-story content">
-		<amp-img alt="chon phan mem" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhhoangthinhphat/vinposhieusuatcao.jpg" width="700" height="278" layout="responsive"></amp-img>
+		<amp-img alt="chon ban hang" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhhoangthinhphat/vinposhieusuatcao.jpg" width="700" height="278" layout="responsive"></amp-img>
 		<em class="bg-blue-light">
-			<h2 id="chonphanmem">chọn phần mềm</h2>
+			<h2 id="chonbanhang">chọn bán hàng</h2>
 		</em><br>
 		<table style="margin-top:30px;width:100%;">
 			<tr>
@@ -1385,16 +1387,16 @@ ol, ul{line-height:24px; margin-left:20px;}
 				<th><a style="font-size:17px;" href="https://hangouts.google.com/call/hqgbfrzomzcgjnfm6mupnqmq3ae" target="_blank" class="full-bottom huge-icon fa fa-google-plus"> chat</a></th>
 			</tr>
 		</table>
-		<h3 style="margin-bottom:22px;"><i class="fa fa-star"></i> Khách hàng nên gọi điện trực tiếp đến bộ phận kỹ thuật (0254.651.0888) công ty hoàng thịnh phát hoặc liên hệ qua mạng xã hội facebook.</h3>
-		<h3 style="margin-bottom:22px;"><i class="fa fa-star"></i> Hoàng thịnh phát viết phần mềm đa nghiệp vụ bán lẻ, siêu thị, du lịch, tài chính ... hiệu suất mạnh mẽ, tính năng vượt trội, bảo mật cao, giá cả hợp lý.</h3>
+		<h3 style="margin-bottom:22px;"><i class="fa fa-star"></i> Khách hàng nên gọi điện trực tiếp đến bộ phận kỹ thuật (0254.651.0888) công ty hoàng thịnh phát hoặc liên hệ qua mạng xã hội facebook để tham khảo tính năng bán hàng vinpos.</h3>
+		<h3 style="margin-bottom:22px;"><i class="fa fa-star"></i> Hoàng thịnh phát viết phần mềm bán hàng vinpos đa nghiệp vụ bán lẻ, siêu thị, du lịch, tài chính ... hiệu suất mạnh mẽ, tính năng vượt trội, bảo mật cao, giá cả hợp lý.</h3>
+		<div class="clear"></div>
 	</div>
-	<div class="clear"></div>
 
 	<div class="decoration"></div>
 	<div class="featured-story content">
-		<amp-img alt="mua phan mem" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhhoangthinhphat/phanmemvinpos.jpg" width="700" height="278" layout="responsive"></amp-img>
+		<amp-img alt="dat ban hang" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhhoangthinhphat/phanmemvinpos.jpg" width="700" height="278" layout="responsive"></amp-img>
 		<em class="bg-blue-light">
-			<h2 id="muaphanmem">mua phần mềm</h2>
+			<h2 id="datbanhang"><a style="color:#ffffff;" href="https://thuongmaitructuyenbrvt.github.io/hoangthinhphat/phan-mem-vinpos.amp.html" target="_blank" title="đặt bán hàng">đặt bán hàng</a></h2>
 		</em><br>
 		<table style="margin-top:30px;width:100%;">
 			<tr>
@@ -1406,10 +1408,10 @@ ol, ul{line-height:24px; margin-left:20px;}
 				<th><a style="font-size:17px;" href="https://hangouts.google.com/call/hqgbfrzomzcgjnfm6mupnqmq3ae" target="_blank" class="full-bottom huge-icon fa fa-google-plus"> chat</a></th>
 			</tr>
 		</table>
-		<h3 style="margin-bottom:22px;"><i class="fa fa-star"></i> Trước khi quyết định đặt mua phần mềm tính tiền khách hàng có thể tải về trải nghiệm hiệu suất ưu việt, liên kết được cung cấp tại trang chủ công ty.</h3>
-		<h3 style="margin-bottom:22px;"><i class="fa fa-star"></i> Liên quan giấy tờ thu chi, phương thức thanh toán, khuyến mãi giảm giá, thời gian bàn giao phần mềm tính tiền khách hàng vui lòng liên hệ bộ phận bán hàng (0906.988.186).</h3>
+		<h3 style="margin-bottom:22px;"><i class="fa fa-star"></i> Trước khi quyết định đặt mua phần mềm bán hàng vinpos khách hàng có thể tải về trải nghiệm hiệu suất ưu việt, liên kết được cung cấp tại trang chủ công ty.</h3>
+		<h3 style="margin-bottom:22px;"><i class="fa fa-star"></i> Liên quan giấy tờ thu chi, phương thức thanh toán, khuyến mãi giảm giá, thời gian bàn giao phần mềm bán hàng vinpos khách hàng vui lòng liên hệ bộ phận bán hàng (0906.988.186).</h3>
+		<div class="clear"></div>
 	</div>
-	<div class="clear"></div>
 </div>
 
 
@@ -1417,16 +1419,16 @@ ol, ul{line-height:24px; margin-left:20px;}
 <div class="decoration"></div>
 <div class="footer center-text">
 	<amp-img alt="thuong mai truc tuyen brvt" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/bandothuongmaibrvt.jpg" width="700" height="278" layout="responsive"></amp-img>
-	<amp-social-share type="facebook" width="43" height="40" class="custom-news-share" data-param-app_id="1358757170982151" data-param-href="https://thuongmaitructuyenbrvt.github.io/hoangthinhphat/viet-phan-mem.amp.html" data-param-quote="Hoàng thịnh phát nhận viết phần mềm tính tiền hiệu suất mạnh mẽ, tính năng vượt trội, bảo mật cao, giá cả hợp lý">
+	<amp-social-share type="facebook" width="43" height="40" class="custom-news-share" data-param-app_id="1358757170982151" data-param-href="https://thuongmaitructuyenbrvt.github.io/hoangthinhphat/ban-hang-vinpos.amp.html" data-param-quote="Hoàng thịnh phát nhận viết phần mềm bán hàng vinpos hiệu suất mạnh mẽ, tính năng vượt trội, bảo mật cao, giá cả hợp lý">
 		<i class="fa fa-facebook"></i>
 	</amp-social-share>
-	<amp-social-share type="twitter" width="43" height="40" class="custom-news-share" data-param-text="Hoàng thịnh phát nhận viết phần mềm tính tiền hiệu suất mạnh mẽ, tính năng vượt trội, bảo mật cao, giá cả hợp lý #viet #phan #mem" data-param-url="https://thuongmaitructuyenbrvt.github.io/hoangthinhphat/viet-phan-mem.amp.html">
+	<amp-social-share type="twitter" width="43" height="40" class="custom-news-share" data-param-text="Hoàng thịnh phát nhận viết phần mềm bán hàng vinpos hiệu suất mạnh mẽ, tính năng vượt trội, bảo mật cao, giá cả hợp lý #ban #hang #vinpos" data-param-url="https://thuongmaitructuyenbrvt.github.io/hoangthinhphat/ban-hang-vinpos.amp.html">
 		<i class="fa fa-twitter"></i>
 	</amp-social-share>
-	<amp-social-share type="pinterest" width="43" height="40" class="custom-news-share" data-param-media="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhhoangthinhphat/phanmemvinpos.jpg" data-param-url="https://thuongmaitructuyenbrvt.github.io/hoangthinhphat/viet-phan-mem.amp.html" data-param-description="Hoàng thịnh phát nhận viết phần mềm tính tiền hiệu suất mạnh mẽ, tính năng vượt trội, bảo mật cao, giá cả hợp lý #viet #phan #mem">
+	<amp-social-share type="pinterest" width="43" height="40" class="custom-news-share" data-param-media="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhhoangthinhphat/phanmemvinpos.jpg" data-param-url="https://thuongmaitructuyenbrvt.github.io/hoangthinhphat/ban-hang-vinpos.amp.html" data-param-description="Hoàng thịnh phát nhận viết phần mềm bán hàng vinpos hiệu suất mạnh mẽ, tính năng vượt trội, bảo mật cao, giá cả hợp lý #ban #hang #vinpos">
 		<i class="fa fa-pinterest"></i>
 	</amp-social-share>
-	<amp-social-share type="tumblr" width="43" height="40" class="custom-news-share" data-param-url="https://thuongmaitructuyenbrvt.github.io/hoangthinhphat/viet-phan-mem.amp.html" data-param-text="Hoàng thịnh phát nhận viết phần mềm tính tiền hiệu suất mạnh mẽ, tính năng vượt trội, bảo mật cao, giá cả hợp lý">
+<amp-social-share type="tumblr" width="43" height="40" class="custom-news-share" data-param-url="https://thuongmaitructuyenbrvt.github.io/hoangthinhphat/ban-hang-vinpos.amp.html" data-param-text="Hoàng thịnh phát nhận viết phần mềm bán hàng vinpos hiệu suất mạnh mẽ, tính năng vượt trội, bảo mật cao, giá cả hợp lý">
 		<i class="fa fa-tumblr"></i>
 	</amp-social-share>
 	<a href="#"><i class="fa fa-chevron-up"></i></a>
