@@ -5,36 +5,45 @@
 <script type="application/ld+json">
 {
 	"@context":"https://schema.org",
-	"@type":"Product",
+	"@type":"ProfessionalService",
 	"image":"https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/websitebootstrapv4.jpg",
-	"name":"sản phẩm giải trí",
-	"itemCondition":"mới",
-	"brand":"ThươngMạiBRVT",
-	"sku":"bootstrapgiaitri",
-	"gtin8":"-giaitri",
-	"description":"Giá 5 gói sản phẩm bootstrap giải trí gồm website truyền thông gotube, website món ngon gourmet, website hương vị retation, website điện ảnh zola, website game online necromancers",
-	"additionalProperty":
-	[
-		{
-			"@type":"PropertyValue",
-			"name":"khả năng tương thích",
-			"value":"chuẩn seo mọi thiết bị"
-		}
-	],
-	"review":
+	"name":"bootstrap giải trí",
+	"description":"Giá website bootstrap giải trí truyền thông gotube, món ngon gourmet, hương vị retation, điện ảnh zola, game online necromancers",
+	"priceRange":"$$",
+	"telephone":"+84 869202254",
+	"address":
 	{
-		"@type":"Review",
-		"author":
+		"@type":"PostalAddress",
+		"@id":"https://g.page/thuongmaibrvt",
+		"streetAddress":"56 nguyễn hữu huân, long tâm",
+		"addressLocality":"bà rịa",
+		"addressRegion":"bà rịa - vũng tàu",
+		"postalCode":"78110",
+		"addressCountry":
 		{
-			"@type":"Person",
-			"name":"itvtbadboy",
-			"gender":"Male",
-			"birthDate":"Mar 08, 1983",
-			"jobTitle":"SEO",
-			"email":"itvtbadboy@gmail.com",
-			"image":"https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/itvtbadboy02.jpg",
-			"url":"https://www.google.com/maps/place/Kh%C6%B0%C6%A1ng+Itvtbadboy/@10.5108269,107.1828978,15z/data=!4m5!3m4!1s0x31750ca8bde0c755:0x47f0ac8ef7681740!8m2!3d10.5108216!4d107.1916525",
-			"memberOf":"ThươngMạiBRVT"
+			"@type":"Country",
+			"name":"Vietnam"
+		}
+	},
+	"makesOffer":
+	{
+		"@type":"Offer",
+		"priceSpecification":
+		{
+			"@type":"DeliveryChargeSpecification",
+			"appliesToDeliveryMethod":"DeliveryModeOwnFleet",
+			"eligibleTransactionVolume":
+			{
+				"@type":"PriceSpecification",
+				"price":3000000,
+				"priceCurrency":"VND"
+			},
+			"eligibleRegion":
+			{
+				"@type":"GeoCircle",
+				"@id":"https://g.page/thuongmaibrvt",
+				"geoRadius":"5000"
+			}
 		}
 	},
 	"aggregateRating":
@@ -43,89 +52,90 @@
 		"ratingValue":5,
 		"reviewCount":5
 	},
-	"offers":
+	"hasOfferCatalog":
 	{
-		"@type":"Offer",
-		"price":3000000,
-		"priceCurrency":"VND",
-		"priceValidUntil":"Jun 30, 2020",
-		"availability":"https://schema.org/InStock",
-		"url":"https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/san-pham-giai-tri.amp.html"
-	},
-	"isRelatedTo":
-	{
-		"@type":"ItemList",
-		"numberOfItems":5,
+		"@type":"OfferCatalog",
+		"name":"giải trí",
 		"itemListElement":
 		[
 			{
-				"@type":"Service",
-				"serviceType":"BusinessSupport",
-				"name":"truyền thông",
-				"description":"Giá sản phẩm website truyền thông bootstrap gotube",
+				"@type":"Offer",
 				"image":"https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/entertainmentgotube.jpg",
-				"url":"https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/san-pham-giai-tri.amp.html#truyenthong",
-				"offers":
+				"url":"https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/bootstrap-giai-tri.amp.html#boottruyenthong",
+				"name":"boot truyền thông",
+				"price":3000000,
+				"priceCurrency":"VND",
+				"availability":"InStock",
+				"itemCondition":"New",
+				"description":"Website bootstrap giải trí truyền thông gotube hỗ trợ kinh doanh dịch vụ quảng cáo sản phẩm đa phương tiện tiếp cận thị trường tiềm năng",
+				"seller":
 				{
-					"@type":"Offer",
-					"priceCurrency":"VND",
-					"price":3000000
+					"@type":"Organization",
+					"name":"ThươngMạiBRVT"
 				}
 			},
 			{
-				"@type":"Service",
-				"serviceType":"BusinessSupport",
-				"name":"món ngon",
-				"description":"Giá sản phẩm website món ngon bootstrap gourmet",
+				"@type":"Offer",
 				"image":"https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/entertainmentgourmet.jpg",
-				"url":"https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/san-pham-giai-tri.amp.html#monngon",
-				"offers":
+				"url":"https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/bootstrap-giai-tri.amp.html#bootstrapmonngon",
+				"name":"bootstrap món ngon",
+				"price":3000000,
+				"priceCurrency":"VND",
+				"availability":"InStock",
+				"itemCondition":"New",
+				"description":"Website bootstrap giải trí món ngon gourmet cho phép kinh doanh đặc sản 3 miền xây dựng ứng dụng bách khoa món ngon du lịch",
+				"seller":
 				{
-					"@type":"Offer",
-					"priceCurrency":"VND",
-					"price":3000000
+					"@type":"Organization",
+					"name":"ThươngMạiBRVT"
 				}
 			},
 			{
-				"@type":"Service",
-				"serviceType":"BusinessSupport",
-				"name":"hương vị",
-				"description":"Giá sản phẩm website hương vị bootstrap retation",
+				"@type":"Offer",
 				"image":"https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/entertainmentretation.jpg",
-				"url":"https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/san-pham-giai-tri.amp.html#huongvi",
-				"offers":
+				"url":"https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/bootstrap-giai-tri.amp.html#bootstraphuongvi",
+				"name":"bootstrap hương vị",
+				"price":3000000,
+				"priceCurrency":"VND",
+				"availability":"InStock",
+				"itemCondition":"New",
+				"description":"Website bootstrap giải trí hương vị retation tạo cơ hội xây dựng nhà hàng, quán ăn, cà phê kinh doanh ẩm thực sáng tạo đa hương vị",
+				"seller":
 				{
-					"@type":"Offer",
-					"priceCurrency":"VND",
-					"price":3000000
+					"@type":"Organization",
+					"name":"ThươngMạiBRVT"
 				}
 			},
 			{
-				"@type":"Service",
-				"serviceType":"BusinessSupport",
-				"name":"điện ảnh",
-				"description":"Giá sản phẩm website điện ảnh bootstrap zola",
+				"@type":"Offer",
 				"image":"https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/entertainmentzola.jpg",
-				"url":"https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/san-pham-giai-tri.amp.html#dienanh",
-				"offers":
+				"url":"https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/bootstrap-giai-tri.amp.html#bootstrapdienanh",
+				"name":"bootstrap điện ảnh",
+				"price":3000000,
+				"priceCurrency":"VND",
+				"availability":"InStock",
+				"itemCondition":"New",
+				"description":"Website bootstrap giải trí điện ảnh zola cho phép cá nhân xây dựng kênh giải trí gia đình, doanh nghiệp quảng bá sản phẩm đa phương tiện",
+				"seller":
 				{
-					"@type":"Offer",
-					"priceCurrency":"VND",
-					"price":3000000
+					"@type":"Organization",
+					"name":"ThươngMạiBRVT"
 				}
 			},
 			{
-				"@type":"Service",
-				"serviceType":"BusinessSupport",
-				"name":"game online",
-				"description":"Giá sản phẩm website game online bootstrap necromancers",
+				"@type":"Offer",
 				"image":"https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/entertainmentnecromancers.jpg",
-				"url":"https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/san-pham-giai-tri.amp.html#gameonline",
-				"offers":
+				"url":"https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/bootstrap-giai-tri.amp.html#bootgameonline",
+				"name":"boot game online",
+				"price":3000000,
+				"priceCurrency":"VND",
+				"availability":"InStock",
+				"itemCondition":"New",
+				"description":"Website bootstrap giải trí game online necromancers hỗ trợ kinh doanh cửa hàng game online, phối hợp cung cấp cafe ăn uống, thẻ game, cho phép cá nhân phát triển dịch vụ cài đặt, bảo trì phòng game",
+				"seller":
 				{
-					"@type":"Offer",
-					"priceCurrency":"VND",
-					"price":3000000
+					"@type":"Organization",
+					"name":"ThươngMạiBRVT"
 				}
 			}
 		]
@@ -135,13 +145,13 @@
 
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <link href="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/badboy.ico" rel="shortcut icon" type="image/x-icon">
-<link rel="canonical" href="https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/san-pham-website-bootstrap-giai-tri.html">
+<link rel="canonical" href="https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/thuong-mai-giai-tri-bootstrap.html">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
-<title>sản phẩm giải trí | sản phẩm thương mại</title>
-<meta name="title" content="san pham giai tri">
-<meta name="keywords" content="san,pham,giai,tri">
-<meta name="description" content="Giá 5 gói sản phẩm bootstrap giải trí gồm website truyền thông gotube, website món ngon gourmet, website hương vị retation, website điện ảnh zola, website game online necromancers">
+<title>bootstrap giải trí | sản phẩm</title>
+<meta name="title" content="bootstrap giai tri">
+<meta name="keywords" content="bootstrap,giai,tri">
+<meta name="description" content="Giá website bootstrap giải trí truyền thông gotube, món ngon gourmet, hương vị retation, điện ảnh zola, game online necromancers">
 <meta name="robots" content="index, follow">
 
 <script async src="https://cdn.ampproject.org/v0.js"></script>
@@ -1298,6 +1308,7 @@ ol, ul{line-height:24px; margin-left:20px;}
 	width:100%;
 	color:#0099ff;
 	font-size:15px;
+	text-align:center;
 	box-shadow:0 1px 2px #333;
 }
 .featured-story h1{
@@ -1385,36 +1396,65 @@ ol, ul{line-height:24px; margin-left:20px;}
 	margin-bottom:30px;
 	padding:30px 0px 15px 0px;
 }
+.menu-thoi-trang{
+	position:absolute;
+	display:block;
+	color:#ffffff;
+	font-size:20px;
+	font-style:normal;
+	font-weight:700;
+	display:inline-block;
+	padding:5px 7px;
+	z-index:5;
+	left:0px;
+	margin-top:-31px;
+	border-bottom-left-radius: 5px;
+}
 </style>
 <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
 </head>
 <body>
 <header>
-	<a href="https://thuongmaitructuyenbrvt.github.io/khai-thac-thuong-mai-brvt.amp.html" class="header-logo"></a>
+	<a href="https://thuongmaitructuyenbrvt.github.io/thuong-mai.amp.html" class="header-logo"></a>
+	<button class="header-icon-2" on='tap:sidebar.toggle'><i class="fa fa-navicon"></i></button>
 	<a href="https://join.skype.com/nFE0GoIAszSa" class="header-icon-1" target="_blank">
 		<i class="fa fa-skype"></i>
 	</a>
 </header>
 <div class="header-clear"></div>
+<amp-sidebar id="sidebar" layout="nodisplay" side="left">
+	<a class="sidebar-logo"></a>
+	<amp-img alt="khuong itvtbadboy" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/itvtbadboy02.jpg" layout="responsive" width="300" height="300"></amp-img>
+	<ul class="sidebar-menu">
+		<a href="mailto:itvtbadboy@gmail.com" target="_blank" title="dương thành khương"><i class="fa fa-envelope-square"></i>Dương thành khương</a>
+		<a href="https://khuongitvtbadboy.github.io/" target="_blank" title="khuong itvtbadboy"><i class="fa fa-user-secret"></i>Khuong itvtbadboy</a>
+		<a title="phát triển thương mại"><i class="fa fa-briefcase"></i>Phát triển thương mại</a>
+		<a href="https://hangouts.google.com/call/hqgbfrzomzcgjnfm6mupnqmq3ae" target="_blank" title="video call google"><i class="fa fa-video-camera"></i>Video call google</a>
+		<a href="https://www.youtube.com/watch?v=tzdC3wWVmIQ" target="_blank" title="live stream youtube"><i class="fa fa-youtube"></i>Live stream youtube</a>
+		<a href="https://twitter.com/messages/compose?recipient_id=1226715199664615426&text=H%E1%BB%97%20tr%E1%BB%A3:%20" target="_blank" title="messages twitter"><i class="fa fa-twitter-square"></i>Messages twitter</a>
+		<a href="https://m.me/thuongmaigithub" target="_blank" title="video call facebook"><i class="fa fa-facebook-official"></i>Video call facebook</a>
+	</ul>
+	<div class="decoration"></div>
+</amp-sidebar>
 
 
 
 <div class="page-content">
-	<amp-img alt="san pham giai tri" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/websitebootstrapv4.jpg" width="700" height="278" layout="responsive"></amp-img>
 	<div class="featured-story content">
 		<div class="news-top half-bottom center-text">
 			<a class="news-header">
-				<h1 style="color:#3498db;margin-top:30px;">SẢN PHẨM GIẢI TRÍ</h1>
+				<h1 style="color:#3498db;margin-top:30px;">BOOTSTRAP GIẢI TRÍ</h1>
 			</a>
-			<p>giá 5 gói sản phẩm bootstrap giải trí gồm website truyền thông gotube, website món ngon gourmet, website hương vị retation, website điện ảnh zola, website game online necromancers</p>
+			<h3 style="margin-bottom:30px;">giá website bootstrap giải trí truyền thông gotube, món ngon gourmet, hương vị retation, điện ảnh zola, game online necromancers</h3>
 		</div>
 	</div>
 
+
 	<div class="decoration"></div>
 	<div class="featured-story content">
-		<amp-img alt="truyen thong" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/entertainmentgotube.jpg" width="700" height="278" layout="responsive"></amp-img>
+		<amp-img alt="boot truyen thong" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/entertainmentgotube.jpg" width="700" height="278" layout="responsive"></amp-img>
 		<em class="bg-blue-light">
-			<h2 id="truyenthong">truyền thông</h2>
+			<h2 id="boottruyenthong">boot truyền thông</h2>
 		</em><br>
 		<table style="margin-top:30px;width:100%;">
 			<tr>
@@ -1426,20 +1466,20 @@ ol, ul{line-height:24px; margin-left:20px;}
 				<th><a style="font-size:17px;" href="https://hangouts.google.com/call/hqgbfrzomzcgjnfm6mupnqmq3ae" target="_blank" class="full-bottom huge-icon fa fa-google-plus"> chat</a></th>
 			</tr>
 		</table>
-		<p>&#10032; Giá sản phẩm website truyền thông bootstrap gotube.</p>
-		<ul style="margin-bottom:15px;margin-top:30px;">
-			<li>mã hàng: truyenthonggotube</li>
+		<h3 style="margin-bottom:22px;"><i class="fa fa-star"></i> Giá sản phẩm website bootstrap giải trí truyền thông gotube.</h3>
+		<ul style="margin-bottom:22px;">
+			<li>mã web: -truyenthong</li>
 			<li>giá truyền thông: 3000000</li>
 		</ul>
-		<p>&#10032; Website truyền thông bootstrap gotube hỗ trợ doanh nghiệp quảng bá tin tức giới thiệu sản phẩm đến người tiêu dùng thông qua video.</p>
-	</div>
-	<div class="clear"></div>
-
+		<h3 style="margin-bottom:22px;"><i class="fa fa-star"></i> Website bootstrap giải trí truyền thông gotube hỗ trợ kinh doanh dịch vụ quảng cáo sản phẩm đa phương tiện tiếp cận thị trường tiềm năng.</h3>
+	</div><div class="clear"></div>
+	
+	
 	<div class="decoration"></div>
 	<div class="featured-story content">
-		<amp-img alt="mon ngon" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/entertainmentgourmet.jpg" width="700" height="278" layout="responsive"></amp-img>
+		<amp-img alt="bootstrap mon ngon" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/entertainmentgourmet.jpg" width="700" height="278" layout="responsive"></amp-img>
 		<em class="bg-blue-light">
-			<h2 id="monngon">món ngon</h2>
+			<h2 id="bootstrapmonngon">bootstrap món ngon</h2>
 		</em><br>
 		<table style="margin-top:30px;width:100%;">
 			<tr>
@@ -1451,20 +1491,20 @@ ol, ul{line-height:24px; margin-left:20px;}
 				<th><a style="font-size:17px;" href="https://hangouts.google.com/call/hqgbfrzomzcgjnfm6mupnqmq3ae" target="_blank" class="full-bottom huge-icon fa fa-google-plus"> chat</a></th>
 			</tr>
 		</table>
-		<p>&#10032; Giá sản phẩm website món ngon bootstrap gourmet.</p>
-		<ul style="margin-bottom:15px;margin-top:30px;">
-			<li>mã hàng: monngongourmet</li>
+		<h3 style="margin-bottom:22px;"><i class="fa fa-star"></i> Giá sản phẩm website bootstrap giải trí món ngon gourmet.</h3>
+		<ul style="margin-bottom:22px;">
+			<li>mã web: -monngon</li>
 			<li>giá món ngon: 3000000</li>
 		</ul>
-		<p>&#10032; Website món ngon bootstrap gourmet cho phép cá nhân, doanh nghiệp chia sẽ những món ăn ngon không thể tả đến với văn hóa ẩm thực.</p>
-	</div>
-	<div class="clear"></div>
+		<h3 style="margin-bottom:22px;"><i class="fa fa-star"></i> Website bootstrap giải trí món ngon gourmet cho phép kinh doanh đặc sản 3 miền xây dựng ứng dụng bách khoa món ngon du lịch.</h3>
+	</div><div class="clear"></div>
+
 
 	<div class="decoration"></div>
 	<div class="featured-story content">
-		<amp-img alt="huong vi" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/entertainmentretation.jpg" width="700" height="278" layout="responsive"></amp-img>
+		<amp-img alt="bootstrap huong vi" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/entertainmentretation.jpg" width="700" height="278" layout="responsive"></amp-img>
 		<em class="bg-blue-light">
-			<h2 id="huongvi">hương vị</h2>
+			<h2 id="bootstraphuongvi">bootstrap hương vị</h2>
 		</em><br>
 		<table style="margin-top:30px;width:100%;">
 			<tr>
@@ -1476,20 +1516,20 @@ ol, ul{line-height:24px; margin-left:20px;}
 				<th><a style="font-size:17px;" href="https://hangouts.google.com/call/hqgbfrzomzcgjnfm6mupnqmq3ae" target="_blank" class="full-bottom huge-icon fa fa-google-plus"> chat</a></th>
 			</tr>
 		</table>
-		<p>&#10032; Giá sản phẩm website hương vị bootstrap retation.</p>
-		<ul style="margin-bottom:15px;margin-top:30px;">
-			<li>mã hàng: huongviretation</li>
+		<h3 style="margin-bottom:22px;"><i class="fa fa-star"></i> Giá sản phẩm website bootstrap giải trí hương vị retation.</h3>
+		<ul style="margin-bottom:22px;">
+			<li>mã web: -huongvi</li>
 			<li>giá hương vị: 3000000</li>
 		</ul>
-		<p>&#10032; Website hương vị bootstrap retation hỗ trợ doanh nghiệp quảng bá nhà hàng, quán ăn hoặc các buổi tiệc chiêu đãi thông qua hương vị cà phê, ẩm thực và đồ uống.</p>
-	</div>
-	<div class="clear"></div>
+		<h3 style="margin-bottom:22px;"><i class="fa fa-star"></i> Website bootstrap giải trí hương vị retation tạo cơ hội xây dựng nhà hàng, quán ăn, cà phê kinh doanh ẩm thực sáng tạo đa hương vị.</h3>
+	</div><div class="clear"></div>
+
 
 	<div class="decoration"></div>
 	<div class="featured-story content">
-		<amp-img alt="dien anh" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/entertainmentzola.jpg" width="700" height="278" layout="responsive"></amp-img>
+		<amp-img alt="bootstrap dien anh" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/entertainmentzola.jpg" width="700" height="278" layout="responsive"></amp-img>
 		<em class="bg-blue-light">
-			<h2 id="dienanh">điện ảnh</h2>
+			<h2 id="bootstrapdienanh">bootstrap điện ảnh</h2>
 		</em><br>
 		<table style="margin-top:30px;width:100%;">
 			<tr>
@@ -1501,20 +1541,20 @@ ol, ul{line-height:24px; margin-left:20px;}
 				<th><a style="font-size:17px;" href="https://hangouts.google.com/call/hqgbfrzomzcgjnfm6mupnqmq3ae" target="_blank" class="full-bottom huge-icon fa fa-google-plus"> chat</a></th>
 			</tr>
 		</table>
-		<p>&#10032; Giá sản phẩm website điện ảnh bootstrap zola.</p>
-		<ul style="margin-bottom:15px;margin-top:30px;">
-			<li>mã hàng: dienanhzola</li>
+		<h3 style="margin-bottom:22px;"><i class="fa fa-star"></i> Giá sản phẩm website bootstrap giải trí điện ảnh zola.</h3>
+		<ul style="margin-bottom:22px;">
+			<li>mã web: -dienanh</li>
 			<li>giá điện ảnh: 3000000</li>
 		</ul>
-		<p>&#10032; Website điện ảnh bootstrap zola cho phép người dùng sáng tạo các kênh điện ảnh đặc sắc phục vụ nhu cầu giải trí gia đình, chia sẽ bạn bè hay kiếm tiền trực tuyến.</p>
-	</div>
-	<div class="clear"></div>
+		<h3 style="margin-bottom:22px;"><i class="fa fa-star"></i> Website bootstrap giải trí điện ảnh zola cho phép cá nhân xây dựng kênh giải trí gia đình, doanh nghiệp quảng bá sản phẩm đa phương tiện.</h3>
+	</div><div class="clear"></div>
+
 
 	<div class="decoration"></div>
 	<div class="featured-story content">
-		<amp-img alt="game online" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/entertainmentnecromancers.jpg" width="700" height="278" layout="responsive"></amp-img>
+		<amp-img alt="boot game online" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/entertainmentnecromancers.jpg" width="700" height="278" layout="responsive"></amp-img>
 		<em class="bg-blue-light">
-			<h2 id="gameonline">game online</h2>
+			<h2 id="bootgameonline">boot game online</h2>
 		</em><br>
 		<table style="margin-top:30px;width:100%;">
 			<tr>
@@ -1526,14 +1566,13 @@ ol, ul{line-height:24px; margin-left:20px;}
 				<th><a style="font-size:17px;" href="https://hangouts.google.com/call/hqgbfrzomzcgjnfm6mupnqmq3ae" target="_blank" class="full-bottom huge-icon fa fa-google-plus"> chat</a></th>
 			</tr>
 		</table>
-		<p>&#10032; Giá sản phẩm website game online bootstrap necromancers.</p>
-		<ul style="margin-bottom:15px;margin-top:30px;">
-			<li>mã hàng: gamenecromancers</li>
+		<h3 style="margin-bottom:22px;"><i class="fa fa-star"></i> Giá sản phẩm website bootstrap giải trí game online necromancers.</h3>
+		<ul style="margin-bottom:22px;">
+			<li>mã web: --gameonline</li>
 			<li>giá game online: 3000000</li>
 		</ul>
-		<p>&#10032; Website game online bootstrap necromancers hỗ trợ doanh nghiệp kinh doanh game trực tuyến, cộng đồng game thủ online chưa bao giờ hết sôi nổi.</p>
-	</div>
-	<div class="clear"></div>
+		<h3 style="margin-bottom:22px;"><i class="fa fa-star"></i> Website bootstrap giải trí game online necromancers hỗ trợ kinh doanh cửa hàng game online, phối hợp cung cấp cafe ăn uống, thẻ game, cho phép cá nhân phát triển dịch vụ cài đặt, bảo trì phòng game.</h3>
+	</div><div class="clear"></div>
 </div>
 
 
@@ -1541,16 +1580,16 @@ ol, ul{line-height:24px; margin-left:20px;}
 <div class="decoration"></div>
 <div class="footer center-text">
 	<amp-img alt="thuong mai truc tuyen brvt" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/bandothuongmaibrvt.jpg" width="700" height="278" layout="responsive"></amp-img>
-	<amp-social-share type="facebook" width="43" height="40" class="custom-news-share" data-param-app_id="1358757170982151" data-param-href="https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/san-pham-giai-tri.amp.html" data-param-quote="Giá 5 gói sản phẩm bootstrap giải trí gồm website truyền thông gotube, website món ngon gourmet, website hương vị retation, website điện ảnh zola, website game online necromancers">
+	<amp-social-share type="facebook" width="43" height="40" class="custom-news-share" data-param-app_id="1358757170982151" data-param-href="https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/bootstrap-giai-tri.amp.html" data-param-quote="Giá website bootstrap giải trí truyền thông gotube, món ngon gourmet, hương vị retation, điện ảnh zola, game online necromancers">
 		<i class="fa fa-facebook"></i>
 	</amp-social-share>
-	<amp-social-share type="twitter" width="43" height="40" class="custom-news-share" data-param-text="Giá 5 gói sản phẩm bootstrap giải trí gồm website truyền thông gotube, website món ngon gourmet, website hương vị retation, website điện ảnh zola, website game online necromancers #sanpham #giai #tri" data-param-url="https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/san-pham-giai-tri.amp.html">
+	<amp-social-share type="twitter" width="43" height="40" class="custom-news-share" data-param-text="Giá website bootstrap giải trí truyền thông gotube, món ngon gourmet, hương vị retation, điện ảnh zola, game online necromancers #bootstrap #giai #tri" data-param-url="https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/bootstrap-giai-tri.amp.html">
 		<i class="fa fa-twitter"></i>
 	</amp-social-share>
-	<amp-social-share type="pinterest" width="43" height="40" class="custom-news-share" data-param-media="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/websitebootstrapv4.jpg" data-param-url="https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/san-pham-giai-tri.amp.html" data-param-description="Giá 5 gói sản phẩm bootstrap giải trí gồm website truyền thông gotube, website món ngon gourmet, website hương vị retation, website điện ảnh zola, website game online necromancers #sanpham #giai #tri">
+	<amp-social-share type="pinterest" width="43" height="40" class="custom-news-share" data-param-media="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/websitebootstrapv4.jpg" data-param-url="https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/bootstrap-giai-tri.amp.html" data-param-description="Giá website bootstrap giải trí truyền thông gotube, món ngon gourmet, hương vị retation, điện ảnh zola, game online necromancers #bootstrap #giai #tri">
 		<i class="fa fa-pinterest"></i>
 	</amp-social-share>
-	<amp-social-share type="tumblr" width="43" height="40" class="custom-news-share" data-param-url="https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/san-pham-giai-tri.amp.html" data-param-text="Giá 5 gói sản phẩm bootstrap giải trí gồm website truyền thông gotube, website món ngon gourmet, website hương vị retation, website điện ảnh zola, website game online necromancers">
+	<amp-social-share type="tumblr" width="43" height="40" class="custom-news-share" data-param-url="https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/bootstrap-giai-tri.amp.html" data-param-text="Giá website bootstrap giải trí truyền thông gotube, món ngon gourmet, hương vị retation, điện ảnh zola, game online necromancers">
 		<i class="fa fa-tumblr"></i>
 	</amp-social-share>
 	<a href="#"><i class="fa fa-chevron-up"></i></a>
