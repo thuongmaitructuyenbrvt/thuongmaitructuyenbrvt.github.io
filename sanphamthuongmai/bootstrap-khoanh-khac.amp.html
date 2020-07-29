@@ -5,36 +5,45 @@
 <script type="application/ld+json">
 {
 	"@context":"https://schema.org",
-	"@type":"Product",
+	"@type":"ProfessionalService",
 	"image":"https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/websitebootstrapv4.jpg",
-	"name":"sản phẩm khoảnh khắc",
-	"itemCondition":"mới",
-	"brand":"ThươngMạiBRVT",
-	"sku":"bootstrapkhoanhkhac",
-	"gtin12":"--khoanhkhac",
-	"description":"Giá 5 gói sản phẩm bootstrap khoảnh khắc gồm website việc làm careers, website tin tức globo, website khuyến mãi koupon, website bạn tình chatroom, website kinh tế salesman",
-	"additionalProperty":
-	[
-		{
-			"@type":"PropertyValue",
-			"name":"khả năng tương thích",
-			"value":"chuẩn seo mọi thiết bị"
-		}
-	],
-	"review":
+	"name":"bootstrap khoảnh khắc",
+	"description":"Giá website bootstrap khoảnh khắc việc làm careers, điểm tin globo, khuyến mãi koupon, tìm bạn chatroom, bán hàng salesman",
+	"priceRange":"$$",
+	"telephone":"+84 869202254",
+	"address":
 	{
-		"@type":"Review",
-		"author":
+		"@type":"PostalAddress",
+		"@id":"https://g.page/thuongmaibrvt",
+		"streetAddress":"56 nguyễn hữu huân, long tâm",
+		"addressLocality":"bà rịa",
+		"addressRegion":"bà rịa - vũng tàu",
+		"postalCode":"78110",
+		"addressCountry":
 		{
-			"@type":"Person",
-			"name":"itvtbadboy",
-			"gender":"Male",
-			"birthDate":"Mar 08, 1983",
-			"jobTitle":"SEO",
-			"email":"itvtbadboy@gmail.com",
-			"image":"https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/itvtbadboy02.jpg",
-			"url":"https://www.google.com/maps/place/Kh%C6%B0%C6%A1ng+Itvtbadboy/@10.5108269,107.1828978,15z/data=!4m5!3m4!1s0x31750ca8bde0c755:0x47f0ac8ef7681740!8m2!3d10.5108216!4d107.1916525",
-			"memberOf":"ThươngMạiBRVT"
+			"@type":"Country",
+			"name":"Vietnam"
+		}
+	},
+	"makesOffer":
+	{
+		"@type":"Offer",
+		"priceSpecification":
+		{
+			"@type":"DeliveryChargeSpecification",
+			"appliesToDeliveryMethod":"DeliveryModeOwnFleet",
+			"eligibleTransactionVolume":
+			{
+				"@type":"PriceSpecification",
+				"price":3000000,
+				"priceCurrency":"VND"
+			},
+			"eligibleRegion":
+			{
+				"@type":"GeoCircle",
+				"@id":"https://g.page/thuongmaibrvt",
+				"geoRadius":"5000"
+			}
 		}
 	},
 	"aggregateRating":
@@ -43,89 +52,90 @@
 		"ratingValue":5,
 		"reviewCount":5
 	},
-	"offers":
+	"hasOfferCatalog":
 	{
-		"@type":"Offer",
-		"price":3000000,
-		"priceCurrency":"VND",
-		"priceValidUntil":"Jun 30, 2020",
-		"availability":"https://schema.org/InStock",
-		"url":"https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/san-pham-khoanh-khac.amp.html"
-	},
-	"isRelatedTo":
-	{
-		"@type":"ItemList",
-		"numberOfItems":5,
+		"@type":"OfferCatalog",
+		"name":"khoảnh khắc",
 		"itemListElement":
 		[
 			{
-				"@type":"Service",
-				"serviceType":"BusinessSupport",
-				"name":"việc làm",
-				"description":"Giá sản phẩm website việc làm bootstrap careers",
+				"@type":"Offer",
 				"image":"https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/miscellaneouscareers.jpg",
-				"url":"https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/san-pham-khoanh-khac.amp.html#vieclam",
-				"offers":
+				"url":"https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/bootstrap-khoanh-khac.amp.html#bootstrapvieclam",
+				"name":"bootstrap việc làm",
+				"price":3000000,
+				"priceCurrency":"VND",
+				"availability":"InStock",
+				"itemCondition":"New",
+				"description":"Website bootstrap khoảnh khắc việc làm careers hỗ trợ xây dựng liên kết giữa nhà tuyển dụng và người lao động",
+				"seller":
 				{
-					"@type":"Offer",
-					"priceCurrency":"VND",
-					"price":3000000
+					"@type":"Organization",
+					"name":"ThươngMạiBRVT"
 				}
 			},
 			{
-				"@type":"Service",
-				"serviceType":"BusinessSupport",
-				"name":"bạn tình",
-				"description":"Giá sản phẩm website bạn tình bootstrap chatroom",
+				"@type":"Offer",
 				"image":"https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/miscellaneouschatroom.jpg",
-				"url":"https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/san-pham-khoanh-khac.amp.html#bantinh",
-				"offers":
+				"url":"https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/bootstrap-khoanh-khac.amp.html#bootstraptimban",
+				"name":"bootstrap tìm bạn",
+				"price":3000000,
+				"priceCurrency":"VND",
+				"availability":"InStock",
+				"itemCondition":"New",
+				"description":"Website bootstrap khoảnh khắc tìm bạn chatroom cho phép kinh doanh dịch vụ tìm bạn bốn phương, người dùng chia sẽ góc khuất tâm tình của bản thân",
+				"seller":
 				{
-					"@type":"Offer",
-					"priceCurrency":"VND",
-					"price":3000000
+					"@type":"Organization",
+					"name":"ThươngMạiBRVT"
 				}
 			},
 			{
-				"@type":"Service",
-				"serviceType":"BusinessSupport",
-				"name":"tin tức",
-				"description":"Giá sản phẩm website tin tức bootstrap globo",
+				"@type":"Offer",
 				"image":"https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/miscellaneousglobo.jpg",
-				"url":"https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/san-pham-khoanh-khac.amp.html#tintuc",
-				"offers":
+				"url":"https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/bootstrap-khoanh-khac.amp.html#bootstrapdiemtin",
+				"name":"bootstrap điểm tin",
+				"price":3000000,
+				"priceCurrency":"VND",
+				"availability":"InStock",
+				"itemCondition":"New",
+				"description":"Website bootstrap khoảnh khắc điểm tin globo hỗ trợ khai thác dịch vụ tin tức hàng đầu top news, liên kết quảng bá cộng đồng doanh nghiệp",
+				"seller":
 				{
-					"@type":"Offer",
-					"priceCurrency":"VND",
-					"price":3000000
+					"@type":"Organization",
+					"name":"ThươngMạiBRVT"
 				}
 			},
 			{
-				"@type":"Service",
-				"serviceType":"BusinessSupport",
-				"name":"khuyến mãi",
-				"description":"Giá sản phẩm website khuyến mãi bootstrap koupon",
+				"@type":"Offer",
 				"image":"https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/miscellaneouskoupon.jpg",
-				"url":"https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/san-pham-khoanh-khac.amp.html#khuyenmai",
-				"offers":
+				"url":"https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/bootstrap-khoanh-khac.amp.html#bootkhuyenmai",
+				"name":"boot khuyến mãi",
+				"price":3000000,
+				"priceCurrency":"VND",
+				"availability":"InStock",
+				"itemCondition":"New",
+				"description":"Website bootstrap khoảnh khắc khuyến mãi koupon là giải pháp cạnh tranh không thể thiếu giúp doanh nghiệp giữ được khách hàng, đạt được chỉ tiêu kinh doanh",
+				"seller":
 				{
-					"@type":"Offer",
-					"priceCurrency":"VND",
-					"price":3000000
+					"@type":"Organization",
+					"name":"ThươngMạiBRVT"
 				}
 			},
 			{
-				"@type":"Service",
-				"serviceType":"BusinessSupport",
-				"name":"kinh tế",
-				"description":"Giá sản phẩm website kinh tế bootstrap salesman",
+				"@type":"Offer",
 				"image":"https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/miscellaneoussalesman.jpg",
-				"url":"https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/san-pham-khoanh-khac.amp.html#kinhte",
-				"offers":
+				"url":"https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/bootstrap-khoanh-khac.amp.html#bootstrapbanhang",
+				"name":"bootstrap bán hàng",
+				"price":3000000,
+				"priceCurrency":"VND",
+				"availability":"InStock",
+				"itemCondition":"New",
+				"description":"Website bootstrap khoảnh khắc bán hàng salesman hỗ trợ kinh doanh đa sản phẩm, đa dịch vụ, giúp địa phương phát triển kinh tế",
+				"seller":
 				{
-					"@type":"Offer",
-					"priceCurrency":"VND",
-					"price":3000000
+					"@type":"Organization",
+					"name":"ThươngMạiBRVT"
 				}
 			}
 		]
@@ -135,13 +145,13 @@
 
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <link href="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/badboy.ico" rel="shortcut icon" type="image/x-icon">
-<link rel="canonical" href="https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/san-pham-website-bootstrap-khoanh-khac.html">
+<link rel="canonical" href="https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/khoanh-khac-thuong-mai-bootstrap.html">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
-<title>sản phẩm khoảnh khắc | sản phẩm thương mại</title>
-<meta name="title" content="san pham khoanh khac">
-<meta name="keywords" content="san,pham,khoanh,khac">
-<meta name="description" content="Giá 5 gói sản phẩm bootstrap khoảnh khắc gồm website việc làm careers, website tin tức globo, website khuyến mãi koupon, website bạn tình chatroom, website kinh tế salesman">
+<title>bootstrap khoảnh khắc | sản phẩm</title>
+<meta name="title" content="bootstrap khoanh khac">
+<meta name="keywords" content="bootstrap,khoanh,khac">
+<meta name="description" content="Giá website bootstrap khoảnh khắc việc làm careers, điểm tin globo, khuyến mãi koupon, tìm bạn chatroom, bán hàng salesman">
 <meta name="robots" content="index, follow">
 
 <script async src="https://cdn.ampproject.org/v0.js"></script>
@@ -1298,6 +1308,7 @@ ol, ul{line-height:24px; margin-left:20px;}
 	width:100%;
 	color:#0099ff;
 	font-size:15px;
+	text-align:center;
 	box-shadow:0 1px 2px #333;
 }
 .featured-story h1{
@@ -1385,36 +1396,65 @@ ol, ul{line-height:24px; margin-left:20px;}
 	margin-bottom:30px;
 	padding:30px 0px 15px 0px;
 }
+.menu-thoi-trang{
+	position:absolute;
+	display:block;
+	color:#ffffff;
+	font-size:20px;
+	font-style:normal;
+	font-weight:700;
+	display:inline-block;
+	padding:5px 7px;
+	z-index:5;
+	left:0px;
+	margin-top:-31px;
+	border-bottom-left-radius: 5px;
+}
 </style>
 <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
 </head>
 <body>
 <header>
-	<a href="https://thuongmaitructuyenbrvt.github.io/khai-thac-thuong-mai-brvt.amp.html" class="header-logo"></a>
+	<a href="https://thuongmaitructuyenbrvt.github.io/thuong-mai.amp.html" class="header-logo"></a>
+	<button class="header-icon-2" on='tap:sidebar.toggle'><i class="fa fa-navicon"></i></button>
 	<a href="https://join.skype.com/nFE0GoIAszSa" class="header-icon-1" target="_blank">
 		<i class="fa fa-skype"></i>
 	</a>
 </header>
 <div class="header-clear"></div>
+<amp-sidebar id="sidebar" layout="nodisplay" side="left">
+	<a class="sidebar-logo"></a>
+	<amp-img alt="khuong itvtbadboy" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/itvtbadboy02.jpg" layout="responsive" width="300" height="300"></amp-img>
+	<ul class="sidebar-menu">
+		<a href="mailto:itvtbadboy@gmail.com" target="_blank" title="dương thành khương"><i class="fa fa-envelope-square"></i>Dương thành khương</a>
+		<a href="https://khuongitvtbadboy.github.io/" target="_blank" title="khuong itvtbadboy"><i class="fa fa-user-secret"></i>Khuong itvtbadboy</a>
+		<a title="phát triển thương mại"><i class="fa fa-briefcase"></i>Phát triển thương mại</a>
+		<a href="https://hangouts.google.com/call/hqgbfrzomzcgjnfm6mupnqmq3ae" target="_blank" title="video call google"><i class="fa fa-video-camera"></i>Video call google</a>
+		<a href="https://www.youtube.com/watch?v=tzdC3wWVmIQ" target="_blank" title="live stream youtube"><i class="fa fa-youtube"></i>Live stream youtube</a>
+		<a href="https://twitter.com/messages/compose?recipient_id=1226715199664615426&text=H%E1%BB%97%20tr%E1%BB%A3:%20" target="_blank" title="messages twitter"><i class="fa fa-twitter-square"></i>Messages twitter</a>
+		<a href="https://m.me/thuongmaigithub" target="_blank" title="video call facebook"><i class="fa fa-facebook-official"></i>Video call facebook</a>
+	</ul>
+	<div class="decoration"></div>
+</amp-sidebar>
 
 
 
 <div class="page-content">
-	<amp-img alt="san pham khoanh khac" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/websitebootstrapv4.jpg" width="700" height="278" layout="responsive"></amp-img>
 	<div class="featured-story content">
 		<div class="news-top half-bottom center-text">
 			<a class="news-header">
-				<h1 style="color:#3498db;margin-top:30px;">SẢN PHẨM KHOẢNH KHẮC</h1>
+				<h1 style="color:#3498db;margin-top:30px;">BOOTSTRAP KHOẢNH KHẮC</h1>
 			</a>
-			<p>giá 5 gói sản phẩm bootstrap khoảnh khắc gồm website việc làm careers, website tin tức globo, website khuyến mãi koupon, website bạn tình chatroom, website kinh tế salesman</p>
+			<h3 style="margin-bottom:30px;">giá website bootstrap khoảnh khắc việc làm careers, điểm tin globo, khuyến mãi koupon, tìm bạn chatroom, bán hàng salesman</h3>
 		</div>
 	</div>
 
+
 	<div class="decoration"></div>
 	<div class="featured-story content">
-		<amp-img alt="viec lam" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/miscellaneouscareers.jpg" width="700" height="278" layout="responsive"></amp-img>
+		<amp-img alt="bootstrap viec lam" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/miscellaneouscareers.jpg" width="700" height="278" layout="responsive"></amp-img>
 		<em class="bg-blue-light">
-			<h2 id="vieclam">việc làm</h2>
+			<h2 id="bootstrapvieclam">bootstrap việc làm</h2>
 		</em><br>
 		<table style="margin-top:30px;width:100%;">
 			<tr>
@@ -1426,20 +1466,20 @@ ol, ul{line-height:24px; margin-left:20px;}
 				<th><a style="font-size:17px;" href="https://hangouts.google.com/call/hqgbfrzomzcgjnfm6mupnqmq3ae" target="_blank" class="full-bottom huge-icon fa fa-google-plus"> chat</a></th>
 			</tr>
 		</table>
-		<p>&#10032; Giá sản phẩm website việc làm bootstrap careers.</p>
-		<ul style="margin-bottom:15px;margin-top:30px;">
-			<li>mã hàng: vieclamcareers</li>
+		<h3 style="margin-bottom:22px;"><i class="fa fa-star"></i> Giá sản phẩm website bootstrap khoảnh khắc việc làm careers.</h3>
+		<ul style="margin-bottom:22px;">
+			<li>mã web: vieclamcareers</li>
 			<li>giá việc làm: 3000000</li>
 		</ul>
-		<p>&#10032; Website việc làm bootstrap careers hỗ trợ doanh nghiệp xây dựng liên kết giữa nhà tuyển dụng và người lao động.</p>
-	</div>
-	<div class="clear"></div>
-
+		<h3 style="margin-bottom:22px;"><i class="fa fa-star"></i> Website bootstrap khoảnh khắc việc làm careers hỗ trợ xây dựng liên kết giữa nhà tuyển dụng và người lao động.</h3>
+	</div><div class="clear"></div>
+	
+	
 	<div class="decoration"></div>
 	<div class="featured-story content">
-		<amp-img alt="ban tinh" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/miscellaneouschatroom.jpg" width="700" height="278" layout="responsive"></amp-img>
+		<amp-img alt="bootstrap tim ban" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/miscellaneouschatroom.jpg" width="700" height="278" layout="responsive"></amp-img>
 		<em class="bg-blue-light">
-			<h2 id="bantinh">bạn tình</h2>
+			<h2 id="bootstraptimban">bootstrap tìm bạn</h2>
 		</em><br>
 		<table style="margin-top:30px;width:100%;">
 			<tr>
@@ -1451,20 +1491,20 @@ ol, ul{line-height:24px; margin-left:20px;}
 				<th><a style="font-size:17px;" href="https://hangouts.google.com/call/hqgbfrzomzcgjnfm6mupnqmq3ae" target="_blank" class="full-bottom huge-icon fa fa-google-plus"> chat</a></th>
 			</tr>
 		</table>
-		<p>&#10032; Giá sản phẩm website bạn tình bootstrap chatroom.</p>
-		<ul style="margin-bottom:15px;margin-top:30px;">
-			<li>mã hàng: bantinhchatroom</li>
-			<li>giá bạn tình: 3000000</li>
+		<h3 style="margin-bottom:22px;"><i class="fa fa-star"></i> Giá sản phẩm website bootstrap khoảnh khắc tìm bạn chatroom.</h3>
+		<ul style="margin-bottom:22px;">
+			<li>mã web: timbanchatroom</li>
+			<li>giá tìm bạn: 3000000</li>
 		</ul>
-		<p>&#10032; Website bạn tình bootstrap chatroom hỗ trợ doanh nghiệp kinh doanh dịch vụ tìm bạn bốn phương, cho phép người dùng chia sẽ góc khuất tâm tình của bản thân.</p>
-	</div>
-	<div class="clear"></div>
+		<h3 style="margin-bottom:22px;"><i class="fa fa-star"></i> Website bootstrap khoảnh khắc tìm bạn chatroom cho phép kinh doanh dịch vụ tìm bạn bốn phương, người dùng chia sẽ góc khuất tâm tình của bản thân.</h3>
+	</div><div class="clear"></div>
+
 
 	<div class="decoration"></div>
 	<div class="featured-story content">
-		<amp-img alt="tin tuc" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/miscellaneousglobo.jpg" width="700" height="278" layout="responsive"></amp-img>
+		<amp-img alt="bootstrap diem tin" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/miscellaneousglobo.jpg" width="700" height="278" layout="responsive"></amp-img>
 		<em class="bg-blue-light">
-			<h2 id="tintuc">tin tức</h2>
+			<h2 id="bootstrapdiemtin">bootstrap điểm tin</h2>
 		</em><br>
 		<table style="margin-top:30px;width:100%;">
 			<tr>
@@ -1476,20 +1516,20 @@ ol, ul{line-height:24px; margin-left:20px;}
 				<th><a style="font-size:17px;" href="https://hangouts.google.com/call/hqgbfrzomzcgjnfm6mupnqmq3ae" target="_blank" class="full-bottom huge-icon fa fa-google-plus"> chat</a></th>
 			</tr>
 		</table>
-		<p>&#10032; Giá sản phẩm website tin tức bootstrap globo.</p>
-		<ul style="margin-bottom:15px;margin-top:30px;">
-			<li>mã hàng: tintucglobo</li>
-			<li>giá tin tức: 3000000</li>
+		<h3 style="margin-bottom:22px;"><i class="fa fa-star"></i> Giá sản phẩm website bootstrap khoảnh khắc điểm tin globo.</h3>
+		<ul style="margin-bottom:22px;">
+			<li>mã web: diemtinglobo</li>
+			<li>giá điểm tin: 3000000</li>
 		</ul>
-		<p>&#10032; Website tin tức bootstrap globo hỗ trợ doanh nghiệp khai thác dịch vụ tin tức hàng đầu google news, liên kết quảng bá cộng đồng doanh nghiệp.</p>
-	</div>
-	<div class="clear"></div>
+		<h3 style="margin-bottom:22px;"><i class="fa fa-star"></i> Website bootstrap khoảnh khắc điểm tin globo hỗ trợ khai thác dịch vụ tin tức hàng đầu top news, liên kết quảng bá cộng đồng doanh nghiệp.</h3>
+	</div><div class="clear"></div>
+
 
 	<div class="decoration"></div>
 	<div class="featured-story content">
-		<amp-img alt="khuyen mai" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/miscellaneouskoupon.jpg" width="700" height="278" layout="responsive"></amp-img>
+		<amp-img alt="boot khuyen mai" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/miscellaneouskoupon.jpg" width="700" height="278" layout="responsive"></amp-img>
 		<em class="bg-blue-light">
-			<h2 id="khuyenmai">khuyến mãi</h2>
+			<h2 id="bootkhuyenmai">boot khuyến mãi</h2>
 		</em><br>
 		<table style="margin-top:30px;width:100%;">
 			<tr>
@@ -1501,20 +1541,20 @@ ol, ul{line-height:24px; margin-left:20px;}
 				<th><a style="font-size:17px;" href="https://hangouts.google.com/call/hqgbfrzomzcgjnfm6mupnqmq3ae" target="_blank" class="full-bottom huge-icon fa fa-google-plus"> chat</a></th>
 			</tr>
 		</table>
-		<p>&#10032; Giá sản phẩm website khuyến mãi bootstrap koupon.</p>
-		<ul style="margin-bottom:15px;margin-top:30px;">
-			<li>mã hàng: khuyenmaikoupon</li>
+		<h3 style="margin-bottom:22px;"><i class="fa fa-star"></i> Giá sản phẩm website bootstrap khoảnh khắc khuyến mãi koupon.</h3>
+		<ul style="margin-bottom:22px;">
+			<li>mã web: khuyenmaikoupon</li>
 			<li>giá khuyến mãi: 3000000</li>
 		</ul>
-		<p>&#10032; Website khuyến mãi bootstrap koupon là giải pháp cạnh tranh không thể thiếu giúp doanh nghiệp giữ được khách hàng, đạt được chỉ tiêu kinh doanh.</p>
-	</div>
-	<div class="clear"></div>
+		<h3 style="margin-bottom:22px;"><i class="fa fa-star"></i> Website bootstrap khoảnh khắc khuyến mãi koupon là giải pháp cạnh tranh không thể thiếu giúp doanh nghiệp giữ được khách hàng, đạt được chỉ tiêu kinh doanh.</h3>
+	</div><div class="clear"></div>
+
 
 	<div class="decoration"></div>
 	<div class="featured-story content">
-		<amp-img alt="kinh te" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/miscellaneoussalesman.jpg" width="700" height="278" layout="responsive"></amp-img>
+		<amp-img alt="bootstrap ban hang" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/miscellaneoussalesman.jpg" width="700" height="278" layout="responsive"></amp-img>
 		<em class="bg-blue-light">
-			<h2 id="kinhte">kinh tế</h2>
+			<h2 id="bootstrapbanhang">bootstrap bán hàng</h2>
 		</em><br>
 		<table style="margin-top:30px;width:100%;">
 			<tr>
@@ -1526,14 +1566,13 @@ ol, ul{line-height:24px; margin-left:20px;}
 				<th><a style="font-size:17px;" href="https://hangouts.google.com/call/hqgbfrzomzcgjnfm6mupnqmq3ae" target="_blank" class="full-bottom huge-icon fa fa-google-plus"> chat</a></th>
 			</tr>
 		</table>
-		<p>&#10032; Giá sản phẩm website kinh tế bootstrap salesman.</p>
-		<ul style="margin-bottom:15px;margin-top:30px;">
-			<li>mã hàng: kinhtesalesman</li>
-			<li>giá kinh tế: 3000000</li>
+		<h3 style="margin-bottom:22px;"><i class="fa fa-star"></i> Giá sản phẩm website bootstrap khoảnh khắc bán hàng salesman.</h3>
+		<ul style="margin-bottom:22px;">
+			<li>mã web: banhangsales</li>
+			<li>giá bán hàng: 3000000</li>
 		</ul>
-		<p>&#10032; Website kinh tế bootstrap salesman hỗ trợ doanh nghiệp kinh doanh đa sản phẩm, đa dịch vụ, giúp địa phương phát triển kinh tế.</p>
-	</div>
-	<div class="clear"></div>
+		<h3 style="margin-bottom:22px;"><i class="fa fa-star"></i> Website bootstrap khoảnh khắc bán hàng salesman hỗ trợ kinh doanh đa sản phẩm, đa dịch vụ, giúp địa phương phát triển kinh tế.</h3>
+	</div><div class="clear"></div>
 </div>
 
 
@@ -1541,16 +1580,16 @@ ol, ul{line-height:24px; margin-left:20px;}
 <div class="decoration"></div>
 <div class="footer center-text">
 	<amp-img alt="thuong mai truc tuyen brvt" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/bandothuongmaibrvt.jpg" width="700" height="278" layout="responsive"></amp-img>
-	<amp-social-share type="facebook" width="43" height="40" class="custom-news-share" data-param-app_id="1358757170982151" data-param-href="https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/san-pham-khoanh-khac.amp.html" data-param-quote="Giá 5 gói sản phẩm bootstrap khoảnh khắc gồm website việc làm careers, website tin tức globo, website khuyến mãi koupon, website bạn tình chatroom, website kinh tế salesman">
+	<amp-social-share type="facebook" width="43" height="40" class="custom-news-share" data-param-app_id="1358757170982151" data-param-href="https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/bootstrap-khoanh-khac.amp.html" data-param-quote="Giá website bootstrap khoảnh khắc việc làm careers, điểm tin globo, khuyến mãi koupon, tìm bạn chatroom, bán hàng salesman">
 		<i class="fa fa-facebook"></i>
 	</amp-social-share>
-	<amp-social-share type="twitter" width="43" height="40" class="custom-news-share" data-param-text="Giá 5 gói sản phẩm bootstrap khoảnh khắc gồm website việc làm careers, website tin tức globo, website khuyến mãi koupon, website bạn tình chatroom, website kinh tế salesman #sanpham #khoanh #khac" data-param-url="https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/san-pham-khoanh-khac.amp.html">
+	<amp-social-share type="twitter" width="43" height="40" class="custom-news-share" data-param-text="Giá website bootstrap khoảnh khắc việc làm careers, điểm tin globo, khuyến mãi koupon, tìm bạn chatroom, bán hàng salesman #bootstrap #khoanh #khac" data-param-url="https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/bootstrap-khoanh-khac.amp.html">
 		<i class="fa fa-twitter"></i>
 	</amp-social-share>
-	<amp-social-share type="pinterest" width="43" height="40" class="custom-news-share" data-param-media="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/websitebootstrapv4.jpg" data-param-url="https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/san-pham-khoanh-khac.amp.html" data-param-description="Giá 5 gói sản phẩm bootstrap khoảnh khắc gồm website việc làm careers, website tin tức globo, website khuyến mãi koupon, website bạn tình chatroom, website kinh tế salesman #sanpham #khoanh #khac">
+	<amp-social-share type="pinterest" width="43" height="40" class="custom-news-share" data-param-media="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/websitebootstrapv4.jpg" data-param-url="https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/bootstrap-khoanh-khac.amp.html" data-param-description="Giá website bootstrap khoảnh khắc việc làm careers, điểm tin globo, khuyến mãi koupon, tìm bạn chatroom, bán hàng salesman #bootstrap #khoanh #khac">
 		<i class="fa fa-pinterest"></i>
 	</amp-social-share>
-	<amp-social-share type="tumblr" width="43" height="40" class="custom-news-share" data-param-url="https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/san-pham-khoanh-khac.amp.html" data-param-text="Giá 5 gói sản phẩm bootstrap khoảnh khắc gồm website việc làm careers, website tin tức globo, website khuyến mãi koupon, website bạn tình chatroom, website kinh tế salesman">
+	<amp-social-share type="tumblr" width="43" height="40" class="custom-news-share" data-param-url="https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/bootstrap-khoanh-khac.amp.html" data-param-text="Giá website bootstrap khoảnh khắc việc làm careers, điểm tin globo, khuyến mãi koupon, tìm bạn chatroom, bán hàng salesman">
 		<i class="fa fa-tumblr"></i>
 	</amp-social-share>
 	<a href="#"><i class="fa fa-chevron-up"></i></a>
