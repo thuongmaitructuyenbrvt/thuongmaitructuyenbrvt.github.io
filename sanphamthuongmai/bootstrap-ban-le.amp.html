@@ -5,12 +5,34 @@
 <script type="application/ld+json">
 {
 	"@context":"https://schema.org",
-	"@type":"ProfessionalService",
+	"@type":"FinancialService",
 	"image":"https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/websitebootstrapv4.jpg",
 	"name":"bootstrap bán lẻ",
 	"description":"Giá website bootstrap bán lẻ tạp hóa martfury, phụ tùng autima, thời trang goodwin, mỹ phẩm multikart, điện máy stroyka",
 	"priceRange":"$$",
+	"paymentAccepted":"Cash, Credit Card",
 	"telephone":"+84 869202254",
+	"geo":
+	{
+		"@type":"GeoCoordinates",
+		"latitude":10.5108216,
+		"longitude":107.1894638
+	},
+	"openingHoursSpecification":
+	[
+		{
+			"@type":"OpeningHoursSpecification",
+			"dayOfWeek":["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+			"opens":"07:30",
+			"closes":"17:00"
+		},
+		{
+			"@type":"OpeningHoursSpecification",
+			"dayOfWeek":["Sunday"],
+			"opens":"09:00",
+			"closes":"16:00"
+		}
+	],
 	"address":
 	{
 		"@type":"PostalAddress",
@@ -57,19 +79,21 @@
 				"position":1,
 				"item":
 				{
-					"@type":"Offer",
-					"image":"https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhhoangthinhphat/retailstroyka.jpg",
+					"@type":"Course",
+					"@id":"bootstrapdienmay",
 					"url":"https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/bootstrap-ban-le.amp.html#bootstrapdienmay",
 					"name":"bootstrap điện máy",
-					"price":3000000,
-					"priceCurrency":"VND",
-					"availability":"InStock",
-					"itemCondition":"New",
 					"description":"Website bán lẻ bootstrap điện máy stroyka cho phép  xây dựng siêu thị điện máy đa dạng thiết bị tiêu dùng",
-					"seller":
+					"provider":
 					{
 						"@type":"Organization",
 						"name":"ThươngMạiBRVT"
+					},
+					"offers":
+					{
+						"@type":"Offer",
+						"price":3000000,
+						"priceCurrency":"VND"
 					}
 				}
 			},
@@ -78,19 +102,21 @@
 				"position":2,
 				"item":
 				{
-					"@type":"Offer",
-					"image":"https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhhoangthinhphat/retailmultikart.jpg",
+					"@type":"Course",
+					"@id":"bootstrapmypham",
 					"url":"https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/bootstrap-ban-le.amp.html#bootstrapmypham",
 					"name":"bootstrap mỹ phẩm",
-					"price":3000000,
-					"priceCurrency":"VND",
-					"availability":"InStock",
-					"itemCondition":"New",
 					"description":"Website bán lẻ bootstrap mỹ phẩm multikart cho phép kinh doanh mặt hàng mỹ phẩm làm đẹp không chỉ dành cho thiếu nữ",
-					"seller":
+					"provider":
 					{
 						"@type":"Organization",
 						"name":"ThươngMạiBRVT"
+					},
+					"offers":
+					{
+						"@type":"Offer",
+						"price":3000000,
+						"priceCurrency":"VND"
 					}
 				}
 			},
@@ -99,19 +125,21 @@
 				"position":3,
 				"item":
 				{
-					"@type":"Offer",
-					"image":"https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhhoangthinhphat/retailmartfury.jpg",
+					"@type":"Course",
+					"@id":"bootstraptaphoa",
 					"url":"https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/bootstrap-ban-le.amp.html#bootstraptaphoa",
 					"name":"bootstrap tạp hóa",
-					"price":3000000,
-					"priceCurrency":"VND",
-					"availability":"InStock",
-					"itemCondition":"New",
 					"description":"Website bán lẻ bootstrap tạp hóa martfury cho phép thoải mái bán hàng trực tuyến đa kênh, đa sản phẩm",
-					"seller":
+					"provider":
 					{
 						"@type":"Organization",
 						"name":"ThươngMạiBRVT"
+					},
+					"offers":
+					{
+						"@type":"Offer",
+						"price":3000000,
+						"priceCurrency":"VND"
 					}
 				}
 			},
@@ -120,19 +148,21 @@
 				"position":4,
 				"item":
 				{
-					"@type":"Offer",
-					"image":"https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhhoangthinhphat/retailgoodwin.jpg",
+					"@type":"Course",
+					"@id":"bootstrapthoitrang",
 					"url":"https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/bootstrap-ban-le.amp.html#bootstrapthoitrang",
 					"name":"bootstrap thời trang",
-					"price":3000000,
-					"priceCurrency":"VND",
-					"availability":"InStock",
-					"itemCondition":"New",
 					"description":"Website bán lẻ bootstrap thời trang goodwin cho phép giới thiệu những mẫu thời trang mới, những cuốn tạp chí phong cách thời trang đến người dùng",
-					"seller":
+					"provider":
 					{
 						"@type":"Organization",
 						"name":"ThươngMạiBRVT"
+					},
+					"offers":
+					{
+						"@type":"Offer",
+						"price":3000000,
+						"priceCurrency":"VND"
 					}
 				}
 			},
@@ -141,19 +171,21 @@
 				"position":5,
 				"item":
 				{
-					"@type":"Offer",
-					"image":"https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhhoangthinhphat/retailautima.jpg",
+					"@type":"Course",
+					"@id":"bootstrapphutung",
 					"url":"https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/bootstrap-ban-le.amp.html#bootstrapphutung",
 					"name":"bootstrap phụ tùng",
-					"price":3000000,
-					"priceCurrency":"VND",
-					"availability":"InStock",
-					"itemCondition":"New",
 					"description":"Website bán lẻ bootstrap phụ tùng autima cho phép kinh doanh phụ tùng xe nhiều loại",
-					"seller":
+					"provider":
 					{
 						"@type":"Organization",
 						"name":"ThươngMạiBRVT"
+					},
+					"offers":
+					{
+						"@type":"Offer",
+						"price":3000000,
+						"priceCurrency":"VND"
 					}
 				}
 			}
