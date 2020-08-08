@@ -5,12 +5,34 @@
 <script type="application/ld+json">
 {
 	"@context":"https://schema.org",
-	"@type":"ProfessionalService",
+	"@type":"FinancialService",
 	"image":"https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/websitebootstrapv4.jpg",
 	"name":"bootstrap phi lợi nhuận",
 	"description":"Giá website bootstrap phi lợi nhuận đại học unialumni, từ thiện helpo, tôn giáo churhius, tổ chức charitypoint, chứng khoán alchemists",
 	"priceRange":"$$",
+	"paymentAccepted":"Cash, Credit Card",
 	"telephone":"+84 869202254",
+	"geo":
+	{
+		"@type":"GeoCoordinates",
+		"latitude":10.5108216,
+		"longitude":107.1894638
+	},
+	"openingHoursSpecification":
+	[
+		{
+			"@type":"OpeningHoursSpecification",
+			"dayOfWeek":["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+			"opens":"07:30",
+			"closes":"17:00"
+		},
+		{
+			"@type":"OpeningHoursSpecification",
+			"dayOfWeek":["Sunday"],
+			"opens":"09:00",
+			"closes":"16:00"
+		}
+	],
 	"address":
 	{
 		"@type":"PostalAddress",
@@ -28,17 +50,22 @@
 	"makesOffer":
 	{
 		"@type":"Offer",
-		"priceSpecification":"DeliveryChargeSpecification",
-		"eligibleTransactionVolume":
+		"priceSpecification":
 		{
-			"@type":"PriceSpecification",
-			"price":3000000,
-			"priceCurrency":"VND"
-		},
-		"eligibleRegion":
-		{
-			"@type":"GeoCircle",
-			"geoRadius":"5000"
+			"@type":"DeliveryChargeSpecification",
+			"appliesToDeliveryMethod":"DeliveryModeOwnFleet",
+			"eligibleTransactionVolume":
+			{
+				"@type":"PriceSpecification",
+				"price":3000000,
+				"priceCurrency":"VND"
+			},
+			"eligibleRegion":
+			{
+				"@type":"GeoCircle",
+				"@id":"https://g.page/thuongmaibrvt",
+				"geoRadius":"5000"
+			}
 		}
 	},
 	"aggregateRating":
@@ -50,6 +77,7 @@
 	"hasOfferCatalog":
 	{
 		"@type":"OfferCatalog",
+		"name":"phi lợi nhuận",
 		"itemListElement":
 		[
 			{
@@ -57,19 +85,21 @@
 				"position":1,
 				"item":
 				{
-					"@type":"Offer",
-					"image":"https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/nonprofitunialumni.jpg",
+					"@type":"Course",
+					"@id":"bootstrapdaihoc",
 					"url":"https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/bootstrap-phi-loi-nhuan.amp.html#bootstrapdaihoc",
 					"name":"bootstrap đại học",
-					"price":3000000,
-					"priceCurrency":"VND",
-					"availability":"InStock",
-					"itemCondition":"New",
 					"description":"Website phi lợi nhuận bootstrap đại học unialumni cho phép các trường cao đẳng, đại học trong và ngoài nước khai thác giải pháp chiêu sinh, giảng dạy trực tuyến",
-					"seller":
+					"provider":
 					{
 						"@type":"Organization",
 						"name":"ThươngMạiBRVT"
+					},
+					"offers":
+					{
+						"@type":"Offer",
+						"price":3000000,
+						"priceCurrency":"VND"
 					}
 				}
 			},
@@ -78,19 +108,21 @@
 				"position":2,
 				"item":
 				{
-					"@type":"Offer",
-					"image":"https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/nonprofithelpo.jpg",
+					"@type":"Course",
+					"@id":"bootstraptuthien",
 					"url":"https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/bootstrap-phi-loi-nhuan.amp.html#bootstraptuthien",
 					"name":"bootstrap từ thiện",
-					"price":3000000,
-					"priceCurrency":"VND",
-					"availability":"InStock",
-					"itemCondition":"New",
 					"description":"Website phi lợi nhuận bootstrap từ thiện helpo cho phép cá nhân các mạnh thường quân liên kết cùng doanh nghiệp kêu gọi chung tay cải thiện an sinh xã hội",
-					"seller":
+					"provider":
 					{
 						"@type":"Organization",
 						"name":"ThươngMạiBRVT"
+					},
+					"offers":
+					{
+						"@type":"Offer",
+						"price":3000000,
+						"priceCurrency":"VND"
 					}
 				}
 			},
@@ -99,19 +131,21 @@
 				"position":3,
 				"item":
 				{
-					"@type":"Offer",
-					"image":"https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/nonprofitchurhius.jpg",
+					"@type":"Course",
+					"@id":"bootstraptongiao",
 					"url":"https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/bootstrap-phi-loi-nhuan.amp.html#bootstraptongiao",
 					"name":"bootstrap tôn giáo",
-					"price":3000000,
-					"priceCurrency":"VND",
-					"availability":"InStock",
-					"itemCondition":"New",
 					"description":"Website phi lợi nhuận bootstrap tôn giáo churhius cho phép quản lý kinh sách, thơ ca hay video chỉ dạy con người sống nhân đức cải thiện chất lượng văn minh xã hội",
-					"seller":
+					"provider":
 					{
 						"@type":"Organization",
 						"name":"ThươngMạiBRVT"
+					},
+					"offers":
+					{
+						"@type":"Offer",
+						"price":3000000,
+						"priceCurrency":"VND"
 					}
 				}
 			},
@@ -120,19 +154,21 @@
 				"position":4,
 				"item":
 				{
-					"@type":"Offer",
-					"image":"https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/nonprofitcharitypoint.jpg",
+					"@type":"Course",
+					"@id":"bootstraptochuc",
 					"url":"https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/bootstrap-phi-loi-nhuan.amp.html#bootstraptochuc",
 					"name":"bootstrap tổ chức",
-					"price":3000000,
-					"priceCurrency":"VND",
-					"availability":"InStock",
-					"itemCondition":"New",
 					"description":"Website phi lợi nhuận bootstrap tổ chức charitypoint cho phép quản lý chính sách an sinh xã hội, chăm lo thăm hỏi gia đình chính sách, gia đình nghèo",
-					"seller":
+					"provider":
 					{
 						"@type":"Organization",
 						"name":"ThươngMạiBRVT"
+					},
+					"offers":
+					{
+						"@type":"Offer",
+						"price":3000000,
+						"priceCurrency":"VND"
 					}
 				}
 			},
@@ -141,19 +177,21 @@
 				"position":5,
 				"item":
 				{
-					"@type":"Offer",
-					"image":"https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/nonprofitalchemists.jpg",
+					"@type":"Course",
+					"@id":"bootstrapchungkhoan",
 					"url":"https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/bootstrap-phi-loi-nhuan.amp.html#bootstrapchungkhoan",
 					"name":"bootstrap chứng khoán",
-					"price":3000000,
-					"priceCurrency":"VND",
-					"availability":"InStock",
-					"itemCondition":"New",
 					"description":"Website phi lợi nhuận bootstrap chứng khoán alchemists cho phép thoải mái đầu tư mua bán, theo dõi và đấu giá chứng khoán",
-					"seller":
+					"provider":
 					{
 						"@type":"Organization",
 						"name":"ThươngMạiBRVT"
+					},
+					"offers":
+					{
+						"@type":"Offer",
+						"price":3000000,
+						"priceCurrency":"VND"
 					}
 				}
 			}
