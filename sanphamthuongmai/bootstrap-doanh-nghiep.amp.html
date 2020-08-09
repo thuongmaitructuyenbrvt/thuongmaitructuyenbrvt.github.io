@@ -5,12 +5,36 @@
 <script type="application/ld+json">
 {
 	"@context":"https://schema.org",
-	"@type":"ProfessionalService",
+	"@type":"FinancialService",
 	"image":"https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/websitebootstrapv4.jpg",
 	"name":"bootstrap doanh nghiệp",
+	"url":"https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/bootstrap-doanh-nghiep.amp.html",
+	"sameAs":"https://m.facebook.com/commerce/products/3207282732690890/",
 	"description":"Giá website bootstrap doanh nghiệp nhà hàng canvas, tạp chí polo, điện máy porto, du lịch townhub, dịch vụ trax",
 	"priceRange":"$$",
+	"paymentAccepted":"Cash, Credit Card",
 	"telephone":"+84 869202254",
+	"geo":
+	{
+		"@type":"GeoCoordinates",
+		"latitude":10.5108216,
+		"longitude":107.1894638
+	},
+	"openingHoursSpecification":
+	[
+		{
+			"@type":"OpeningHoursSpecification",
+			"dayOfWeek":["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+			"opens":"07:30",
+			"closes":"17:00"
+		},
+		{
+			"@type":"OpeningHoursSpecification",
+			"dayOfWeek":["Sunday"],
+			"opens":"09:00",
+			"closes":"16:00"
+		}
+	],
 	"address":
 	{
 		"@type":"PostalAddress",
@@ -28,17 +52,22 @@
 	"makesOffer":
 	{
 		"@type":"Offer",
-		"priceSpecification":"DeliveryChargeSpecification",
-		"eligibleTransactionVolume":
+		"priceSpecification":
 		{
-			"@type":"PriceSpecification",
-			"price":3000000,
-			"priceCurrency":"VND"
-		},
-		"eligibleRegion":
-		{
-			"@type":"GeoCircle",
-			"geoRadius":"5000"
+			"@type":"DeliveryChargeSpecification",
+			"appliesToDeliveryMethod":"DeliveryModeOwnFleet",
+			"eligibleTransactionVolume":
+			{
+				"@type":"PriceSpecification",
+				"price":3000000,
+				"priceCurrency":"VND"
+			},
+			"eligibleRegion":
+			{
+				"@type":"GeoCircle",
+				"@id":"https://g.page/thuongmaibrvt",
+				"geoRadius":"5000"
+			}
 		}
 	},
 	"aggregateRating":
@@ -50,6 +79,7 @@
 	"hasOfferCatalog":
 	{
 		"@type":"OfferCatalog",
+		"name":"doanh nghiệp",
 		"itemListElement":
 		[
 			{
@@ -57,19 +87,21 @@
 				"position":1,
 				"item":
 				{
-					"@type":"Offer",
-					"image":"https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/corporatecanvas.jpg",
+					"@type":"Course",
+					"@id":"bootstrapnhahang",
 					"url":"https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/bootstrap-doanh-nghiep.amp.html#bootstrapnhahang",
 					"name":"bootstrap nhà hàng",
-					"price":3000000,
-					"priceCurrency":"VND",
-					"availability":"InStock",
-					"itemCondition":"New",
 					"description":"Website bootstrap doanh nghiệp nhà hàng canvas cho phép kinh doanh nhà hàng, khu nghỉ dưỡng và quảng bá thế mạnh ẩm thực",
-					"seller":
+					"provider":
 					{
 						"@type":"Organization",
 						"name":"ThươngMạiBRVT"
+					},
+					"offers":
+					{
+						"@type":"Offer",
+						"price":3000000,
+						"priceCurrency":"VND"
 					}
 				}
 			},
@@ -78,19 +110,21 @@
 				"position":2,
 				"item":
 				{
-					"@type":"Offer",
-					"image":"https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/corporatepolo.jpg",
+					"@type":"Course",
+					"@id":"bootstraptapchi",
 					"url":"https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/bootstrap-doanh-nghiep.amp.html#bootstraptapchi",
 					"name":"bootstrap tạp chí",
-					"price":3000000,
-					"priceCurrency":"VND",
-					"availability":"InStock",
-					"itemCondition":"New",
 					"description":"Website bootstrap doanh nghiệp tạp chí polo cho phép giới thiệu sản phẩm mới, quảng bá thương hiệu miễn phí cùng chức năng tin tức google news",
-					"seller":
+					"provider":
 					{
 						"@type":"Organization",
 						"name":"ThươngMạiBRVT"
+					},
+					"offers":
+					{
+						"@type":"Offer",
+						"price":3000000,
+						"priceCurrency":"VND"
 					}
 				}
 			},
@@ -99,19 +133,21 @@
 				"position":3,
 				"item":
 				{
-					"@type":"Offer",
-					"image":"https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/corporateporto.jpg",
+					"@type":"Course",
+					"@id":"bootstrapdienmay",
 					"url":"https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/bootstrap-doanh-nghiep.amp.html#bootstrapdienmay",
 					"name":"bootstrap điện máy",
-					"price":3000000,
-					"priceCurrency":"VND",
-					"availability":"InStock",
-					"itemCondition":"New",
 					"description":"Website bootstrap doanh nghiệp điện máy porto cho phép doanh nghiệp dễ dàng xây dựng hệ thống siêu thị đa dạng mặt hàng sản phẩm điện máy, công nghệ, phụ kiện thời trang hoặc nhu yếu phẩm",
-					"seller":
+					"provider":
 					{
 						"@type":"Organization",
 						"name":"ThươngMạiBRVT"
+					},
+					"offers":
+					{
+						"@type":"Offer",
+						"price":3000000,
+						"priceCurrency":"VND"
 					}
 				}
 			},
@@ -120,19 +156,21 @@
 				"position":4,
 				"item":
 				{
-					"@type":"Offer",
-					"image":"https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/corporatetownhub.jpg",
+					"@type":"Course",
+					"@id":"bootstrapdulich",
 					"url":"https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/bootstrap-doanh-nghiep.amp.html#bootstrapdulich",
 					"name":"bootstrap du lịch",
-					"price":3000000,
-					"priceCurrency":"VND",
-					"availability":"InStock",
-					"itemCondition":"New",
 					"description":"Website bootstrap doanh nghiệp du lịch townhub hỗ trợ địa phương đẩy mạnh giá trị bản đồ kinh tế hoặc giới thiệu tiềm năng văn hóa, thắng cảnh thu hút doanh nghiệp đầu tư phát triển thế mạnh du lịch",
-					"seller":
+					"provider":
 					{
 						"@type":"Organization",
 						"name":"ThươngMạiBRVT"
+					},
+					"offers":
+					{
+						"@type":"Offer",
+						"price":3000000,
+						"priceCurrency":"VND"
 					}
 				}
 			},
@@ -141,19 +179,21 @@
 				"position":5,
 				"item":
 				{
-					"@type":"Offer",
-					"image":"https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/anhsanpham/corporatetrax.jpg",
+					"@type":"Course",
+					"@id":"bootstrapdichvu",
 					"url":"https://thuongmaitructuyenbrvt.github.io/sanphamthuongmai/bootstrap-doanh-nghiep.amp.html#bootstrapdichvu",
 					"name":"bootstrap dịch vụ",
-					"price":3000000,
-					"priceCurrency":"VND",
-					"availability":"InStock",
-					"itemCondition":"New",
 					"description":"Website bootstrap doanh nghiệp dịch vụ trax cho phép kinh doanh dịch vụ chăm sóc khách hàng như tổng đài, giao hàng nhanh, ăn uống, vệ sinh nhà cửa, đặt vé xe, vé máy bay ...",
-					"seller":
+					"provider":
 					{
 						"@type":"Organization",
 						"name":"ThươngMạiBRVT"
+					},
+					"offers":
+					{
+						"@type":"Offer",
+						"price":3000000,
+						"priceCurrency":"VND"
 					}
 				}
 			}
@@ -1477,7 +1517,7 @@ ol, ul{line-height:24px; margin-left:20px;}
 		</em><br>
 		<table style="margin-top:30px;width:100%;">
 			<tr>
-				<th><a style="font-size:17px;" href="https://m.me/thuongmaigithub" target="_blank" class="full-bottom huge-icon fa fa-facebook"> facebook</a></th>
+				<th><a style="font-size:17px;" href="https://m.facebook.com/commerce/products/3751519171573808" target="_blank" class="full-bottom huge-icon fa fa-facebook"> facebook</a></th>
 				<th><a style="font-size:17px;" href="https://www.youtube.com/watch?v=tzdC3wWVmIQ" target="_blank" class="full-bottom huge-icon fa fa-youtube"> youtube</a></th>
 			</tr>
 			<tr>
@@ -1502,7 +1542,7 @@ ol, ul{line-height:24px; margin-left:20px;}
 		</em><br>
 		<table style="margin-top:30px;width:100%;">
 			<tr>
-				<th><a style="font-size:17px;" href="https://m.me/thuongmaigithub" target="_blank" class="full-bottom huge-icon fa fa-facebook"> facebook</a></th>
+				<th><a style="font-size:17px;" href="https://m.facebook.com/commerce/products/2636112083087674" target="_blank" class="full-bottom huge-icon fa fa-facebook"> facebook</a></th>
 				<th><a style="font-size:17px;" href="https://www.youtube.com/watch?v=tzdC3wWVmIQ" target="_blank" class="full-bottom huge-icon fa fa-youtube"> youtube</a></th>
 			</tr>
 			<tr>
@@ -1527,7 +1567,7 @@ ol, ul{line-height:24px; margin-left:20px;}
 		</em><br>
 		<table style="margin-top:30px;width:100%;">
 			<tr>
-				<th><a style="font-size:17px;" href="https://m.me/thuongmaigithub" target="_blank" class="full-bottom huge-icon fa fa-facebook"> facebook</a></th>
+				<th><a style="font-size:17px;" href="https://m.facebook.com/commerce/products/4646912511993521" target="_blank" class="full-bottom huge-icon fa fa-facebook"> facebook</a></th>
 				<th><a style="font-size:17px;" href="https://www.youtube.com/watch?v=tzdC3wWVmIQ" target="_blank" class="full-bottom huge-icon fa fa-youtube"> youtube</a></th>
 			</tr>
 			<tr>
@@ -1552,7 +1592,7 @@ ol, ul{line-height:24px; margin-left:20px;}
 		</em><br>
 		<table style="margin-top:30px;width:100%;">
 			<tr>
-				<th><a style="font-size:17px;" href="https://m.me/thuongmaigithub" target="_blank" class="full-bottom huge-icon fa fa-facebook"> facebook</a></th>
+				<th><a style="font-size:17px;" href="https://m.facebook.com/commerce/products/3104302816292327" target="_blank" class="full-bottom huge-icon fa fa-facebook"> facebook</a></th>
 				<th><a style="font-size:17px;" href="https://www.youtube.com/watch?v=tzdC3wWVmIQ" target="_blank" class="full-bottom huge-icon fa fa-youtube"> youtube</a></th>
 			</tr>
 			<tr>
@@ -1577,7 +1617,7 @@ ol, ul{line-height:24px; margin-left:20px;}
 		</em><br>
 		<table style="margin-top:30px;width:100%;">
 			<tr>
-				<th><a style="font-size:17px;" href="https://m.me/thuongmaigithub" target="_blank" class="full-bottom huge-icon fa fa-facebook"> facebook</a></th>
+				<th><a style="font-size:17px;" href="https://m.me/114372796860874" target="_blank" class="full-bottom huge-icon fa fa-facebook"> facebook</a></th>
 				<th><a style="font-size:17px;" href="https://www.youtube.com/watch?v=tzdC3wWVmIQ" target="_blank" class="full-bottom huge-icon fa fa-youtube"> youtube</a></th>
 			</tr>
 			<tr>
