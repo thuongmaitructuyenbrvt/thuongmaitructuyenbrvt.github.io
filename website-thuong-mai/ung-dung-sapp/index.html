@@ -12,7 +12,7 @@
 
 	<script type="application/ld+json">
 	{
-		"@context": "//schema.org",
+		"@context": "https://schema.org",
 		"@type": "NewsArticle",
 		"headline": "ứng dụng sapp",
 		"articleSection": "World",
@@ -58,8 +58,8 @@
 						"priceCurrency": "VND",
 						"price": 3000000,
 						"priceValidUntil": "2020-10-31",
-						"itemCondition": "//schema.org/New",
-						"availability": "//schema.org/InStock"
+						"itemCondition": "https://schema.org/New",
+						"availability": "https://schema.org/InStock"
 					}
 				}
 			}
@@ -70,7 +70,65 @@
 			"@type": "WebPage",
 			"name": "ung dung sapp",
 			"url": "//thuongmaitructuyenbrvt.github.io/website-thuong-mai/ung-dung-sapp/"
-		}
+		},
+		"hasPart":
+		[
+			{
+				"@context": "https://schema.org",
+				"@type": "FAQPage",
+				"mainEntity":
+				[
+					{
+						"@type": "Question",
+						"name": "nổi bật không đâu có",
+						"image": "//thuongmaitructuyenbrvt.github.io/website-thuong-mai/ung-dung-sapp/img/icon/featured-img/thumb-1.png",
+						"acceptedAnswer": {"@type": "Answer", "text": "<ul><li>Fully functional</li><li>Easy to Customize</li><li>Live Chat</li><li>Responsive Design</li><li>Secure Data</li><li>Help Documentation</li></ul>"}
+					},
+					{
+						"@type": "Question",
+						"name": "phiên bản dùng thử",
+						"acceptedAnswer": {"@type": "Answer", "text": "<ul><li>Install the App</li><li>Setup your profile</li><li>Enjoy the features</li></ul>"}
+					},
+					{
+						"@type": "Question",
+						"name": "thông minh an toàn",
+						"image": "//thuongmaitructuyenbrvt.github.io/website-thuong-mai/ung-dung-sapp/img/welcome/welcome-mockup-2.png",
+						"acceptedAnswer": {"@type": "Answer", "text": "<ul><li>Fully layered</li><li>Customizable design</li><li>Drop ipsum</li><li>Marketing chart</li></ul>"}
+					},
+					{
+						"@type": "Question",
+						"name": "năng suất tuyệt đối",
+						"image": "//thuongmaitructuyenbrvt.github.io/website-thuong-mai/ung-dung-sapp/img/welcome/iphone_x.png",
+						"acceptedAnswer": {"@type": "Answer", "text": "<ul><li>Fully layered dolor sit amet</li><li>Customizable design dolor sit amet</li><li>Drop ipsum dolor sit amet</li><li>Marketing chart dolor sit amet</li></ul>"}
+					},
+					{
+						"@type": "Question",
+						"name": "liên kết kinh doanh",
+						"acceptedAnswer": {"@type": "Answer", "text": "<ul><li>Excellent service & support</li><li>Nice work! Keep it up</li><li>Great support</li></ul>"}
+					},
+					{
+						"@type": "Question",
+						"name": "lựa chọn ứng dụng",
+						"acceptedAnswer": {"@type": "Answer", "text": "<ul><li>Basic $49</li><li>Pro $129</li></ul>"}
+					},
+					{
+						"@type": "Question",
+						"name": "cập nhật báo giá",
+						"acceptedAnswer": {"@type": "Answer", "text": "<a href='//khuongitvtbadboy.business.site/' title='cập nhật báo giá ứng dụng sapp'>nhập thông tin</a>"}
+					},
+					{
+						"@type": "Question",
+						"name": "tương thích mọi thiết bị",
+						"acceptedAnswer": {"@type": "Answer", "text": "<p>&#10032; Ứng dụng sapp tương thích mọi thiết bị</p>"}
+					},
+					{
+						"@type": "Question",
+						"name": "hỏi đáp",
+						"acceptedAnswer": {"@type": "Answer", "text": "<a href='mailto:itvtbadboy@gmail.com' title='hỏi đáp'>email quản lý wiki</a>"}
+					}
+				]
+			}
+		]
 	}
 </script>
 </head>
@@ -260,7 +318,7 @@
                             <form action="//www.google.com/search" method="get" target="_blank" class="subscribe-form d-flex align-items-center">
                                 <input name="q" type="search" class="form-control" placeholder=" tìm trên ứng dụng sapp">
                                 <input name="as_sitesearch" type="hidden" value="thuongmaitructuyenbrvt.github.io/website-thuong-mai/ung-dung-sapp/">
-                                <button type="button" class="btn btn-bordered" onclick="//g.page/thuongmaibrvt?share">BẢN ĐỒ</button>
+                                <button type="button" class="btn btn-bordered" onclick="window.location.href='//g.page/thuongmaibrvt?share';">BẢN ĐỒ</button>
                             </form>
                         </div>
                     </div>
@@ -777,7 +835,7 @@
                             <p class="my-4">By subscribing you will get newsleter, promotions adipisicing elit. Architecto beatae, asperiores tempore repudiandae saepe aspernatur unde voluptate sapiente quia ex.</p>
                             <!-- Subscribe Form -->
                             <form class="subscribe-form">
-								<a class="btn mt-4" href="//khuongitvtbadboy.business.site/" target="_blank" title="cập nhật báo giá ứng dụng sapp">nhập thông tin</a>
+								<button type="button" class="btn btn-lg btn-block" onclick="window.location.href='//khuongitvtbadboy.business.site/';">nhập thông tin</button>
                             </form>
                         </div>
                     </div>
