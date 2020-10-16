@@ -53,11 +53,11 @@
 :: 2.0 IMPORT ALL CSS
 ****************************** */
 @import url(https://storage.googleapis.com/bucketduanwebsite/css/bootstrap-4.3.1/css/bootstrap.min.css);
-@import url(all.min.css);
+@import url(https://storage.googleapis.com/bucketduanwebsite/font/fa-free-5.11.2/css/all.min.css);
 @import url(flaticon.css);
 @import url(animate.min.css);
 @import url(aos.css);
-@import url(owl.carousel.min.css);
+@import url(https://storage.googleapis.com/bucketduanwebsite/owl-carousel-2.3.4/assets/owl.carousel.min.css);
 @import url(slick.css);
 @import url(jquery.fancybox.min.css);
 
@@ -1266,7 +1266,7 @@ img {
 .single-work::after {
     position: absolute;
     content: '\f054';
-    font-size: 45px;
+    font-size: 15px;
     font-weight: 900;
     color: #fff;
     font-family: 'FontAwesome';
