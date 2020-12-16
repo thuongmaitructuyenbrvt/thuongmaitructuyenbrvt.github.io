@@ -71,25 +71,25 @@
 			{
 				"@type": "Question",
 				"name": "chuẩn bị",
-				 "image": "https://drive.google.com/thumbnail?id=1HSEGbBg6WGtjpQ7EDI-1IBXNbX-CEJdZ&sz=w1866-h1268",
+				"image": "https://drive.google.com/thumbnail?id=1HSEGbBg6WGtjpQ7EDI-1IBXNbX-CEJdZ&sz=w1866-h1268",
 				"acceptedAnswer": {"@type": "Answer", "text": "<h3>chuẩn bị usb</h3><p>&#10032;  Chuẩn bị dụng cụ cần thiết trước khi tạo usb bảo mật parrot 64bit đa năng.</p><p>&#10032;  Usb 8gb trở lên, đề cử dung lượng 32gb cho mục đích sử dụng đa năng.</p><p>&#10032;  Phần mềm tạo usb khởi động đa năng winsetupfromusb 1.8.</p><p>&#10032;  Hệ điều hành bảo mật parrot security os 64bit dạng iso (không dùng parrot home).</p><p>&#10032;  Còn lại lựa chọn tùy ý sao cho vừa với usb vì nó cần có ít nhất 1 file gho.</p>"}
 			},
 			{
 				"@type": "Question",
 				"name": "làm sạch",
-				 "image": "https://drive.google.com/thumbnail?id=1_cllu2bqjqo3TuOMNYACFooYmwRoq3Gr&sz=w1866-h1268",
+				"image": "https://drive.google.com/thumbnail?id=1_cllu2bqjqo3TuOMNYACFooYmwRoq3Gr&sz=w1866-h1268",
 				"acceptedAnswer": {"@type": "Answer", "text": "<h3>làm sạch usb</h3><p>&#10032;  Làm sạch usb parrot tránh được những lỗi cơ bản như định dạng, tạo primary partition..., mở command prompt (cmd) bằng quyền admin.</p><p>&#10032; Sử dụng cortana tìm cmd, nhấn chuột phải vào command prompt chọn run as administrator.</p><p>&#10032; diskpart = khởi động diskpart. list volume = tìm usb parrot.</p><p>&#10032; Lưu ý: lệnh list disk liệt kê danh sách các phân vùng bên trong 1 ổ cứng gọi là partition, đừng nhầm lẫn với lệnh liệt kê ổ cứng.</p><p>&#10032; select volume X = chọn usb parrot, X là số phân biệt ổ cứng trong bảng liệt kê.</p><p>&#10032;  clean = làm sạch usb parrot. Lưu ý: nhìn cho kỹ, chọn cho đúng, dữ liệu rất khó phục hồi dưới tác động của lệnh clean.</p><p>&#10032; create partition primary = tạo phân vùng chính primary có khả năng khởi động. active = xác nhận thao tác.</p>"}
 			},
 			{
 				"@type": "Question",
 				"name": "định dạng",
-				 "image": "https://drive.google.com/thumbnail?id=1gq25nBQ_M9dO9cRNDoHHKSLJRaFkpm1O&sz=w1866-h1268",
+				"image": "https://drive.google.com/thumbnail?id=1gq25nBQ_M9dO9cRNDoHHKSLJRaFkpm1O&sz=w1866-h1268",
 				"acceptedAnswer": {"@type": "Answer", "text": "<h3>định dạng usb</h3><p>&#10032; Định dạng usb parrot, tải và quét virus phần mềm winsetupfromusb 1.8.</p><p>&#10032; Chạy winsetupfromusb bằng quyền admin, định dạng usb parrot fat32.</p><p>&#10032; Lưu ý: usb ntfs vẫn chạy được nhưng dễ bị lỗi menu boot đa năng parrot.</p><p>&#10032; Bước này ta có thể dùng re-partitioning của winsetupfromusb để tách usb parrot hoặc cài xong dùng hiren cắt.</p><p>&#10032; Lưu ý: khi cắt không dùng acronis disk director trên usb parrot để cắt chính nó vì sẽ rất lâu.</p>"}
 			},
 			{
 				"@type": "Question",
 				"name": "tạo parrot",
-				 "image": "https://drive.google.com/thumbnail?id=1ezyBtM81w4I7S23zBP_3O46pR1VwN-Hc&sz=w1866-h1268",
+				"image": "https://drive.google.com/thumbnail?id=1ezyBtM81w4I7S23zBP_3O46pR1VwN-Hc&sz=w1866-h1268",
 				"acceptedAnswer": {"@type": "Answer", "text": "<h3>tạo usb parrot</h3><p>&#10032; Chuẩn bị 1 file txt với tên hiển thị của hệ điều hành bảo mật parrot (tự đặt), copy tên sẵn cho bước sau.</p><p>&#10032; Trở về giao diện ban đầu của winsetupfromusb, chọn dòng 4 thêm mã nguồn bảo mật parrot.</p><p>&#10032; Bước này winsetupfromusb sẽ yêu cầu đặt tên cho mã nguồn bảo mật parrot, dùng lệnh paste dán tên đã chuẩn bị.</p><p>&#10032; Lưu ý: nếu có nhiều công cụ khác nhau mà lại làm theo cách này sẽ có lỗi hiển thị danh sách tùy chọn khi đổi tên trong menu.lst. Để khắc phục ta chỉ làm mẫu mã nguồn bảo mật parrot, sau đó chép các file iso vào thư mục iso trong usb.</p><p>&#10032; Sử dụng đoạn mã mẫu của parrot trong menu.lst, chỉ cần sửa title và set iso=/iso/tênfile.iso.</p><p>&#10032; Lưu ý: cách này không có tác dụng với tính năng windows installer nguyên bản iso.</p>"}
 			}
 		]
