@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='UTF-8'>
+        <title>trang tin tức</title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" media="all" />
+        <link rel="stylesheet" href="sorttable.css" type="text/css" media="all" />
+        <script src="jquery.js"></script>
+        <script src="core.js"></script>
+        <script language="javascript" type="text/javascript">
+            $(document).ready(function() {
+                $('#samples').hide()
+                $('.more').click(function(){
+                    $('#samples').show()
+                });
+            });
+        </script>
+    </head>
+    <body>
+		<table id="ttable-trangtintuc">
+			<thead>
+				<tr>
+					<th>Chuyên đề</th>
+					<th>Chú thích:<span style="margin-left:30px;"><input id="filter" style="width:58%;font-family:Roboto" placeholder='tiếng việt có dấu'/></span></th>
+					<th>Xem</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>an ninh mạng parrot</td>
+					<td>Video hd 720p mã nguồn usb an ninh mạng parrot hướng dẫn giải pháp giám sát an ninh mạng doanh nghiệp</td>
+					<td>
+						<img onclick="window.open('https://thuongmaitructuyenbrvt.github.io/news/an-ninh-mang-parrot.html','_blank')" src="https://drive.google.com/thumbnail?id=1ezyBtM81w4I7S23zBP_3O46pR1VwN-Hc&sz=w1866-h1268" width="220px" height="150px">
+					</td>
+				</tr>
+				<tr>
+					<td>thương mại pinterest</td>
+					<td>Khai thác thương mại pinterest xây dựng chiến lược quảng bá hình ảnh sản phẩm đa ngôn ngữ toàn cầu</td>
+					<td>
+						<img onclick="window.open('https://thuongmaitructuyenbrvt.github.io/news/thuong-mai-pinterest.html','_blank')" src="https://drive.google.com/thumbnail?id=1aIp4eUSNBME5WcDZYc9YOUvZfseBLOa4&sz=w1866-h1268" width="220px" height="150px">
+					</td>
+				</tr>
+				<tr>
+					<td>tin tức newsarticle</td>
+					<td>Tin tức thương mại newsarticle đột phá doanh thu dẫn đầu kinh tế, nâng tầm ảnh hưởng từ doanh nghiệp đè bẹp mọi đối thủ cạnh tranh</td>
+					<td>
+						<img onclick="window.open('https://thuongmaitructuyenbrvt.github.io/news/tin-tuc-newsarticle.html','_blank')" src="https://drive.google.com/thumbnail?id=1H-MvyXkHhybm_RoNqZW1iMbozSFYK-oR&sz=w1866-h1268" width="220px" height="150px">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+        <script language="javascript" type="text/javascript">
+            $(document).ready(function() {
+                var mytable = new ttable('ttable-trangtintuc'); 
+                // Styling Parameters
+                mytable.style.table = 'table-default';
+                mytable.style.tablehead = 'head-default';
+                mytable.style.tablebody = 'body-default';
+                mytable.style.tablecaption = 'caption-default';
+                // Hovering Parameters
+                mytable.style.headhover = true;
+                mytable.style.tablehead_hover = 'hoverhead-default';
+                mytable.style.tableheadtd_hover = 'hoverheadtd-default';
+                mytable.style.bodyhover = true;
+                mytable.style.tablebody_hover = 'hoverbody-default';
+                // Highlighting Parameters
+                mytable.highlight.enabled = true;
+                mytable.highlight.style = 'highlight-default';
+                mytable.highlight.onclick = true;
+                mytable.highlight.onclick_style = 'clicklight-default';
+                // Stripped Parameters
+                mytable.style.stripped = true;
+                mytable.style.odd_row = 'odd-default';
+                // Numeration Parameters
+                mytable.style.num = true;
+                mytable.style.num_class = 'num-default';
+                // Sorting Parameters
+                mytable.sorting.enabled = false;
+                mytable.sorting.sortall = false;
+                mytable.sorting.resetnum = false;
+                mytable.sorting.sortedstyle = 'sorted-default';
+                mytable.sorting.clickablestyle = 'clickable-default';
+                mytable.sorting.sortascstyle = 'sortasc-default';
+                mytable.sorting.sortdescstyle = 'sortdesc-default';
+                // Pagination Parameters
+                mytable.pagination.enabled = true;
+                mytable.pagination.rowperpage=5;
+                // Editing Parameters
+                mytable.edit.enabled = false;
+                // Search Parameters
+                mytable.search.enabled = true;
+                mytable.search.inputID = 'filter';
+                mytable.search.casesensitive = false;
+                // Render Table
+                mytable.rendertable();
+                var mytable1 = new ttable('ttable1'); 
+                mytable1.rendertable();
+                var mytable2 = new ttable('ttable2'); 
+                mytable2.sorting.enabled = false;
+                mytable2.pagination.enabled = true;
+                mytable2.pagination.rowperpage=1;
+                mytable2.rendertable();
+                var mytable3 = new ttable('ttable3'); 
+                mytable3.sorting.enabled = true;
+                mytable3.sorting.sortall = true;
+                mytable3.rendertable();
+                var mytable4 = new ttable('ttable4'); 
+                mytable4.edit.enabled = true;
+                mytable4.rendertable();
+                $('#exporttable').click(function() {
+                    alert($('#ttable4').tocsv(','));
+                });
+                var mytable5 = new ttable('ttable5'); 
+                mytable5.search.enabled = true;
+                mytable5.search.inputID = 'searchinput';
+                mytable5.search.casesensitive = false;
+                mytable5.pagination.enabled = true;
+                mytable5.pagination.rowperpage=1;
+                mytable5.rendertable();
+            });
+        </script>
+    </body>
+</html>
